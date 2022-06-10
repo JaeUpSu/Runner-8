@@ -1,0 +1,1557 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 43918,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010001",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196565.3200000003,
+        "y" : 555796.17200000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 43919,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010002",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196602.80120000057,
+        "y" : 555793.40619999729
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 43920,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010003",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196781.90539999958,
+        "y" : 555291.28650000319
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 43921,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010004",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196811.66399999987,
+        "y" : 555857.38360000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 43922,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010005",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196821.81120000221,
+        "y" : 555784.88800000213
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 43923,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010006",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196839.28189999983,
+        "y" : 555779.90040000156
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 43924,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010007",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196844.17203410901,
+        "y" : 555809.76161399484
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 43925,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010008",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196850.54810000118,
+        "y" : 555819.23100000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 43926,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010009",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196854.74080000073,
+        "y" : 555781.87230000272
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 43927,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010010",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196889.43699999992,
+        "y" : 555769.98970000073
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 43928,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010011",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196929.68750000093,
+        "y" : 555756.55939999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 43929,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010012",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196948.61120000016,
+        "y" : 556135.13780000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 43930,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010013",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196964.68319999985,
+        "y" : 555812.24389999919
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 43931,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010014",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 196991.25213495176,
+        "y" : 555776.45804907382
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 43932,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010015",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197014.55531130545,
+        "y" : 554761.69333972782
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 43933,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010016",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197020.69820000138,
+        "y" : 555630.23579999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 43934,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010017",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197026.23940000031,
+        "y" : 555823.10620000213
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 43935,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010018",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197028.81688029133,
+        "y" : 554758.70401374623
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 43936,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010019",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197035.33229999989,
+        "y" : 554848.9924999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 43937,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010020",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197038.26779999956,
+        "y" : 555638.85620000213
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 43938,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010021",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197039.64319999982,
+        "y" : 555738.68600000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 43939,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010022",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197042.25760000013,
+        "y" : 555432.18889999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 43940,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010023",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197051.3339000009,
+        "y" : 555618.9728000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 43941,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010024",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197053.29020000156,
+        "y" : 555650.28410000168
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 43942,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010025",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197055.06630000006,
+        "y" : 555691.23530000262
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 43943,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010026",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197061.76310000103,
+        "y" : 555644.50400000438
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 43944,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010027",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197073.09900000039,
+        "y" : 555560.56590000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 43945,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010028",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197096.27570000011,
+        "y" : 555392.6296000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 43946,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010029",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197104.0447000023,
+        "y" : 555503.25119999982
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 43947,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010030",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197105.22220000066,
+        "y" : 555674.5745000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 43948,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010031",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197127.05090000108,
+        "y" : 555990.90190000273
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 43949,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010032",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197129.91359999962,
+        "y" : 555569.17490000091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 43950,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010033",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197139.5055999998,
+        "y" : 555198.37580000423
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 43951,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010034",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197142.79210000113,
+        "y" : 555763.9597000014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 43952,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010035",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197143.43230000045,
+        "y" : 554734.20140000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 43953,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010036",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197147.95030000061,
+        "y" : 555646.13910000212
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 43954,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010037",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197149.93610000052,
+        "y" : 555697.54530000314
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 43955,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010038",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197156.28280000109,
+        "y" : 555726.83040000126
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 43956,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010039",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197162.63380000088,
+        "y" : 555706.07320000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 43957,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010040",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197164.71509999968,
+        "y" : 555575.317900002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 43958,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010041",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197165.68600000069,
+        "y" : 556272.13670000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 43959,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010042",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197179.31390000042,
+        "y" : 555695.9645000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 43960,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010043",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197203.16079999972,
+        "y" : 555919.4795000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 43961,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010044",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197205.59630000032,
+        "y" : 555664.47080000304
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 43962,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010045",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197213.20400000084,
+        "y" : 555573.17799999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 43963,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010046",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197219.75449999981,
+        "y" : 555665.98600000143
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 43964,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010047",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197236.78440000024,
+        "y" : 555639.23420000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 43965,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010048",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197238.47730000131,
+        "y" : 555677.18979999796
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 43966,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010049",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197252.07340000104,
+        "y" : 555674.18970000185
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 43967,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010050",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197252.59260000009,
+        "y" : 555632.67960000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 43968,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010051",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197273.13280000072,
+        "y" : 555633.26820000447
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 43969,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010052",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197275.09310000017,
+        "y" : 555916.90049999766
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 43970,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010053",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197277.87189999968,
+        "y" : 555574.16060000099
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 43971,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010054",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197279.96040000115,
+        "y" : 555552.50680000149
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 43972,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010055",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197282.01469999924,
+        "y" : 555677.62200000137
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 43973,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010056",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197306.8247000007,
+        "y" : 555675.39040000178
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 43974,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010057",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197357.36020000093,
+        "y" : 556174.34940000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 43975,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010058",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197372.09900000226,
+        "y" : 555435.63160000183
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 43976,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010059",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197377.45110000018,
+        "y" : 555277.9272000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 43977,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010060",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197389.03890000004,
+        "y" : 555683.80189999938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 43978,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010061",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197450.27590000071,
+        "y" : 555498.10459999926
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 43979,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010062",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197540.92020000052,
+        "y" : 555648.90650000237
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 43980,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010063",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197546.80850000121,
+        "y" : 556437.56580000184
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 43981,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010064",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197564.91860000044,
+        "y" : 555654.86270000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 43982,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010065",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197569.16440000013,
+        "y" : 555619.92879999988
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 43983,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010066",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197578.43410000112,
+        "y" : 555603.49690000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 43984,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010067",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197596.04670000076,
+        "y" : 555845.72300000116
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 43985,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010068",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197601.20110000111,
+        "y" : 555603.29509999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 43986,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010069",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197672.50150000025,
+        "y" : 555758.0596000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 43987,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010070",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197699.55120000057,
+        "y" : 556619.85160000436
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 43988,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010071",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197848.22690000106,
+        "y" : 555758.14040000364
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 43989,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010072",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197852.66490000114,
+        "y" : 556575.33290000074
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 43990,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010073",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197870.87339999992,
+        "y" : 555718.53380000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 43991,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010074",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197893.03265562095,
+        "y" : 556256.49970512651
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 43992,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010075",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197932.09990000073,
+        "y" : 556547.21750000119
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 43993,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010076",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 197948.07489230111,
+        "y" : 556525.57331426814
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 43994,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010077",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 198037.88730000146,
+        "y" : 555752.52380000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 43995,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010078",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 198083.45569999982,
+        "y" : 556538.16660000198
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 43996,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010079",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 198322.17440000176,
+        "y" : 555839.91600000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 43997,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010080",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 199029.72460000124,
+        "y" : 556652.84740000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 43998,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010081",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 199270.95390000101,
+        "y" : 556856.06609999947
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 43999,
+        "MNTN_CODE" : "111100101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "북악산",
+        "PAST_SPOT_" : "1111001010082",
+        "MNTN_ID" : "111100101"
+      },
+      "geometry" : {
+        "x" : 199276.35290000029,
+        "y" : 556926.38430000097
+      }
+    }
+  ]
+}

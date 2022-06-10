@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_map">
+
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="com.example.Runner8.ui.map.Fragment_Map"
+        android:label="@string/menu_map"
+        tools:layout="@layout/mapmain" >
+        <action
+            android:id="@+id/action_nav_map_to_nav_home2"
+            app:destination="@id/nav_home"/>
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_community"
+        android:name="com.example.Runner8.ui.community.Fragment.Fragment_Community"
+        android:label="@string/menu_community"
+        android:transitionName="share_you"
+        tools:layout="@layout/fragment_community" />
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.Runner8.ui.summary.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_map"
+            app:destination="@id/nav_map"/>
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_setting"
+        android:name="com.example.Runner8.ui.user.UserFragment"
+        android:label="@string/menu_setting"
+        tools:layout="@layout/fragment_profile" >
+
+        <action
+            android:id="@+id/action_nav_setting_to_nav_community"
+            app:destination="@id/nav_community" />
+    </fragment>
+
+
+
+</navigation>

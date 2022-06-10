@@ -1,0 +1,1647 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 85951,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치1,2, 운동기구1,2,3,4, 정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010001",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203665.28060000017,
+        "y" : 560548.86290000379
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 85952,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010002",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203679.43400000129,
+        "y" : 560460.75060000084
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 85953,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010003",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203713.24760000128,
+        "y" : 560527.39420000091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 85954,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010004",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203762.29200000037,
+        "y" : 560545.24100000225
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 85955,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010005",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203777.78840000089,
+        "y" : 560547.88079999946
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 85956,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010006",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203780.23710000049,
+        "y" : 560547.64930000342
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 85957,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구,운동기구,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010007",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203781.59389999975,
+        "y" : 560524.53190000169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 85958,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010008",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203825.93919999897,
+        "y" : 560497.89889999852
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 85959,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010009",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203863.3900000006,
+        "y" : 560503.5075000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 85960,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010010",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203871.98099999968,
+        "y" : 560498.1622999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 85961,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "생태육교",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010011",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203822.49770000018,
+        "y" : 560485.53360000253
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 85962,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010012",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203878.08180000167,
+        "y" : 560471.02810000069
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 85963,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010013",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203924.55090000015,
+        "y" : 560303.4181999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 85964,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "모래주머니저장소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010014",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203934.48859999981,
+        "y" : 560188.85590000451
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 85965,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010015",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203942.94980000053,
+        "y" : 560176.98920000158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 85966,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010016",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203951.63220000081,
+        "y" : 560151.54949999973
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 85967,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010017",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203960.72900000028,
+        "y" : 560110.18320000172
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 85968,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010018",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203963.07920000143,
+        "y" : 560099.70900000259
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 85969,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010019",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203965.10810000077,
+        "y" : 560064.75840000249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 85970,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010020",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203968.00730000064,
+        "y" : 560035.4366999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 85971,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구,벤치,목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010021",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204073.35870000068,
+        "y" : 559964.06830000132
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 85972,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자,이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010022",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204097.60680000111,
+        "y" : 559953.89340000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 85973,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "22",
+        "MANAGE_SP2" : "헬기장",
+        "DETAIL_SPO" : "헬기장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010023",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204113.72570000123,
+        "y" : 560030.78180000186
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 85974,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010024",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204314.50780000165,
+        "y" : 560294.1603000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 85975,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010025",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204352.38750000019,
+        "y" : 560385.58269999921
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 85976,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010026",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204342.85470000003,
+        "y" : 560394.69470000267
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 85977,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010027",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204324.2650000006,
+        "y" : 560408.00699999928
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 85978,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판, 출입구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010028",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204306.18240000028,
+        "y" : 560413.64450000226
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 85979,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010029",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203989.32419999968,
+        "y" : 560504.04160000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 85980,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010030",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203983.93340000231,
+        "y" : 560499.88990000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 85981,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "족구장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010031",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203962.03659999929,
+        "y" : 560454.2014000006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 85982,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010032",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203836.24400000181,
+        "y" : 560800.89499999769
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 85983,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010033",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203827.17680000048,
+        "y" : 560892.97250000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 85984,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010034",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203768.87900000066,
+        "y" : 559888.11360000446
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 85985,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010035",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203836.37820000015,
+        "y" : 559920.46330000274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 85986,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010036",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203871.64969999995,
+        "y" : 559925.05690000206
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 85987,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010037",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203908.07500000112,
+        "y" : 559930.03260000423
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 85988,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,운동기구,다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010038",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203922.96949999966,
+        "y" : 559909.47990000062
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 85989,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "초원우약수터,그늘막,운동기구,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010039",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203916.71829999983,
+        "y" : 559940.52119999938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 85990,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010040",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203946.19980000146,
+        "y" : 559985.84090000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 85991,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "개나리배드민턴장,그늘막,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010041",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204011.92330000084,
+        "y" : 560031.01090000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 85992,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,운동기구,안내판,초원중약수터,가림막",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010042",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203896.09009999968,
+        "y" : 559977.70500000194
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 85993,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "초원좌약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010043",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203898.41500000004,
+        "y" : 560083.50970000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 85994,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010044",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203563.04860000126,
+        "y" : 560810.08630000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 85995,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010045",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203601.88220000081,
+        "y" : 560877.09820000082
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 85996,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010046",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203674.81510000024,
+        "y" : 560535.01109999977
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 85997,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010047",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203680.5727000013,
+        "y" : 560457.61030000076
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 85998,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010048",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203688.98139999993,
+        "y" : 560509.14719999954
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 85999,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010049",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203701.19660000037,
+        "y" : 560461.69060000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 86000,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010050",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203708.18340000138,
+        "y" : 560526.10580000281
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 86001,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010051",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203724.80230000056,
+        "y" : 560368.2386000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 86002,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010052",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203752.7165000001,
+        "y" : 559985.49960000254
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 86003,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010053",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203760.59740000032,
+        "y" : 559869.80240000039
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 86004,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010054",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203774.81439999957,
+        "y" : 560554.44439999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 86005,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010055",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203804.96470000222,
+        "y" : 560487.4699000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 86006,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010056",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203834.92480000108,
+        "y" : 559317.84290000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 86007,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010057",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203843.64960000105,
+        "y" : 560578.02019999921
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 86008,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010058",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203855.29530000035,
+        "y" : 560510.46060000174
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 86009,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010059",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203876.83540000021,
+        "y" : 560478.56300000288
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 86010,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010060",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203877.03840000089,
+        "y" : 560440.50570000149
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 86011,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010061",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203878.57900000084,
+        "y" : 560432.33300000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 86012,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010062",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203897.36130000092,
+        "y" : 560420.39130000398
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 86013,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010063",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203905.10280000046,
+        "y" : 559930.0820000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 86014,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010064",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203909.90419999976,
+        "y" : 560449.17870000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 86015,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010065",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203916.77290000208,
+        "y" : 559966.41990000382
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 86016,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010066",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203968.30430000089,
+        "y" : 560050.56030000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 86017,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010067",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203978.77960000094,
+        "y" : 560002.33430000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 86018,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010068",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203985.46420000214,
+        "y" : 560526.33080000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 86019,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010069",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204014.57430000138,
+        "y" : 560039.10580000095
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 86020,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010070",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204111.32350000087,
+        "y" : 560032.99789999984
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 99526,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010071",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203807.09499999954,
+        "y" : 560487.88020000164
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 99527,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "생태육교",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010072",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203877.17609999995,
+        "y" : 560477.73520000093
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 99528,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010073",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203879.39979999958,
+        "y" : 560436.75620000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 99529,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "출입구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010074",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203896.32529999898,
+        "y" : 560421.09789999959
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 99530,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010075",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203970.28720000011,
+        "y" : 560048.01549999963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 99531,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등), 벤치, 목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010076",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204106.42990000095,
+        "y" : 559974.19700000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 99532,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자, 이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010077",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204115.94809999908,
+        "y" : 560024.84750000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 99533,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "22",
+        "MANAGE_SP2" : "헬기장",
+        "DETAIL_SPO" : "헬기장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010078",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204095.74769999922,
+        "y" : 560108.00680000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 99534,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010079",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 204095.45110000085,
+        "y" : 560528.11399999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 99535,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도, 기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010080",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203986.54469999977,
+        "y" : 560546.05290000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 99536,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010081",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203832.78890000083,
+        "y" : 560770.3329000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 99537,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "족구장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010082",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203860.89340000035,
+        "y" : 560765.10840000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 99538,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010083",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203779.19669999953,
+        "y" : 560801.18509999977
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 99539,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010084",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203899.75270000001,
+        "y" : 559929.1912999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 99540,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치, 운동기구, 다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010085",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203915.52180000095,
+        "y" : 559967.44360000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 99541,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "개나리배드민턴장, 그늘막, 운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010086",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203971.16819999937,
+        "y" : 560046.56459999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 99542,
+        "MNTN_CODE" : "113500301",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치, 운동기구, 안내판, 초원중약수터, 가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "초안산",
+        "PAST_SPOT_" : "1135003010087",
+        "MNTN_ID" : "113500301"
+      },
+      "geometry" : {
+        "x" : 203886.92959999939,
+        "y" : 560076.14550000057
+      }
+    }
+  ]
+}

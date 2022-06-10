@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sothree.slidinguppanel.SlidingUpPanelLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    tools:context=".MapActivity"
+    android:gravity="bottom"
+    app:umanoDragView="@id/dragView"
+    app:umanoPanelHeight="17dp"
+    app:umanoOverlay="false"
+    app:umanoParallaxOffset="200dp"
+    app:umanoShadowHeight="10dp"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/board_content2">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="right"
+            android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:text="모든 시설 마커 표시"/>
+        <CheckBox
+            android:id="@+id/river_checkBox"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginRight="10dp"/>
+        </LinearLayout>
+        <HorizontalScrollView
+            android:id="@+id/moun_listScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="105dp"
+            android:scrollbars="none"
+            android:overScrollMode="never"
+            android:fillViewport="true"
+            android:visibility="visible">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/mounList_Course"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </HorizontalScrollView>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/moun_coursePick"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="18dp"
+                android:text="선택완료"/>
+            <TextView
+                android:id="@+id/moun_courseCancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="15dp"
+                android:text="취  소"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="35dp">
+
+        <View
+            android:id="@+id/view_park"
+            android:layout_margin="10dp"
+            android:layout_width="160dp"
+            android:layout_height="60dp"
+            android:background="@drawable/board_content2">
+        </View>
+        <TextView
+            android:id="@+id/park_lastTime"
+            android:layout_margin="14dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="남은시간 : 1시간 20분"
+            android:textSize="16sp"/>
+        <TextView
+            android:id="@+id/park_lastDist"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="14dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="남은거리 : 1.24 km"
+            android:textSize="16sp"/>
+
+        <LinearLayout
+            android:id="@+id/parkMap"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" />
+    </FrameLayout>
+</LinearLayout>
+    <LinearLayout
+        android:background="@drawable/customborder"
+        android:backgroundTint="#FFFDEF"
+        android:id="@+id/dragView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="false"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/video2"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="test중..."
+            android:textSize="20sp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="아아아아~~~"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
+</com.sothree.slidinguppanel.SlidingUpPanelLayout>

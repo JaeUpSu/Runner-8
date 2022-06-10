@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/myFragement"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <com.truizlop.fabreveallayout.FABRevealLayout
+        android:id="@+id/fab_reveal_layout"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        >
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_direct"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:backgroundTint="#FFFFFF"
+            android:src="@drawable/jikjub"/>
+
+        <FrameLayout
+            android:id="@+id/myKcalResult"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginLeft="5dp"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:text="F O O D"
+                        android:textSize="17sp"
+                        android:textStyle="bold"/>
+                    <com.google.android.material.progressindicator.CircularProgressIndicator
+                        android:id="@+id/foodKcalProgress"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+
+                        app:indicatorSize="90dp"
+                        app:indicatorColor="#49B2FB"
+                        app:trackColor="#606060"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/foodInformation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/goal_foodKcal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="35dp"
+                        android:text="1240 kcal \n (적정)"
+                        android:textColor="#606060"
+                        android:textStyle="bold"
+                        android:textSize="17.5sp"/>
+                    <TextView
+                        android:id="@+id/txt_foodKcal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:text="840 kcal \n (현재)"
+                        android:textColor="#606060"
+                        android:textStyle="bold"
+                        android:textSize="17.5sp"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:text="H E A L T H"
+                        android:textSize="17sp"
+                        android:textStyle="bold"/>
+
+                    <com.google.android.material.progressindicator.CircularProgressIndicator
+                        android:id="@+id/healthKcalProgress"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        app:indicatorSize="90dp"
+                        app:indicatorColor="#49B2FB"
+                        app:trackColor="#606060"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/healthInformation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/goal_healthKcal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="35dp"
+                        android:textSize="17.5sp"
+                        android:textColor="#606060"
+                        android:text="300 kcal \n (적정)"
+                        android:textStyle="bold"/>
+                    <TextView
+                        android:id="@+id/txt_healthKcal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:textSize="17.5sp"
+                        android:textColor="#606060"
+                        android:textStyle="bold"
+                        android:text="240 kcal \n (현재)"/>
+                </LinearLayout>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/direct_KcalInput"
+            android:background="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/txt_directTitle"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="직접 입력"
+                    android:textColor="#CACACA"
+                    android:textSize="21sp"
+                    android:textStyle="bold"/>
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/txt_directName"
+                    android:layout_height="wrap_content"
+                    android:layout_width="100dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:layout_marginTop="55dp"
+                    android:hint=" 이름"
+                    android:textSize="22sp"
+                    android:textColorHint="@color/white"
+                    android:textColor="@color/white"
+                    android:background="#CACACA"/>
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/txt_directKcal"
+                    android:layout_height="wrap_content"
+                    android:layout_width="100dp"
+                    android:layout_marginTop="100dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:hint=" 열량"
+                    android:inputType="number"
+                    android:textSize="22sp"
+                    android:textColorHint="@color/white"
+                    android:textColor="@color/white"
+                    android:background="#CACACA"/>
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_directPro"
+                android:layout_height="wrap_content"
+                android:layout_width="100dp"
+                android:layout_marginHorizontal="140dp"
+                android:layout_marginTop="55dp"
+                android:hint=" 단백질"
+                android:textSize="22sp"
+                android:textColorHint="@color/white"
+                android:textColor="@color/white"
+                android:background="#CACACA"/>
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_directCar"
+                android:layout_height="wrap_content"
+                android:layout_width="100dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginHorizontal="140dp"
+                android:hint=" 탄수화물"
+                android:inputType="number"
+                android:textSize="22sp"
+                android:textColorHint="@color/white"
+                android:textColor="@color/white"
+                android:background="#CACACA"/>
+
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/ibtn_return"
+                    android:layout_width="80dp"
+                    android:layout_height="45dp"
+                    android:layout_marginTop="72dp"
+                    android:layout_marginLeft="260dp"
+                    android:gravity="center"
+                    android:text="추가하기"
+                    android:textStyle="bold"
+                    android:textColor="#4a4a4a"
+                    android:background="@drawable/board_content2"/>
+
+                <TextView
+                    android:id="@+id/btn_DirectCancel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="350dp"
+                    android:layout_marginTop="120dp"
+                    android:text="닫 기"
+                    android:textColor="#49B2FB"
+                    android:textSize="18sp"
+                    android:textStyle="bold"/>
+        </FrameLayout>
+
+    </com.truizlop.fabreveallayout.FABRevealLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="15dp"
+        android:text="칼로리 계산기"
+        android:textColor="#49B2FB"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fab_reveal_layout" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="16dp"
+        android:text="# 1kg is 7000 kcal"
+        android:textColor="#49B2FB"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fab_reveal_layout" />
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/foodLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="200dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/fab_reveal_layout"
+            android:visibility="visible"
+            android:background="@drawable/board_fh2">
+
+            <TextView
+                android:id="@+id/txtfoodTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:text=" F O O D "
+                android:textColor="#393939"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout2"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="15dp"
+                android:background="@drawable/board_content3"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginVertical="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:orientation="vertical">
+                    <ImageButton
+                        android:id="@+id/btn_foodSearch"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:background="@drawable/search"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:text="검 색"
+                        android:textColor="#595959"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginVertical="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:orientation="vertical">
+                    <ImageButton
+                        android:id="@+id/btn_foodGraph"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:background="@drawable/linegraph"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:text="그래프"
+                        android:textColor="#595959"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginVertical="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:orientation="vertical">
+                    <ImageButton
+                        android:id="@+id/btn_foodCart"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:background="@drawable/food_basket"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:text="장바구니"
+                        android:textColor="#595959"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginVertical="5dp"
+                    android:orientation="vertical">
+                    <ImageButton
+                        android:id="@+id/btn_foodZero"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:background="@drawable/zero"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:text="0 Kcal"
+                        android:textColor="#0E94FB"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginVertical="5dp"
+                    android:orientation="vertical">
+                    <ImageButton
+                        android:id="@+id/btn_health"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:background="@drawable/excercise"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:text="HEALTH"
+                        android:textColor="#751010"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+            </LinearLayout>
+        <LinearLayout
+            android:id="@+id/foodLayoutLinear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="15dp"
+            android:layout_marginVertical="10dp"
+            android:orientation="vertical"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="10dp"
+                android:orientation="horizontal">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/foodList1"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="horizontal">
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/foodList2"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/healthLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="200dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fab_reveal_layout"
+        android:background="@drawable/board_fh2">
+
+        <TextView
+            android:id="@+id/txthealthTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:text=" H E A L T H "
+            android:textColor="#393939"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/board_content3"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="5dp"
+                android:layout_marginLeft="8dp"
+                android:orientation="vertical">
+                <ImageButton
+                    android:id="@+id/btn_healthList"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:background="@drawable/list"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="리스트"
+                    android:textColor="#595959"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="5dp"
+                android:layout_marginLeft="5dp"
+                android:orientation="vertical">
+                <ImageButton
+                    android:id="@+id/btn_healthGraph"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:background="@drawable/linegraph"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="그래프"
+                    android:textColor="#595959"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginVertical="5dp"
+                android:orientation="vertical">
+                <ImageButton
+                    android:id="@+id/btn_healthZero"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:background="@drawable/zero"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="0 Kcal"
+                    android:textColor="#0E94FB"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="7dp"
+                android:layout_marginVertical="5dp"
+                android:orientation="vertical">
+                <ImageButton
+                    android:id="@+id/btn_food"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:background="@drawable/food"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:text="FOOD"
+                    android:textColor="#1D5A7C"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/healthLayoutLinear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="15dp"
+            android:layout_marginVertical="10dp"
+            android:orientation="vertical"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout3">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/board_custom2"
+                android:orientation="horizontal">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/healthList"
+                    android:layout_gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="40dp"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginBottom="5dp"
+                android:orientation="horizontal">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/inputLayout"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:textColorHint="#979797"
+                    android:background="@drawable/board_content2"
+                    android:hint="시간"
+                    app:hintEnabled="true">
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/txt_healthTime"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:textColor="#595959"
+                        android:textSize="16sp"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btn_inputTime"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_gravity="center"
+                    android:text="입 력"
+                    android:textColor="#393939"
+                    android:background="@drawable/board_content2"/>
+
+                <com.google.android.material.textfield.MaterialAutoCompleteTextView
+                    android:id="@+id/txt_calKcal"
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_gravity="center"
+                    android:text="120 Kcal"
+                    android:textColor="@color/black"
+                    android:textSize="21sp"/>
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btn_input"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:text="저 장"
+                    android:textColor="#393939"
+                    android:background="@drawable/board_content2"/>
+        </LinearLayout>
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

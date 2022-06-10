@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F4D6"
+    android:orientation="vertical"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/detail_et_title"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:backgroundTint="#009688"
+            android:ems="10"
+            android:hint="Title"
+            android:inputType="textPersonName"
+            android:textColor="#FA737070"
+            android:textColorHint="#777373"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.641"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginTop="13dp"
+            android:text="Title : "
+            android:textSize="30sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/detail_et_title"
+            app:layout_constraintHorizontal_bias="0.4"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <EditText
+        android:id="@+id/detail_et_contents"
+        android:layout_width="match_parent"
+        android:layout_height="497dp"
+        android:backgroundTint="#676464"
+        android:ems="10"
+        android:singleLine="true"
+        android:hint="Context"
+        android:inputType="textMultiLine"
+        android:lines="8"
+        android:minLines="6"
+        android:maxLines="10"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/detail_et_title"
+        app:layout_constraintVertical_bias="0.154" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:id="@+id/detail_ib_save"
+            android:layout_width="90dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="100dp"
+            android:backgroundTint="#9A9999"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toEndOf="@+id/detail_ib_back"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.214"
+            app:srcCompat="@android:drawable/ic_menu_save"
+            android:layout_marginLeft="100dp" />
+
+        <ImageButton
+            android:id="@+id/detail_ib_back"
+            android:layout_width="90dp"
+            android:layout_height="75dp"
+            android:backgroundTint="#9A9999"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.211"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.208"
+            app:srcCompat="?attr/actionModeCloseDrawable" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>

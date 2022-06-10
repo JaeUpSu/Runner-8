@@ -1,0 +1,7317 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 18054,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "종점,종점,시멘트계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040001",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205755.8946000021,
+        "y" : 552611.23169999942
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 18055,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040002",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205530.07620000094,
+        "y" : 552749.0222000014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 18056,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040003",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205708.62050000019,
+        "y" : 552691.9114000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 18057,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040004",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205411.21719999984,
+        "y" : 552345.59620000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 18058,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉,철봉,좌분기,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040005",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205409.4199000001,
+        "y" : 552342.55290000141
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 18059,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "평행봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040006",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205406.00920000207,
+        "y" : 552338.16899999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 18060,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "간판,간판,목계단,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040007",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205402.70289999992,
+        "y" : 552332.53859999962
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 18061,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "체육시설,체육시설,벤치,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040008",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205384.68190000113,
+        "y" : 552329.18710000254
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 18062,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040009",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205387.17800000031,
+        "y" : 552328.05380000174
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 18063,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "발지압봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040010",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205388.21900000051,
+        "y" : 552321.46800000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 18064,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040011",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205384.77730000112,
+        "y" : 552319.02830000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 18065,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리운동기계,허리운동기계,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040012",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205379.23970000073,
+        "y" : 552317.13629999943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 18066,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040013",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205518.54509999976,
+        "y" : 552741.59090000205
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 18067,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040014",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205683.6671000002,
+        "y" : 552708.48259999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 18068,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040015",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205375.6810999997,
+        "y" : 552312.37090000138
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 18069,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단,돌계단,분기,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040016",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205380.3386000013,
+        "y" : 552301.18240000121
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 18070,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040017",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205360.66010000091,
+        "y" : 552307.45849999972
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 18071,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝,돌계단끝,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040018",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205331.44790000003,
+        "y" : 552307.95130000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 18072,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "체육시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040019",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205457.09400000051,
+        "y" : 552553.15630000271
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 18073,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "체육시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040020",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205461.77360000089,
+        "y" : 552553.20590000227
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 18074,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "단상",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040021",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205466.17059999984,
+        "y" : 552555.1436999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 18075,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "거울,거울,시계",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040022",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205469.22059999872,
+        "y" : 552556.23420000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 18076,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "발지압봉,발지압봉,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040023",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205472.79090000037,
+        "y" : 552554.30160000175
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 18077,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리운동기계",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040024",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205517.94739999902,
+        "y" : 552738.51120000333
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 18078,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040025",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205675.31290000025,
+        "y" : 552706.33610000089
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 18079,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "발지압봉,발지압봉,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040026",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205514.8124000011,
+        "y" : 552731.57840000279
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 18080,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작,목계단시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040027",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205648.09580000024,
+        "y" : 552703.88939999789
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 18081,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "스텝사이클",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040028",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205515.37899999972,
+        "y" : 552726.00630000234
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 18082,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040029",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205642.07670000102,
+        "y" : 552702.95500000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 18083,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "크로스컨트리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040030",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205516.18100000173,
+        "y" : 552722.3694000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 18084,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040031",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205581.47499999963,
+        "y" : 552719.566300001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 18085,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "종점,종점,분기,가로등,목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040032",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205548.91920000035,
+        "y" : 552474.46880000271
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 18086,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040033",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205527.40060000028,
+        "y" : 552474.89060000144
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 18087,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작,목계단시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040034",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205506.48360000085,
+        "y" : 552473.23000000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 18088,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040035",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205500.04710000195,
+        "y" : 552476.04450000264
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 18089,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040036",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205495.21640000027,
+        "y" : 552480.33940000087
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 18090,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "종점,종점,분기,목계단계속",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040037",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205484.66629999969,
+        "y" : 552465.54590000212
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 18091,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040038",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205478.82479999959,
+        "y" : 552465.73219999857
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 18092,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "시점,시점,돌계단,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040039",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205475.84580000024,
+        "y" : 552464.85200000182
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 18093,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "롤링웨이스트",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040040",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205517.56670000032,
+        "y" : 552720.77950000204
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 18094,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "화단끝,화단끝,철봉,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040041",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205459.59670000058,
+        "y" : 552451.75579999946
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 18095,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작,훼손지시작,분기,시점,계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040042",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205455.43200000096,
+        "y" : 552445.45500000194
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 18096,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040043",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205449.95750000048,
+        "y" : 552438.00910000131
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 18097,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "풀웨이트",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040044",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205519.30190000031,
+        "y" : 552716.93850000203
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 18098,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉,철봉,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040045",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205540.62420000043,
+        "y" : 552720.543700004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 18099,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040046",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205406.09389999975,
+        "y" : 552640.05900000036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 18100,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "팔굽혀펴개,팔굽혀펴개,안내판,분기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040047",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205539.17590000015,
+        "y" : 552727.22230000049
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 18101,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040048",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205400.88430000003,
+        "y" : 552635.27380000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 18102,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040049",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205461.58839999977,
+        "y" : 552834.80600000173
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 18103,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,시멘트계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040050",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205753.47159999982,
+        "y" : 552624.34720000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 18104,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "역기,역기,근육풀개",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040051",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205545.70720000099,
+        "y" : 552726.21250000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 18105,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040052",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205386.61670000013,
+        "y" : 552633.87840000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 18106,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040053",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205545.88510000147,
+        "y" : 552725.93360000104
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 18107,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040054",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205552.94080000091,
+        "y" : 552738.04140000418
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 18108,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040055",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205409.10640000086,
+        "y" : 552403.27300000191
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 18109,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040056",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205397.67459999956,
+        "y" : 552401.68400000036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 18110,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040057",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205394.03189999983,
+        "y" : 552401.08630000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 18111,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,허리돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040058",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205390.36090000067,
+        "y" : 552398.24650000222
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 18112,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "분기,분기,분기,조망점,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040059",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205552.7527999999,
+        "y" : 552742.53470000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 18113,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단,목계단,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040060",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205367.17100000009,
+        "y" : 552395.71040000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 18114,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "시점,시점,조망점,훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040061",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205361.40539999865,
+        "y" : 552391.60410000198
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 18115,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작,목계단시작,훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040062",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205346.40649999958,
+        "y" : 552386.98010000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 18116,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,훼손지종료",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040063",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205344.33650000021,
+        "y" : 552381.74130000174
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 18117,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "종점,종점,훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040064",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205360.33500000089,
+        "y" : 552375.1185999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 18118,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040065",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205373.50519999955,
+        "y" : 552368.04750000313
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 18119,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040066",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205385.66760000214,
+        "y" : 552362.09220000356
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 18120,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지,훼손지,윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040067",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205397.49039999954,
+        "y" : 552343.23350000009
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 18121,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "식수조성지대",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040068",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205551.35750000086,
+        "y" : 552758.45100000128
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 18122,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,조망점,시점,목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040069",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205480.32189999986,
+        "y" : 552553.33889999986
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 18123,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040070",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205482.59399999958,
+        "y" : 552555.13590000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 18124,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040071",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205501.71009999979,
+        "y" : 552558.80460000224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 18125,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단,목계단,훼손지시작,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040072",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205506.40370000154,
+        "y" : 552560.20320000127
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 18126,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040073",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205518.00800000038,
+        "y" : 552558.16430000216
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 18127,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "분기,분기,화장실,시점,나무턱계단,위험지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040074",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205509.77190000191,
+        "y" : 552550.49320000224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 18128,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040075",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205495.96050000004,
+        "y" : 552541.99039999954
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 18129,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지,훼손지,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040076",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205493.34920000099,
+        "y" : 552527.02030000277
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 18130,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040077",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205520.06860000081,
+        "y" : 552555.0492000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 18131,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040078",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205531.0792000005,
+        "y" : 552554.9168999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 18132,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,훼손지시작,조망점,시점,훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040079",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205543.08540000115,
+        "y" : 552549.6456000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 18133,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "화단,화단,분기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040080",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205555.78789999988,
+        "y" : 552776.71570000239
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 18134,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040081",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205549.65540000144,
+        "y" : 552557.78539999947
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 18135,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,종점,훼손지끝,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040082",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205559.5503000021,
+        "y" : 552554.07080000266
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 18136,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점,조망점,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040083",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205569.11000000127,
+        "y" : 552553.49120000191
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 18137,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040084",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205576.04450000171,
+        "y" : 552547.8674999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 18138,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝,훼손지끝,목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040085",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205580.85760000069,
+        "y" : 552547.6008999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 18139,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,분기,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040086",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205588.03239999991,
+        "y" : 552547.97790000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 18140,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작,훼손지시작,위험지대시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040087",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205594.82850000076,
+        "y" : 552550.00120000169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 18141,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝,훼손지끝,위험지대끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040088",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205600.49530000053,
+        "y" : 552524.56149999984
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 18142,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작,목계단시작,정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040089",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205601.28940000106,
+        "y" : 552510.84020000137
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "PMNTN_SPOT" : 18143,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "분기,분기,정자,시점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040090",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205600.29580000136,
+        "y" : 552502.02960000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "PMNTN_SPOT" : 18144,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,등나무",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040091",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205547.5689000003,
+        "y" : 552754.71810000204
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "PMNTN_SPOT" : 18145,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "종점,종점,목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040092",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205602.95630000066,
+        "y" : 552498.62650000118
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "PMNTN_SPOT" : 18146,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040093",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205598.4729000004,
+        "y" : 552503.95409999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "PMNTN_SPOT" : 18147,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "종점,종점,목계단끝,분기,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040094",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205577.53520000074,
+        "y" : 552515.98950000107
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "PMNTN_SPOT" : 18148,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,훼손지,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040095",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205569.50840000063,
+        "y" : 552522.53119999915
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "PMNTN_SPOT" : 18149,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040096",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205563.21120000072,
+        "y" : 552516.41499999911
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 96,
+        "PMNTN_SPOT" : 18150,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040097",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205549.03670000006,
+        "y" : 552508.58170000091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 97,
+        "PMNTN_SPOT" : 18151,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040098",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205539.85680000111,
+        "y" : 552505.79389999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 98,
+        "PMNTN_SPOT" : 18152,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지,훼손지,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040099",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205533.10350000113,
+        "y" : 552506.26390000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 99,
+        "PMNTN_SPOT" : 18153,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040100",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205518.14319999982,
+        "y" : 552488.47599999979
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 100,
+        "PMNTN_SPOT" : 18154,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040101",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205524.95569999982,
+        "y" : 552487.98750000261
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 101,
+        "PMNTN_SPOT" : 18155,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "시계탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040102",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205538.20069999993,
+        "y" : 552746.14379999973
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 102,
+        "PMNTN_SPOT" : 18156,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "종점,종점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040103",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205460.8264000006,
+        "y" : 552439.78370000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 103,
+        "PMNTN_SPOT" : 18157,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040104",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205441.80900000036,
+        "y" : 552420.67230000161
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 104,
+        "PMNTN_SPOT" : 18158,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040105",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205434.66610000003,
+        "y" : 552405.24330000207
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 105,
+        "PMNTN_SPOT" : 18159,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040106",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205424.89989999961,
+        "y" : 552449.66770000197
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 106,
+        "PMNTN_SPOT" : 18160,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040107",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205398.0392000014,
+        "y" : 552444.36620000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 107,
+        "PMNTN_SPOT" : 18161,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "암반지대끝,암반지대끝,종점,훼손지끝,시점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040108",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205395.63120000158,
+        "y" : 552446.75550000183
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 108,
+        "PMNTN_SPOT" : 18162,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040109",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205386.11329999939,
+        "y" : 552439.7349000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 109,
+        "PMNTN_SPOT" : 18163,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040110",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205387.94440000039,
+        "y" : 552436.42429999821
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 110,
+        "PMNTN_SPOT" : 18164,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단끝,계단끝,훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040111",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205383.44350000098,
+        "y" : 552434.79330000095
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 111,
+        "PMNTN_SPOT" : 18165,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "손잡이철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040112",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205526.47810000088,
+        "y" : 552737.2237999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 112,
+        "PMNTN_SPOT" : 18166,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040113",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205375.3470999999,
+        "y" : 552405.15819999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 113,
+        "PMNTN_SPOT" : 18167,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "종점,종점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040114",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205374.6866000006,
+        "y" : 552418.91680000164
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 114,
+        "PMNTN_SPOT" : 18168,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "시점,시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040115",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205388.51380000077,
+        "y" : 552464.85920000076
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 115,
+        "PMNTN_SPOT" : 18169,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040116",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205394.23290000018,
+        "y" : 552467.68630000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 116,
+        "PMNTN_SPOT" : 18170,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040117",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205397.72919999901,
+        "y" : 552477.00070000254
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 117,
+        "PMNTN_SPOT" : 18171,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단,계단,훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040118",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205403.47290000133,
+        "y" : 552480.70700000226
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 118,
+        "PMNTN_SPOT" : 18172,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040119",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205409.29140000232,
+        "y" : 552482.8319000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 119,
+        "PMNTN_SPOT" : 18173,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040120",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205414.87190000061,
+        "y" : 552486.91960000247
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 120,
+        "PMNTN_SPOT" : 18174,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자,정자,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040121",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205528.7379999999,
+        "y" : 552734.79720000178
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 121,
+        "PMNTN_SPOT" : 18175,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단,돌계단,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040122",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205424.11349999905,
+        "y" : 552497.26120000146
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 122,
+        "PMNTN_SPOT" : 18176,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040123",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205426.67370000202,
+        "y" : 552500.01650000177
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 123,
+        "PMNTN_SPOT" : 18177,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040124",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205435.70020000078,
+        "y" : 552499.63170000166
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 124,
+        "PMNTN_SPOT" : 18178,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040125",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205439.2893000003,
+        "y" : 552502.89930000342
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 125,
+        "PMNTN_SPOT" : 18179,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,화단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040126",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205459.81230000034,
+        "y" : 552506.79220000096
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 126,
+        "PMNTN_SPOT" : 18180,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌턱계단,돌턱계단,종점,위험지끝,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040127",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205474.86880000215,
+        "y" : 552502.27160000242
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 127,
+        "PMNTN_SPOT" : 18181,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "한팔가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040128",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205482.36560000107,
+        "y" : 552486.04289999977
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 128,
+        "PMNTN_SPOT" : 18182,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,시계",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040129",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205482.4375,
+        "y" : 552478.22850000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 129,
+        "PMNTN_SPOT" : 18183,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040130",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205487.39499999955,
+        "y" : 552842.07000000216
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 130,
+        "PMNTN_SPOT" : 18184,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으켜개",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040131",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205526.31259999983,
+        "y" : 552729.85569999926
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 131,
+        "PMNTN_SPOT" : 18185,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040132",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205733.03550000023,
+        "y" : 552752.61130000092
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 132,
+        "PMNTN_SPOT" : 18186,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040133",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205731.55810000096,
+        "y" : 552758.38749999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 133,
+        "PMNTN_SPOT" : 18187,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040134",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205732.22000000067,
+        "y" : 552775.45890000276
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 134,
+        "PMNTN_SPOT" : 18188,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "분기,분기,분기,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040135",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205740.98209999967,
+        "y" : 552782.34909999929
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 135,
+        "PMNTN_SPOT" : 18189,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리운동기계",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040136",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205525.39320000075,
+        "y" : 552720.71030000225
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 136,
+        "PMNTN_SPOT" : 18190,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040137",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205741.54920000117,
+        "y" : 552786.64740000106
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 137,
+        "PMNTN_SPOT" : 18191,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "분기,분기,허리돌리기,분기,허리돌리기,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040138",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205745.35300000105,
+        "y" : 552789.63629999943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 138,
+        "PMNTN_SPOT" : 18192,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "통나무계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040139",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205736.61330000218,
+        "y" : 552793.29570000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 139,
+        "PMNTN_SPOT" : 18193,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴장,베드민턴장,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040140",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205718.88900000043,
+        "y" : 552790.86470000446
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 140,
+        "PMNTN_SPOT" : 18194,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "종점,종점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040141",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205730.60040000174,
+        "y" : 552794.11020000279
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 141,
+        "PMNTN_SPOT" : 18195,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으키기,윗몸일으키기,허리돌리기,평행봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040142",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205736.76430000085,
+        "y" : 552799.80780000053
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 142,
+        "PMNTN_SPOT" : 18196,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040143",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205740.36820000038,
+        "y" : 552802.60120000131
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 143,
+        "PMNTN_SPOT" : 18197,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "분기,분기,나무턱계단끝,시점,목계단시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040144",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205711.92080000043,
+        "y" : 552845.66350000165
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 144,
+        "PMNTN_SPOT" : 18198,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040145",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205700.94269999955,
+        "y" : 552874.3741999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 145,
+        "PMNTN_SPOT" : 18199,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040146",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205530.75260000024,
+        "y" : 552722.8908000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 146,
+        "PMNTN_SPOT" : 18200,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝,훼손지끝,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040147",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205702.03519999981,
+        "y" : 552900.73020000197
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 147,
+        "PMNTN_SPOT" : 18201,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지,훼손지,목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040148",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205649.4143000003,
+        "y" : 552812.00919999927
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 148,
+        "PMNTN_SPOT" : 18202,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040149",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205603.50420705788,
+        "y" : 552818.93198492378
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 149,
+        "PMNTN_SPOT" : 18203,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "종점,종점,분기,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040150",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205593.46840000153,
+        "y" : 552821.20910000429
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 150,
+        "PMNTN_SPOT" : 18204,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040151",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205589.16610000003,
+        "y" : 552821.71790000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 151,
+        "PMNTN_SPOT" : 18205,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040152",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205580.5820000004,
+        "y" : 552858.39370000176
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 152,
+        "PMNTN_SPOT" : 18206,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040153",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205581.52020000108,
+        "y" : 552850.67290000245
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 153,
+        "PMNTN_SPOT" : 18207,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,테이블",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040154",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205537.34680000041,
+        "y" : 552727.63969999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 154,
+        "PMNTN_SPOT" : 18208,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040155",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205582.57330000121,
+        "y" : 552847.99430000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 155,
+        "PMNTN_SPOT" : 18209,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점,조망점,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040156",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205582.9693999989,
+        "y" : 552842.65470000356
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 156,
+        "PMNTN_SPOT" : 18210,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040157",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205584.75239999965,
+        "y" : 552833.65990000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 157,
+        "PMNTN_SPOT" : 18211,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040158",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205583.07160000037,
+        "y" : 552811.83400000259
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 158,
+        "PMNTN_SPOT" : 18212,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉,철봉,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040159",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205588.47910000198,
+        "y" : 552808.33980000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 159,
+        "PMNTN_SPOT" : 18213,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040160",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205586.0149000017,
+        "y" : 552806.16130000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 160,
+        "PMNTN_SPOT" : 18214,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,몸들어올리기,팔굽혀펴기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040161",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205584.78760000132,
+        "y" : 552803.53700000234
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 161,
+        "PMNTN_SPOT" : 18215,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목게단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040162",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205582.6138999993,
+        "y" : 552798.73520000093
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 162,
+        "PMNTN_SPOT" : 18216,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,가로등,윗몸일으키기,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040163",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205581.90800000168,
+        "y" : 552791.56220000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 163,
+        "PMNTN_SPOT" : 18217,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단,나무턱계단,분기,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040164",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205578.60720000044,
+        "y" : 552789.15970000252
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 164,
+        "PMNTN_SPOT" : 18218,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "평행봉,평행봉,팔굽혀펴개",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040165",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205540.85040000081,
+        "y" : 552736.6286999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 165,
+        "PMNTN_SPOT" : 18219,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040166",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205568.60039999988,
+        "y" : 552783.36659999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 166,
+        "PMNTN_SPOT" : 18220,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040167",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205553.33829999994,
+        "y" : 552730.59940000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 167,
+        "PMNTN_SPOT" : 18221,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,역기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040168",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205556.81980000157,
+        "y" : 552728.40620000288
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 168,
+        "PMNTN_SPOT" : 18222,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040169",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205590.1416000016,
+        "y" : 552846.38060000353
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 169,
+        "PMNTN_SPOT" : 18223,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040170",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205613.6567000011,
+        "y" : 552820.5625
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 170,
+        "PMNTN_SPOT" : 18224,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "위험지역시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040171",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205641.02550000045,
+        "y" : 552800.74690000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 171,
+        "PMNTN_SPOT" : 18225,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040172",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205674.7378000021,
+        "y" : 552789.43890000321
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 172,
+        "PMNTN_SPOT" : 18226,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,분기,계단,종점,시점,목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040173",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205523.82440000214,
+        "y" : 552706.14800000191
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 173,
+        "PMNTN_SPOT" : 18227,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040174",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205683.91710000113,
+        "y" : 552781.70520000346
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 174,
+        "PMNTN_SPOT" : 18228,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단,계단,훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040175",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205712.47360000014,
+        "y" : 552741.63840000145
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 175,
+        "PMNTN_SPOT" : 18229,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040176",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205412.18110000063,
+        "y" : 552389.15310000256
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 176,
+        "PMNTN_SPOT" : 18230,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "크로스컨트리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040177",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205388.75520000048,
+        "y" : 552305.30910000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 177,
+        "PMNTN_SPOT" : 18231,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "체어플",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040178",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205393.31599999964,
+        "y" : 552306.13070000336
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 178,
+        "PMNTN_SPOT" : 18232,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "역기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040179",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205399.06520000007,
+        "y" : 552312.85119999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 179,
+        "PMNTN_SPOT" : 18233,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "몸통들어올리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040180",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205402.72269999981,
+        "y" : 552313.61639999971
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 180,
+        "PMNTN_SPOT" : 18234,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "평행봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040181",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205405.11000000127,
+        "y" : 552320.38120000251
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 181,
+        "PMNTN_SPOT" : 18235,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040182",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205517.13570000138,
+        "y" : 552700.787200002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 182,
+        "PMNTN_SPOT" : 18236,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040183",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205406.30159999989,
+        "y" : 552321.12620000169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 183,
+        "PMNTN_SPOT" : 18237,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등,가로등,윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040184",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205408.58640000224,
+        "y" : 552326.20710000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 184,
+        "PMNTN_SPOT" : 18238,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단시작,계단시작,훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040185",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205409.34510000143,
+        "y" : 552332.26380000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 185,
+        "PMNTN_SPOT" : 18239,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단끝,계단끝,훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040186",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205414.51800000109,
+        "y" : 552336.96520000324
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 186,
+        "PMNTN_SPOT" : 18240,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단시작,계단시작,훼손지시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040187",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205387.86980000138,
+        "y" : 552471.59860000014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 187,
+        "PMNTN_SPOT" : 18241,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단끝,계단끝,훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040188",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205388.52840000112,
+        "y" : 552495.09830000252
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 188,
+        "PMNTN_SPOT" : 18242,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단시작,계단시작,훼손지시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040189",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205403.53140000068,
+        "y" : 552515.82569999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 189,
+        "PMNTN_SPOT" : 18243,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단끝,계단끝,훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040190",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205414.11240000185,
+        "y" : 552527.45190000348
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 190,
+        "PMNTN_SPOT" : 18244,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040191",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205498.21050000004,
+        "y" : 552688.81100000069
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 191,
+        "PMNTN_SPOT" : 18245,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040192",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205572.39890000131,
+        "y" : 552948.67330000177
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 192,
+        "PMNTN_SPOT" : 18246,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작,목계단시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040193",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205582.95190000068,
+        "y" : 552879.75480000116
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 193,
+        "PMNTN_SPOT" : 18247,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040194",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205586.86480000056,
+        "y" : 552885.5438000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 194,
+        "PMNTN_SPOT" : 18248,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040195",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205590.24540000036,
+        "y" : 552890.16980000213
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 195,
+        "PMNTN_SPOT" : 18249,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040196",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205591.83500000089,
+        "y" : 552893.68730000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 196,
+        "PMNTN_SPOT" : 18250,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,목계단끝,돌계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040197",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205594.81170000043,
+        "y" : 552904.5569000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 197,
+        "PMNTN_SPOT" : 18251,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝,돌계단끝,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040198",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205596.33519999962,
+        "y" : 552917.95240000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 198,
+        "PMNTN_SPOT" : 18252,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040199",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205633.19890000112,
+        "y" : 552931.93180000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 199,
+        "PMNTN_SPOT" : 18253,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040200",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205490.01140000205,
+        "y" : 552681.22370000184
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 200,
+        "PMNTN_SPOT" : 18254,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단시작,돌계단시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040201",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205635.59010000061,
+        "y" : 552965.20079999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 201,
+        "PMNTN_SPOT" : 18255,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040202",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205636.57110000029,
+        "y" : 552970.78320000134
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 202,
+        "PMNTN_SPOT" : 18256,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040203",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205636.63889999874,
+        "y" : 552968.95060000196
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 203,
+        "PMNTN_SPOT" : 18257,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040204",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205483.57249999978,
+        "y" : 552676.81910000183
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 204,
+        "PMNTN_SPOT" : 18258,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판2,안내판2,안내도1,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040205",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205498.23580000084,
+        "y" : 552840.6259000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 205,
+        "PMNTN_SPOT" : 18259,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작,목계단시작,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040206",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205736.09240000043,
+        "y" : 552657.71409999765
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 206,
+        "PMNTN_SPOT" : 18260,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040207",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205472.73429999966,
+        "y" : 552662.60640000179
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 207,
+        "PMNTN_SPOT" : 18261,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040208",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205464.20770000108,
+        "y" : 552646.27410000376
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 208,
+        "PMNTN_SPOT" : 18262,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작,목계단시작,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040209",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205452.7555999998,
+        "y" : 552642.28490000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 209,
+        "PMNTN_SPOT" : 18263,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040210",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205441.57430000044,
+        "y" : 552643.10559999943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 210,
+        "PMNTN_SPOT" : 18264,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040211",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205431.36409999989,
+        "y" : 552642.1034000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 211,
+        "PMNTN_SPOT" : 18265,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040212",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205423.16630000062,
+        "y" : 552643.72610000148
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 212,
+        "PMNTN_SPOT" : 18266,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,시점,조망점,목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040213",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205411.52699999977,
+        "y" : 552642.49299999885
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 213,
+        "PMNTN_SPOT" : 18267,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040214",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205413.35120000131,
+        "y" : 552638.7984000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 214,
+        "PMNTN_SPOT" : 18268,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등,가로등,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040215",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205417.76189999934,
+        "y" : 552631.09850000031
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 215,
+        "PMNTN_SPOT" : 18269,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등,가로등,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040216",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205420.26980000176,
+        "y" : 552623.17400000431
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 216,
+        "PMNTN_SPOT" : 18270,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,분기,관리사무소,조망점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040217",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205574.34690000117,
+        "y" : 552871.86070000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 217,
+        "PMNTN_SPOT" : 18271,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝,훼손지끝,분기,분기,시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040218",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205735.29770000093,
+        "y" : 552661.34170000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 218,
+        "PMNTN_SPOT" : 18272,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "구름다리시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040219",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205422.5251000002,
+        "y" : 552616.44009999931
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 219,
+        "PMNTN_SPOT" : 18273,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040220",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205742.60529999994,
+        "y" : 552704.83809999935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 220,
+        "PMNTN_SPOT" : 18274,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "종점,종점,분기,분기,나무턱계단시작,가로등,종점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040221",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205733.85539999977,
+        "y" : 552701.75280000083
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 221,
+        "PMNTN_SPOT" : 18275,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040222",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205732.36650000047,
+        "y" : 552713.48270000145
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 222,
+        "PMNTN_SPOT" : 18276,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040223",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205729.75569999963,
+        "y" : 552719.90920000151
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 223,
+        "PMNTN_SPOT" : 18277,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,조망점,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040224",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205716.62650000118,
+        "y" : 552731.25600000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 224,
+        "PMNTN_SPOT" : 18278,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝,훼손지끝,윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040225",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205698.35360000003,
+        "y" : 552741.37739999965
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 225,
+        "PMNTN_SPOT" : 18279,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉,철봉,허리돌리기,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040226",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205690.64760000072,
+        "y" : 552738.55330000445
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 226,
+        "PMNTN_SPOT" : 18280,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040227",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205669.78220000118,
+        "y" : 552738.28790000081
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 227,
+        "PMNTN_SPOT" : 18281,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단,목계단,가로등,벤치,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040228",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205662.32270000037,
+        "y" : 552743.08320000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 228,
+        "PMNTN_SPOT" : 18282,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040229",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205420.94849999994,
+        "y" : 552604.29870000109
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 229,
+        "PMNTN_SPOT" : 18283,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040230",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205663.21390000079,
+        "y" : 552738.99970000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 230,
+        "PMNTN_SPOT" : 18284,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040231",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205655.43310000096,
+        "y" : 552748.10199999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 231,
+        "PMNTN_SPOT" : 18285,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,관리사무소,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040232",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205653.31230000127,
+        "y" : 552752.75210000202
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 232,
+        "PMNTN_SPOT" : 18286,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040233",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205657.61620000098,
+        "y" : 552760.77420000173
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 233,
+        "PMNTN_SPOT" : 18287,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기,허리돌리기,옷걸이,의자,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040234",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205656.09110000078,
+        "y" : 552771.41570000164
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 234,
+        "PMNTN_SPOT" : 18288,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040235",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205657.21200000215,
+        "y" : 552778.00290000439
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 235,
+        "PMNTN_SPOT" : 18289,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝,돌계단끝,관리사무소,분기,분기,시점,조망점,시점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040236",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205661.56770000141,
+        "y" : 552786.18310000189
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 236,
+        "PMNTN_SPOT" : 18290,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철계단,철계단,체육시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040237",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205664.16299999971,
+        "y" : 552791.37600000203
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 237,
+        "PMNTN_SPOT" : 18291,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "위험지역끝,위험지역끝,종점,베드민턴장,양팔가로등,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040238",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205664.75329999998,
+        "y" : 552794.37190000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 238,
+        "PMNTN_SPOT" : 18292,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040239",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205420.78700000048,
+        "y" : 552579.45050000213
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 239,
+        "PMNTN_SPOT" : 18293,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단시작,나무턱계단시작,훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040240",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205683.49370000139,
+        "y" : 552837.6435000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 240,
+        "PMNTN_SPOT" : 18294,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단끝,나무턱계단끝,훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040241",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205693.14340000134,
+        "y" : 552845.72499999963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 241,
+        "PMNTN_SPOT" : 18295,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040242",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205703.19110000134,
+        "y" : 552845.52720000409
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 242,
+        "PMNTN_SPOT" : 18296,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040243",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205735.81209999975,
+        "y" : 552849.0103999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 243,
+        "PMNTN_SPOT" : 18297,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "분기,분기,나무턱계단시작,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040244",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205743.32040000148,
+        "y" : 552827.27470000274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 244,
+        "PMNTN_SPOT" : 18298,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040245",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205747.59190000128,
+        "y" : 552817.6863000039
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 245,
+        "PMNTN_SPOT" : 18299,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,나무턱계단,훼손지시작,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040246",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205742.2144000018,
+        "y" : 552808.5353000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 246,
+        "PMNTN_SPOT" : 18300,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "구름다리끝,구름다리끝,가로등,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040247",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205420.81219999958,
+        "y" : 552563.46809999831
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 247,
+        "PMNTN_SPOT" : 18301,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "종점,종점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040248",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205753.1129999999,
+        "y" : 552789.22300000116
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 248,
+        "PMNTN_SPOT" : 18302,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "분기,분기,훼손지끝,시점,종점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040249",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205759.0635000011,
+        "y" : 552782.35230000131
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 249,
+        "PMNTN_SPOT" : 18303,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "분기,분기,나무턱계단,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040250",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205758.53019999992,
+        "y" : 552771.94200000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 250,
+        "PMNTN_SPOT" : 18304,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040251",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205757.42900000047,
+        "y" : 552768.95499999821
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 251,
+        "PMNTN_SPOT" : 18305,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040252",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205425.40330000222,
+        "y" : 552551.77720000036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 252,
+        "PMNTN_SPOT" : 18306,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단끝,나무턱계단끝,종점,나무턱계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040253",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205752.80520000029,
+        "y" : 552763.33269999921
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 253,
+        "PMNTN_SPOT" : 18307,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,분기,시점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040254",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205455.58740000054,
+        "y" : 552547.05250000209
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 254,
+        "PMNTN_SPOT" : 18308,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "풀웨이트",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040255",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205461.03100000136,
+        "y" : 552545.24210000411
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 255,
+        "PMNTN_SPOT" : 18309,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시점,시점,목계단시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040256",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205753.81480000075,
+        "y" : 552741.56960000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 256,
+        "PMNTN_SPOT" : 18310,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "분기,분기,목계단시작,시점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040257",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205745.40350000095,
+        "y" : 552727.39030000009
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 257,
+        "PMNTN_SPOT" : 18311,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌턱계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040258",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205739.19520000089,
+        "y" : 552710.92909999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 258,
+        "PMNTN_SPOT" : 18312,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040259",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205748.80630000029,
+        "y" : 552721.30850000121
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 259,
+        "PMNTN_SPOT" : 18313,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040260",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205751.46710000094,
+        "y" : 552717.51480000094
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 260,
+        "PMNTN_SPOT" : 18314,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040261",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205748.21000000089,
+        "y" : 552833.87390000187
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 261,
+        "PMNTN_SPOT" : 18315,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040262",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205761.17459999956,
+        "y" : 552813.17450000159
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 262,
+        "PMNTN_SPOT" : 18316,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040263",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205760.9851000011,
+        "y" : 552787.41450000182
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 263,
+        "PMNTN_SPOT" : 18317,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "크로스컨트리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040264",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205461.20460000075,
+        "y" : 552540.23709999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 264,
+        "PMNTN_SPOT" : 18318,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단,나무턱계단,화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040265",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205675.73900000099,
+        "y" : 552776.07120000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 265,
+        "PMNTN_SPOT" : 18319,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040266",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205700.36249999981,
+        "y" : 552770.35749999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 266,
+        "PMNTN_SPOT" : 18320,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "종점,종점,계단끝,분기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040267",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205704.49540000129,
+        "y" : 552768.61140000261
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 267,
+        "PMNTN_SPOT" : 18321,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "스텝사이클",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040268",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205462.4068,
+        "y" : 552536.09820000082
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 268,
+        "PMNTN_SPOT" : 18322,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,큰나무",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040269",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205461.94350000005,
+        "y" : 552531.42769999988
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 269,
+        "PMNTN_SPOT" : 18323,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040270",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205577.25060000084,
+        "y" : 552868.68040000089
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 270,
+        "PMNTN_SPOT" : 18324,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작,훼손지시작,벤치,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040271",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205723.65930000041,
+        "y" : 552669.97619999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 271,
+        "PMNTN_SPOT" : 18325,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040272",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205460.10520000104,
+        "y" : 552523.10040000454
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 272,
+        "PMNTN_SPOT" : 18326,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "평벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040273",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205453.27300000098,
+        "y" : 552519.70959999971
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 273,
+        "PMNTN_SPOT" : 18327,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "옷걸이",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040274",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205450.66920000035,
+        "y" : 552515.71700000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 274,
+        "PMNTN_SPOT" : 18328,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리운동기계,허리운동기계,한팔가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040275",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205448.17410000041,
+        "y" : 552515.35250000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 275,
+        "PMNTN_SPOT" : 18329,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "평행봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040276",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205448.51660000067,
+        "y" : 552512.37579999864
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 276,
+        "PMNTN_SPOT" : 18330,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040277",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205444.37990000099,
+        "y" : 552508.53100000136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 277,
+        "PMNTN_SPOT" : 18331,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "종점,종점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040278",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205448.12370000128,
+        "y" : 552511.91639999859
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 278,
+        "PMNTN_SPOT" : 18332,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040279",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205450.00509999972,
+        "y" : 552512.09769999795
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 279,
+        "PMNTN_SPOT" : 18333,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "종점,종점,조망점,시점,목계단시작,시계,조망점,허리돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040280",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205452.61980000045,
+        "y" : 552510.26920000091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 280,
+        "PMNTN_SPOT" : 18334,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "16",
+        "MANAGE_SP2" : "주요나무",
+        "DETAIL_SPO" : "느티나무",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040281",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205450.21700000018,
+        "y" : 552505.21360000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 281,
+        "PMNTN_SPOT" : 18335,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "분기,분기,나무턱계단,시점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040282",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205450.24330000021,
+        "y" : 552498.85040000267
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 282,
+        "PMNTN_SPOT" : 18336,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040283",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205430.92210000101,
+        "y" : 552491.55360000394
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 283,
+        "PMNTN_SPOT" : 18337,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040284",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205406.60709999967,
+        "y" : 552466.11270000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 284,
+        "PMNTN_SPOT" : 18338,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "암반지대시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040285",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205401.80930000171,
+        "y" : 552454.14600000158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 285,
+        "PMNTN_SPOT" : 18339,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "평벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040286",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205449.84210000001,
+        "y" : 552489.71470000036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 286,
+        "PMNTN_SPOT" : 18340,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리운동기계",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040287",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205443.52390000131,
+        "y" : 552492.92000000365
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 287,
+        "PMNTN_SPOT" : 18341,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040288",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205439.23770000041,
+        "y" : 552491.24270000122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 288,
+        "PMNTN_SPOT" : 18342,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040289",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205433.83370000124,
+        "y" : 552489.10880000144
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 289,
+        "PMNTN_SPOT" : 18343,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리운동기계",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040290",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205432.72450000048,
+        "y" : 552486.92190000229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 290,
+        "PMNTN_SPOT" : 18344,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "팔굽혀펴개,팔굽혀펴개,분기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040291",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205436.5103000002,
+        "y" : 552483.66829999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 291,
+        "PMNTN_SPOT" : 18345,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으켜개",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040292",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205438.8657000009,
+        "y" : 552482.7210000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 292,
+        "PMNTN_SPOT" : 18346,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "분기,분기,정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040293",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205443.9832000006,
+        "y" : 552481.31960000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 293,
+        "PMNTN_SPOT" : 18347,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040294",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205447.39060000144,
+        "y" : 552479.21940000169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 294,
+        "PMNTN_SPOT" : 18348,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "분기,분기,가로등,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040295",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205569.02929999959,
+        "y" : 552806.28940000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 295,
+        "PMNTN_SPOT" : 18349,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040296",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205712.67370000109,
+        "y" : 552687.56970000081
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 296,
+        "PMNTN_SPOT" : 18350,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040297",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205437.6584999999,
+        "y" : 552460.32799999975
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 297,
+        "PMNTN_SPOT" : 18351,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,목계단끝,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040298",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205430.2657000022,
+        "y" : 552451.47550000437
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 298,
+        "PMNTN_SPOT" : 18352,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "평행봉,평행봉,벤치,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040299",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205426.5252000019,
+        "y" : 552444.01259999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 299,
+        "PMNTN_SPOT" : 18353,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,몸들어올리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040300",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205420.54280000087,
+        "y" : 552443.18080000207
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 300,
+        "PMNTN_SPOT" : 18354,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040301",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205424.07670000196,
+        "y" : 552440.40150000155
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 301,
+        "PMNTN_SPOT" : 18355,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "종점,종점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040302",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205427.00170000084,
+        "y" : 552428.66310000047
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 302,
+        "PMNTN_SPOT" : 18356,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040303",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205425.66739999969,
+        "y" : 552419.55460000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 303,
+        "PMNTN_SPOT" : 18357,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내도,안내도,분기,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040304",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205429.70010000002,
+        "y" : 552401.30489999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 304,
+        "PMNTN_SPOT" : 18358,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,목계단끝,시점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040305",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205426.02180000115,
+        "y" : 552397.06060000323
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 305,
+        "PMNTN_SPOT" : 18359,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "분기,분기,등벤치,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040306",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205541.34750000108,
+        "y" : 552768.39860000089
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 306,
+        "PMNTN_SPOT" : 18360,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040307",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205709.80740000121,
+        "y" : 552688.78650000133
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 307,
+        "PMNTN_SPOT" : 18361,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "역기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040308",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205433.99050000217,
+        "y" : 552396.58180000074
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 308,
+        "PMNTN_SPOT" : 18362,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040309",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205436.98919999972,
+        "y" : 552396.95590000227
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 309,
+        "PMNTN_SPOT" : 18363,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040310",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205427.25329999998,
+        "y" : 552394.96800000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 310,
+        "PMNTN_SPOT" : 18364,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철책문,철책문,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040311",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205729.93530000001,
+        "y" : 552652.77929999866
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 311,
+        "PMNTN_SPOT" : 18365,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철계단,철계단,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040312",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205729.74149999954,
+        "y" : 552643.99720000103
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 312,
+        "PMNTN_SPOT" : 18366,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝,훼손지끝,목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040313",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205426.85520000104,
+        "y" : 552392.38160000183
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 313,
+        "PMNTN_SPOT" : 18367,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "종점,종점,나무턱계단끝,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040314",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205735.69330000039,
+        "y" : 552667.36100000143
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 314,
+        "PMNTN_SPOT" : 18368,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "분기,분기,벤치,목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040315",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205727.6845000023,
+        "y" : 552684.73340000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 315,
+        "PMNTN_SPOT" : 18369,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040316",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205728.81099999975,
+        "y" : 552694.08359999768
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 316,
+        "PMNTN_SPOT" : 18370,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "징검다리,징검다리,종점,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040317",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205730.53249999974,
+        "y" : 552699.51770000346
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 317,
+        "PMNTN_SPOT" : 18371,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040318",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205426.88980000094,
+        "y" : 552384.67879999988
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 318,
+        "PMNTN_SPOT" : 18372,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "시점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040319",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205755.17910000123,
+        "y" : 552660.70419999957
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 319,
+        "PMNTN_SPOT" : 18373,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "시점,시점,나무턱계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040320",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205745.68079999927,
+        "y" : 552667.44240000099
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 320,
+        "PMNTN_SPOT" : 18374,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "분기,분기,조망점,시점,목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040321",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205745.89910000097,
+        "y" : 552674.46620000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 321,
+        "PMNTN_SPOT" : 18375,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,목계단끝,훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040322",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205740.88620000053,
+        "y" : 552674.65810000151
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 322,
+        "PMNTN_SPOT" : 18376,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "종점,종점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040323",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205736.17840000056,
+        "y" : 552672.66410000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 323,
+        "PMNTN_SPOT" : 18377,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040324",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205589.31030000094,
+        "y" : 552541.60620000213
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 324,
+        "PMNTN_SPOT" : 18378,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040325",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205428.48640000075,
+        "y" : 552377.63749999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 325,
+        "PMNTN_SPOT" : 18379,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040326",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205581.60510000121,
+        "y" : 552537.18209999986
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 326,
+        "PMNTN_SPOT" : 18380,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,돌계단시작,조망점,시점,목계단시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040327",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205579.61580000166,
+        "y" : 552533.41310000233
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 327,
+        "PMNTN_SPOT" : 18381,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040328",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205573.86770000122,
+        "y" : 552525.48310000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 328,
+        "PMNTN_SPOT" : 18382,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040329",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205590.7900000019,
+        "y" : 552521.33610000275
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 329,
+        "PMNTN_SPOT" : 18383,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단,나무턱계단,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040330",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205438.7023,
+        "y" : 552381.58860000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 330,
+        "PMNTN_SPOT" : 18384,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040331",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205440.99970000051,
+        "y" : 552390.037200002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 331,
+        "PMNTN_SPOT" : 18385,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리운동기계,허리운동기계,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040332",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205444.25670000073,
+        "y" : 552391.63929999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 332,
+        "PMNTN_SPOT" : 18386,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "스트레칭기계,스트레칭기계,평행봉,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040333",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205448.65089999977,
+        "y" : 552386.83259999938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 333,
+        "PMNTN_SPOT" : 18387,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으키기,윗몸일으키기,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040334",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205444.38670000155,
+        "y" : 552385.31350000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 334,
+        "PMNTN_SPOT" : 18388,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "한팔가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040335",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205425.16619999986,
+        "y" : 552370.67670000158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 335,
+        "PMNTN_SPOT" : 18389,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,분기,분기,훼손지끝,화장실,종점,시점,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040336",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205421.56430000067,
+        "y" : 552364.37900000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 336,
+        "PMNTN_SPOT" : 18390,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단,나무턱계단,윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040337",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205414.82560000103,
+        "y" : 552353.60830000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 337,
+        "PMNTN_SPOT" : 18391,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "표지판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040338",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205410.71920000203,
+        "y" : 552348.5821000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 338,
+        "PMNTN_SPOT" : 18392,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040339",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205318.23039999977,
+        "y" : 552306.46759999916
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 339,
+        "PMNTN_SPOT" : 18393,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040340",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205371.53990000114,
+        "y" : 552395.90320000239
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 340,
+        "PMNTN_SPOT" : 18394,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040341",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205374.09470000118,
+        "y" : 552301.29000000283
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 341,
+        "PMNTN_SPOT" : 18395,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040342",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205386.28029999975,
+        "y" : 552637.30440000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 342,
+        "PMNTN_SPOT" : 18396,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040343",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205389.73280000035,
+        "y" : 552327.37210000306
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 343,
+        "PMNTN_SPOT" : 18397,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040344",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205395.37440000009,
+        "y" : 552446.75330000184
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 344,
+        "PMNTN_SPOT" : 18398,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040345",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205402.89740000013,
+        "y" : 552399.49330000393
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 345,
+        "PMNTN_SPOT" : 18399,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040346",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205409.06010000128,
+        "y" : 552343.72000000067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 346,
+        "PMNTN_SPOT" : 18400,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040347",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205418.2920000013,
+        "y" : 552565.09080000408
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 347,
+        "PMNTN_SPOT" : 18401,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040348",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205419.01590000093,
+        "y" : 552362.66850000247
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 348,
+        "PMNTN_SPOT" : 18402,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040349",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205428.80650000181,
+        "y" : 552476.85360000096
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 349,
+        "PMNTN_SPOT" : 18403,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040350",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205431.6074000001,
+        "y" : 552430.69620000385
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 350,
+        "PMNTN_SPOT" : 18404,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040351",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205439.06799999904,
+        "y" : 552484.86350000091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 351,
+        "PMNTN_SPOT" : 18405,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040352",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205447.41610000096,
+        "y" : 552847.90410000458
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 352,
+        "PMNTN_SPOT" : 18406,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040353",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205450.06380000059,
+        "y" : 552502.7199000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 353,
+        "PMNTN_SPOT" : 18407,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040354",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205450.77920000069,
+        "y" : 552424.57699999958
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 354,
+        "PMNTN_SPOT" : 18408,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040355",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205455.4879999999,
+        "y" : 552549.58190000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 355,
+        "PMNTN_SPOT" : 18409,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040356",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205470.52589999977,
+        "y" : 552496.77320000157
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 356,
+        "PMNTN_SPOT" : 18410,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040357",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205516.94540000148,
+        "y" : 552555.30859999917
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 357,
+        "PMNTN_SPOT" : 18411,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040358",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205561.36050000042,
+        "y" : 552547.25429999828
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 358,
+        "PMNTN_SPOT" : 18412,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040359",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205573.39300000109,
+        "y" : 552858.875
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 359,
+        "PMNTN_SPOT" : 18413,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040360",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205573.8526000008,
+        "y" : 552865.17170000449
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 360,
+        "PMNTN_SPOT" : 18414,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040361",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205578.82820000034,
+        "y" : 552536.44930000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 361,
+        "PMNTN_SPOT" : 18415,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040362",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205578.93047306035,
+        "y" : 552855.72379656322
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 362,
+        "PMNTN_SPOT" : 18416,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040363",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205579.03470000159,
+        "y" : 552788.10160000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 363,
+        "PMNTN_SPOT" : 18417,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040364",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205587.69910000078,
+        "y" : 552548.06130000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 364,
+        "PMNTN_SPOT" : 18418,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040365",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205588.93170000147,
+        "y" : 552522.40080000088
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 365,
+        "PMNTN_SPOT" : 18419,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040366",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205598.58389999997,
+        "y" : 552515.46760000102
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 366,
+        "PMNTN_SPOT" : 18420,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040367",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205608.72290000133,
+        "y" : 552490.01590000466
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 367,
+        "PMNTN_SPOT" : 18421,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040368",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205618.78809999954,
+        "y" : 552811.04900000244
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 368,
+        "PMNTN_SPOT" : 18422,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040369",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205631.06780000124,
+        "y" : 552805.94970000349
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 369,
+        "PMNTN_SPOT" : 18423,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040370",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205646.15000000037,
+        "y" : 552813.71670000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 370,
+        "PMNTN_SPOT" : 18424,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040371",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205663.1026999997,
+        "y" : 552812.0044000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 371,
+        "PMNTN_SPOT" : 18425,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040372",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205664.68200000096,
+        "y" : 552791.10400000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 372,
+        "PMNTN_SPOT" : 18426,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040373",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205673.44389999937,
+        "y" : 552979.16829999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 373,
+        "PMNTN_SPOT" : 18427,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040374",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205675.7817000011,
+        "y" : 552724.58880000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 374,
+        "PMNTN_SPOT" : 18428,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040375",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205686.04679999966,
+        "y" : 552741.39340000227
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 375,
+        "PMNTN_SPOT" : 18429,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040376",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205690.25520000048,
+        "y" : 552768.44009999931
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 376,
+        "PMNTN_SPOT" : 18430,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040377",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205698.29340000171,
+        "y" : 552754.53690000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 377,
+        "PMNTN_SPOT" : 18431,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040378",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205705.60900000017,
+        "y" : 552766.23630000278
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 378,
+        "PMNTN_SPOT" : 18432,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040379",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205712.9374000011,
+        "y" : 552931.71470000409
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 379,
+        "PMNTN_SPOT" : 18433,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040380",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205713.61170000117,
+        "y" : 552597.68740000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 380,
+        "PMNTN_SPOT" : 18434,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040381",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205714.24760000035,
+        "y" : 552898.81959999911
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 381,
+        "PMNTN_SPOT" : 18435,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040382",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205716.62700000219,
+        "y" : 552681.46169999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 382,
+        "PMNTN_SPOT" : 18436,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040383",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205734.91450000089,
+        "y" : 552663.15260000341
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 383,
+        "PMNTN_SPOT" : 18437,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040384",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205735.19809999969,
+        "y" : 552642.22030000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 384,
+        "PMNTN_SPOT" : 18438,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040385",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205752.40390000027,
+        "y" : 552669.3004999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 385,
+        "PMNTN_SPOT" : 18439,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040386",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205753.54400000162,
+        "y" : 552640.88540000096
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 386,
+        "PMNTN_SPOT" : 18440,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040387",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205756.39989999961,
+        "y" : 552746.25190000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 387,
+        "PMNTN_SPOT" : 18441,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040388",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205764.69130000006,
+        "y" : 552707.52199999988
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 388,
+        "PMNTN_SPOT" : 96039,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040389",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205682.97469999961,
+        "y" : 552708.90889999969
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 389,
+        "PMNTN_SPOT" : 96040,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040390",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205478.4127000006,
+        "y" : 552551.6352999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 390,
+        "PMNTN_SPOT" : 96041,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040391",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205544.15669999929,
+        "y" : 552553.37209999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 391,
+        "PMNTN_SPOT" : 96042,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040392",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205569.41940000077,
+        "y" : 552522.77299999958
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 392,
+        "PMNTN_SPOT" : 96043,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040393",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205374.70749999926,
+        "y" : 552421.03790000128
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 393,
+        "PMNTN_SPOT" : 96044,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040394",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205744.91949999897,
+        "y" : 552634.98379999923
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 394,
+        "PMNTN_SPOT" : 96045,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040395",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205603.77649999884,
+        "y" : 552819.31829999946
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 395,
+        "PMNTN_SPOT" : 96046,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040396",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205616.19850000099,
+        "y" : 552822.81530000048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 396,
+        "PMNTN_SPOT" : 96047,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "기타건물, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040397",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205574.50960000046,
+        "y" : 552870.78099999949
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 397,
+        "PMNTN_SPOT" : 96048,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040398",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205719.23499999958,
+        "y" : 552729.1492000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 398,
+        "PMNTN_SPOT" : 96049,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040399",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205446.62970000118,
+        "y" : 552510.47680000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 399,
+        "PMNTN_SPOT" : 96050,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040400",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205452.27190000089,
+        "y" : 552510.52700000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 400,
+        "PMNTN_SPOT" : 96051,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040401",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205756.32280000031,
+        "y" : 552655.72799999965
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 401,
+        "PMNTN_SPOT" : 96052,
+        "MNTN_CODE" : "112300204",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "답십리공원",
+        "PAST_SPOT_" : "1123002040402",
+        "MNTN_ID" : "112300204"
+      },
+      "geometry" : {
+        "x" : 205583.77390000134,
+        "y" : 552527.20149999962
+      }
+    }
+  ]
+}

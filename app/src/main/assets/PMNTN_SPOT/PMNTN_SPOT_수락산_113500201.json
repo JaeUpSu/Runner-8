@@ -1,0 +1,6633 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 54297,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010001",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 204706.84170000162,
+        "y" : 569148.26280000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 54298,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010002",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 204824.95650000125,
+        "y" : 567972.63010000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 54299,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010003",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 204828.94000000227,
+        "y" : 566695.73270000145
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 54300,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010004",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 204859.80120000057,
+        "y" : 569655.60780000314
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 54301,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010005",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 204897.91160000023,
+        "y" : 566085.24100000039
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 54302,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010006",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 204899.77570000011,
+        "y" : 568393.92490000091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 54303,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010007",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 204951.97040000092,
+        "y" : 567335.11790000461
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 54304,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010008",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 204983.66009999998,
+        "y" : 569202.32160000131
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 54305,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010009",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205015.34970000293,
+        "y" : 566156.07670000382
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 54306,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010010",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205041.97840000223,
+        "y" : 566105.55279999971
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 54307,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010011",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205042.37910000049,
+        "y" : 568844.41499999911
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 54308,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010012",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205050.76760000177,
+        "y" : 566184.03810000047
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 54309,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010013",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205057.51420000196,
+        "y" : 568762.53690000251
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 54310,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010014",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205075.00079999957,
+        "y" : 568740.02559999935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 54311,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010015",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205079.66110000294,
+        "y" : 567364.94350000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 54312,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010016",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205091.77769999951,
+        "y" : 568621.34480000287
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 54313,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010017",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205109.38980000094,
+        "y" : 566223.16519999877
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 54314,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010018",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205111.35070000123,
+        "y" : 566273.51479999907
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 54315,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010019",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205113.21480000112,
+        "y" : 566027.45400000177
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 54316,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010020",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205141.17630000133,
+        "y" : 566266.99040000141
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 54317,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010021",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205151.42880000081,
+        "y" : 567833.76380000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 54318,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010022",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205175.66209999938,
+        "y" : 568454.50809999742
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 54319,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010023",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205195.0625,
+        "y" : 568070.60080000572
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 54320,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010024",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205306.14880000241,
+        "y" : 568993.54279999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 54321,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010025",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205317.33340000175,
+        "y" : 567404.0895000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 54322,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010026",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205346.93979999982,
+        "y" : 568373.14140000194
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 54323,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010027",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205348.09100000374,
+        "y" : 568955.32880000211
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 54324,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010028",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205376.98450000118,
+        "y" : 568520.68350000121
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 54325,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010029",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205472.98550000135,
+        "y" : 568963.7172000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 54326,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010030",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205520.51999999955,
+        "y" : 567163.62099999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 54327,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010031",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205523.15729999915,
+        "y" : 566159.0922000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 54328,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010032",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205594.21199999936,
+        "y" : 567369.00870000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 54329,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010033",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205767.51280000061,
+        "y" : 569505.23730000108
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 54330,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010034",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205847.66900000069,
+        "y" : 567113.29040000774
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 54331,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010035",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 205947.39820000343,
+        "y" : 569150.12690000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 54332,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010036",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 206083.39650963992,
+        "y" : 566040.74800498411
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 54333,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010037",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 206321.14960000012,
+        "y" : 566842.99640000425
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 54334,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010038",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 206682.65912956465,
+        "y" : 565632.07788849995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 54335,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010039",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 206753.62010000087,
+        "y" : 568186.38880000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 54336,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010040",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 206770.90410000179,
+        "y" : 568416.92700000107
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 54337,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010041",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 206867.87839999888,
+        "y" : 568070.42229999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 54338,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010042",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 206878.51090000197,
+        "y" : 568070.98750000447
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 54339,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010043",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 206991.78130000364,
+        "y" : 567456.85270000249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 54340,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010044",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 207014.59360000119,
+        "y" : 567950.26989999972
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 54341,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010045",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 207118.98300000373,
+        "y" : 567370.53580000252
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 54342,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010046",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 207129.59500000346,
+        "y" : 567345.47919999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 54343,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010047",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 207223.65900000278,
+        "y" : 566802.50900000148
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 54344,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010048",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 207247.60570000391,
+        "y" : 567236.32079999894
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 54345,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010049",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 207272.77099999972,
+        "y" : 567090.92119999975
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 54346,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010050",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 207322.88368660863,
+        "y" : 566932.38254517503
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 54347,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010051",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207330.706100001,
+        "y" : 566144.84990000166
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 54348,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010052",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 207355.72330000158,
+        "y" : 569304.84689999931
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 54349,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010053",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207427.82529999968,
+        "y" : 566523.24090000056
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 54350,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010054",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207470.24760000128,
+        "y" : 566393.84679999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 54351,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010055",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 207482.86158240959,
+        "y" : 566982.70443377644
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 54352,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010056",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207493.7480687052,
+        "y" : 565889.3965620026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 54353,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010057",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207516.66150000319,
+        "y" : 565832.98819999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 54354,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010058",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 207524.28960000258,
+        "y" : 568989.57010000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 54355,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010059",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207605.43180000316,
+        "y" : 565744.72450000234
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 54356,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010060",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207644.7656000033,
+        "y" : 565725.00999999978
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 54357,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010061",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 207657.55279999971,
+        "y" : 565360.4421000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 54358,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010062",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 207667.29030000325,
+        "y" : 565537.55939999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 54359,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010063",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 207708.20700000133,
+        "y" : 565449.909500001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 54360,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010064",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207734.31269999966,
+        "y" : 565619.94460000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 54361,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010065",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207761.67000000272,
+        "y" : 565651.02779999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 54362,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010066",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207885.45410000067,
+        "y" : 566774.28879999928
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 54363,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010067",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207889.53789999988,
+        "y" : 566767.11160000227
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 54364,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010068",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208031.53391132597,
+        "y" : 566533.608636152
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 54365,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010069",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208031.29555544443,
+        "y" : 566968.28212030791
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 54366,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010070",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208040.10191915184,
+        "y" : 566524.200084785
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 54367,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010071",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208052.89560000412,
+        "y" : 566811.30669999868
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 54368,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4115005010072",
+        "MNTN_ID" : "411500501"
+      },
+      "geometry" : {
+        "x" : 208229.05269999988,
+        "y" : 568082.62080000155
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 54369,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010073",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208234.81837478373,
+        "y" : 565598.37917356379
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 54370,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010074",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208299.56056048535,
+        "y" : 566176.70472202264
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 54371,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010075",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 208332.23330000136,
+        "y" : 565464.37099999748
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 54372,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010076",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 208395.58430000115,
+        "y" : 565326.51840000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 54373,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010077",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 208395.60370000172,
+        "y" : 565266.22699999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 54374,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010078",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 208404.61800000072,
+        "y" : 565300.10579999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 54375,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010079",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208422.69240000006,
+        "y" : 565825.80550000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 54376,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010080",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 208425.05749999918,
+        "y" : 565290.32560000196
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 54377,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010081",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 208426.81250000093,
+        "y" : 565463.25280000269
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 54378,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010082",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 208432.85589999985,
+        "y" : 565216.53640000336
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 54379,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010083",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 208159.49676690809,
+        "y" : 565673.21533902176
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 54380,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010084",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208447.9165709652,
+        "y" : 565437.87274196558
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 54381,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "1135002010085",
+        "MNTN_ID" : "113500201"
+      },
+      "geometry" : {
+        "x" : 208465.64954368491,
+        "y" : 565322.22704154067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 54382,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010086",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208608.52300000098,
+        "y" : 564978.43060000427
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 54383,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010087",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208650.12633437198,
+        "y" : 564937.49713832326
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 54384,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010088",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208683.43269999977,
+        "y" : 565430.46270000376
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 54385,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010089",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208840.73691654764,
+        "y" : 566776.13825291023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "PMNTN_SPOT" : 54386,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010090",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208924.73873362411,
+        "y" : 565564.44747098908
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "PMNTN_SPOT" : 54387,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010091",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 208943.21843027137,
+        "y" : 564672.50343665481
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "PMNTN_SPOT" : 54388,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010092",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 209355.9776999997,
+        "y" : 566033.81219999865
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "PMNTN_SPOT" : 54389,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "삼각점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000093",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208082.8553000018,
+        "y" : 565575.73920000345
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "PMNTN_SPOT" : 54390,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000094",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207211.36340000201,
+        "y" : 566579.18630000204
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "PMNTN_SPOT" : 54391,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "수락유원지입구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000095",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209318.34910000395,
+        "y" : 567084.09920000099
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "PMNTN_SPOT" : 54392,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000096",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208998.27550000232,
+        "y" : 566840.83270000108
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 96,
+        "PMNTN_SPOT" : 54393,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : "도로변벤치10개",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000097",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208960.53799999971,
+        "y" : 566834.1548999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 97,
+        "PMNTN_SPOT" : 54394,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000098",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208908.83960000053,
+        "y" : 566745.12879999913
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 98,
+        "PMNTN_SPOT" : 54395,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000099",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208813.89350000024,
+        "y" : 566545.27670000121
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 99,
+        "PMNTN_SPOT" : 54396,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000100",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208771.06470000092,
+        "y" : 566463.81930000149
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 100,
+        "PMNTN_SPOT" : 54397,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000101",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208429.50509999879,
+        "y" : 566270.19920000248
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 101,
+        "PMNTN_SPOT" : 54398,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000102",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208168.78130000178,
+        "y" : 566110.61290000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 102,
+        "PMNTN_SPOT" : 54399,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "15m",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000103",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207712.90560000017,
+        "y" : 565984.42820000276
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 103,
+        "PMNTN_SPOT" : 54400,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : "원통벤치5개",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000104",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207523.82899999991,
+        "y" : 566022.5821000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 104,
+        "PMNTN_SPOT" : 54401,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "와이어시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000105",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207321.58010000177,
+        "y" : 566148.93390000053
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 105,
+        "PMNTN_SPOT" : 54402,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "와이어끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000106",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207294.8021000009,
+        "y" : 566161.25280000083
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 106,
+        "PMNTN_SPOT" : 54403,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : "철모바위",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000107",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207162.95120000374,
+        "y" : 566430.96960000321
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 107,
+        "PMNTN_SPOT" : 54404,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "22",
+        "MANAGE_SP2" : "헬기장",
+        "DETAIL_SPO" : "헬기장1",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000108",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207253.72200000379,
+        "y" : 566456.0775000006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 108,
+        "PMNTN_SPOT" : 54405,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000109",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207173.78100000229,
+        "y" : 566563.39330000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 109,
+        "PMNTN_SPOT" : 54406,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000110",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207168.96800000127,
+        "y" : 566633.10310000181
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 110,
+        "PMNTN_SPOT" : 54407,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000111",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207151.04959999863,
+        "y" : 566682.77880000137
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 111,
+        "PMNTN_SPOT" : 54408,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "흥국사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000112",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208688.69170000032,
+        "y" : 564984.0943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 112,
+        "PMNTN_SPOT" : 54409,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000113",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208211.32840000093,
+        "y" : 565577.55089999922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 113,
+        "PMNTN_SPOT" : 54410,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기차바위",
+        "ETC_MATTER" : "기차홈통바위",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000114",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207322.74770000111,
+        "y" : 566934.65569999814
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 114,
+        "PMNTN_SPOT" : 54411,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000115",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208149.96040000021,
+        "y" : 565574.56090000086
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 115,
+        "PMNTN_SPOT" : 54412,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "22",
+        "MANAGE_SP2" : "헬기장",
+        "DETAIL_SPO" : "헬기장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000116",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207353.86990000214,
+        "y" : 566893.32740000449
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 116,
+        "PMNTN_SPOT" : 54413,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000117",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207672.45110000204,
+        "y" : 565634.90110000223
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 117,
+        "PMNTN_SPOT" : 54414,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프15m",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000118",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207994.11740000173,
+        "y" : 566990.56399999745
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 118,
+        "PMNTN_SPOT" : 54415,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프5m",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000119",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207559.90360000078,
+        "y" : 565687.07610000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 119,
+        "PMNTN_SPOT" : 54416,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "암반,암석지대(바위)",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000120",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208112.51280000154,
+        "y" : 567022.07719999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 120,
+        "PMNTN_SPOT" : 54417,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "도솔봉2",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000121",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207477.19010000117,
+        "y" : 565666.03580000252
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 121,
+        "PMNTN_SPOT" : 54418,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000122",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208125.85039999988,
+        "y" : 567027.25130000152
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 122,
+        "PMNTN_SPOT" : 54419,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "도솔봉1",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000123",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207507.7192000011,
+        "y" : 565692.58990000375
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 123,
+        "PMNTN_SPOT" : 54420,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000124",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208135.28180000093,
+        "y" : 567031.9553999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 124,
+        "PMNTN_SPOT" : 54421,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프15m",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000125",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208300.19320000056,
+        "y" : 567118.04670000076
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 125,
+        "PMNTN_SPOT" : 54422,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000126",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208879.29999999981,
+        "y" : 565917.47720000334
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 126,
+        "PMNTN_SPOT" : 54423,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "묘",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000127",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209029.58820000105,
+        "y" : 566139.92060000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 127,
+        "PMNTN_SPOT" : 54424,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000128",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208397.06520000007,
+        "y" : 567135.31359999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 128,
+        "PMNTN_SPOT" : 54425,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "십자교차로",
+        "ETC_MATTER" : "사기막고개",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000129",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208924.95509999897,
+        "y" : 567255.26410000399
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 129,
+        "PMNTN_SPOT" : 54426,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "숫돌고개",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000130",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209550.67740000039,
+        "y" : 567607.06609999947
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 130,
+        "PMNTN_SPOT" : 54427,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000131",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208818.87689999957,
+        "y" : 566796.13419999927
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 131,
+        "PMNTN_SPOT" : 54428,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000132",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208635.02126030438,
+        "y" : 566698.89230081812
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 132,
+        "PMNTN_SPOT" : 54429,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "구매표소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000133",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208452.89620000031,
+        "y" : 566635.7183000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 133,
+        "PMNTN_SPOT" : 54430,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000134",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208365.29550000001,
+        "y" : 566574.87360000052
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 134,
+        "PMNTN_SPOT" : 54431,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119표지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000135",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208253.33950000256,
+        "y" : 566527.25820000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 135,
+        "PMNTN_SPOT" : 54432,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000136",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208187.30420000292,
+        "y" : 566488.42420000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 136,
+        "PMNTN_SPOT" : 54433,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000137",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208167.74700000044,
+        "y" : 566484.49819999933
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 137,
+        "PMNTN_SPOT" : 54434,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000138",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208119.83200000133,
+        "y" : 566493.87490000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 138,
+        "PMNTN_SPOT" : 54435,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000139",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208085.32230000105,
+        "y" : 566503.17600000277
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 139,
+        "PMNTN_SPOT" : 54436,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "난간시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000140",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208079.61310000066,
+        "y" : 566506.45580000244
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 140,
+        "PMNTN_SPOT" : 54437,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000141",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208030.92460000049,
+        "y" : 566531.83730000257
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 141,
+        "PMNTN_SPOT" : 54438,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "난간끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000142",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208018.35479999986,
+        "y" : 566562.05940000527
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 142,
+        "PMNTN_SPOT" : 54439,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119표지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000143",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207988.2629000023,
+        "y" : 566618.76960000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 143,
+        "PMNTN_SPOT" : 54440,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "난간",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000144",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207950.14950000029,
+        "y" : 566690.51170000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 144,
+        "PMNTN_SPOT" : 54441,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000145",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207900.96480000019,
+        "y" : 566748.00340000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 145,
+        "PMNTN_SPOT" : 54442,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119표지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000146",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207882.62750000134,
+        "y" : 566779.05270000175
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 146,
+        "PMNTN_SPOT" : 54443,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000147",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207805.99970000051,
+        "y" : 566798.47120000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 147,
+        "PMNTN_SPOT" : 54444,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000148",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207793.09660000075,
+        "y" : 566790.09050000459
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 148,
+        "PMNTN_SPOT" : 54445,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "내원암",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000149",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207722.25810000021,
+        "y" : 566757.41570000164
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 149,
+        "PMNTN_SPOT" : 54446,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000150",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207677.71609999985,
+        "y" : 566735.50950000249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 150,
+        "PMNTN_SPOT" : 54447,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,119",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000151",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207604.46470000129,
+        "y" : 566727.15169999935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 151,
+        "PMNTN_SPOT" : 54448,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "난간",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000152",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207483.67720000166,
+        "y" : 566710.88289999962
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 152,
+        "PMNTN_SPOT" : 54449,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000153",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207467.80010000244,
+        "y" : 566714.20959999971
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 153,
+        "PMNTN_SPOT" : 54450,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "청수옻닭",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000154",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209538.70079999976,
+        "y" : 567384.18070000224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 154,
+        "PMNTN_SPOT" : 54451,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "노원구갯골시점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000155",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205179.72860000096,
+        "y" : 564811.91970000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 155,
+        "PMNTN_SPOT" : 54452,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000156",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207467.05279999971,
+        "y" : 566026.81580000371
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 156,
+        "PMNTN_SPOT" : 54453,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000157",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207467.05279999971,
+        "y" : 566026.81580000371
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 157,
+        "PMNTN_SPOT" : 54454,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프50m",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000158",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207183.53020000178,
+        "y" : 566599.95119999908
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 158,
+        "PMNTN_SPOT" : 54455,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000159",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207903.97560000326,
+        "y" : 564585.9400000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 159,
+        "PMNTN_SPOT" : 54456,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000160",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205078.01660000067,
+        "y" : 564959.28420000523
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 160,
+        "PMNTN_SPOT" : 54457,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "도안사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000161",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207553.81080000009,
+        "y" : 564870.49560000561
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 161,
+        "PMNTN_SPOT" : 54458,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000162",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206831.9123999998,
+        "y" : 564934.62329999916
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 162,
+        "PMNTN_SPOT" : 54459,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000163",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205829.23030000087,
+        "y" : 564998.61549999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 163,
+        "PMNTN_SPOT" : 54460,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000164",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205623.50550000183,
+        "y" : 564857.8871000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 164,
+        "PMNTN_SPOT" : 54461,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "하강바위",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000165",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207364.55009999964,
+        "y" : 566104.18260000274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 165,
+        "PMNTN_SPOT" : 54462,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "수락정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000166",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207904.11310000252,
+        "y" : 564439.80159999989
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 166,
+        "PMNTN_SPOT" : 54463,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000167",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207431.53780000098,
+        "y" : 565153.41460000165
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 167,
+        "PMNTN_SPOT" : 54464,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000168",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207205.17980000097,
+        "y" : 565108.82110000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 168,
+        "PMNTN_SPOT" : 54465,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "독수리바위",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000169",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207011.54059999995,
+        "y" : 566373.96030000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 169,
+        "PMNTN_SPOT" : 54466,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "학림사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000170",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206880.64790000208,
+        "y" : 564664.58410000056
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 170,
+        "PMNTN_SPOT" : 54467,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "깔딱고개",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000171",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206426.74569999985,
+        "y" : 566084.91559999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 171,
+        "PMNTN_SPOT" : 54468,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000172",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206067.18700000085,
+        "y" : 563237.72309999913
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 172,
+        "PMNTN_SPOT" : 54469,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "약수터/운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000173",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205950.75350000057,
+        "y" : 563618.70960000344
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 173,
+        "PMNTN_SPOT" : 54470,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000174",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206034.41290000174,
+        "y" : 563831.50190000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 174,
+        "PMNTN_SPOT" : 54471,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000175",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206299.00070000067,
+        "y" : 563929.73740000278
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 175,
+        "PMNTN_SPOT" : 54472,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000176",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207502.4198000012,
+        "y" : 564798.30519999936
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 176,
+        "PMNTN_SPOT" : 54473,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000177",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207561.21480000392,
+        "y" : 564811.3069000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 177,
+        "PMNTN_SPOT" : 54474,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000178",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206495.77570000105,
+        "y" : 564251.76110000163
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 178,
+        "PMNTN_SPOT" : 54475,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "염불사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000179",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206305.46710000094,
+        "y" : 565113.64890000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 179,
+        "PMNTN_SPOT" : 54476,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000180",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206470.17780000065,
+        "y" : 565037.92960000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 180,
+        "PMNTN_SPOT" : 54477,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000181",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206002.64400000125,
+        "y" : 565085.68020000309
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 181,
+        "PMNTN_SPOT" : 54478,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000182",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206645.40860000066,
+        "y" : 564675.4944000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 182,
+        "PMNTN_SPOT" : 54479,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "석가사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000183",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207260.45359999966,
+        "y" : 564089.59860000014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 183,
+        "PMNTN_SPOT" : 54480,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "석천공원",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000184",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207254.48790000379,
+        "y" : 564187.63570000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 184,
+        "PMNTN_SPOT" : 54481,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000185",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207230.56490000058,
+        "y" : 566361.19680000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 185,
+        "PMNTN_SPOT" : 54482,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000186",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206674.65400000103,
+        "y" : 564875.30179999769
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 186,
+        "PMNTN_SPOT" : 54483,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000187",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206702.47800000012,
+        "y" : 565012.21319999732
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 187,
+        "PMNTN_SPOT" : 54484,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "치마바위/조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000188",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206843.46000000183,
+        "y" : 565197.31220000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 188,
+        "PMNTN_SPOT" : 54485,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000189",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206793.67080000043,
+        "y" : 564956.79060000367
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 189,
+        "PMNTN_SPOT" : 54486,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "출발지점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000190",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207479.7351000011,
+        "y" : 565508.62989999913
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 190,
+        "PMNTN_SPOT" : 54487,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000191",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205254.56979999971,
+        "y" : 564739.25919999927
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 191,
+        "PMNTN_SPOT" : 54488,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000192",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207446.28469999973,
+        "y" : 565101.63170000352
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 192,
+        "PMNTN_SPOT" : 54489,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : "군사경계",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000193",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208441.6575000016,
+        "y" : 564997.13150000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 193,
+        "PMNTN_SPOT" : 54490,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000194",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208442.70880000014,
+        "y" : 565413.35040000454
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 194,
+        "PMNTN_SPOT" : 54491,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "송암사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000195",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207849.46569999866,
+        "y" : 564706.12949999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 195,
+        "PMNTN_SPOT" : 54492,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000196",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208164.71130000055,
+        "y" : 565574.0129000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 196,
+        "PMNTN_SPOT" : 54493,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000197",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207708.94099999964,
+        "y" : 565640.17699999921
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 197,
+        "PMNTN_SPOT" : 54494,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "치마바위옆",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000198",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207488.28340000194,
+        "y" : 565813.86409999803
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 198,
+        "PMNTN_SPOT" : 54495,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000199",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207454.31779999938,
+        "y" : 565989.57050000131
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 199,
+        "PMNTN_SPOT" : 54496,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000200",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207432.17360000126,
+        "y" : 566096.84270000458
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 200,
+        "PMNTN_SPOT" : 54497,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판/벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000201",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205544.6967000002,
+        "y" : 563973.60500000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 201,
+        "PMNTN_SPOT" : 54498,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자/벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000202",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205566.74660000112,
+        "y" : 563981.01890000142
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 202,
+        "PMNTN_SPOT" : 54499,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "노원골약수",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000203",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205718.0548000019,
+        "y" : 564179.05409999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 203,
+        "PMNTN_SPOT" : 54500,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치/이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000204",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205822.43550000247,
+        "y" : 564192.07430000417
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 204,
+        "PMNTN_SPOT" : 54501,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000205",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205926.86660000216,
+        "y" : 564132.95170000382
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 205,
+        "PMNTN_SPOT" : 54502,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단(시작)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000206",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205934.23750000075,
+        "y" : 564105.2090999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 206,
+        "PMNTN_SPOT" : 54503,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000207",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205978.49550000299,
+        "y" : 563894.35710000247
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 207,
+        "PMNTN_SPOT" : 54504,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000208",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205982.9327000035,
+        "y" : 563857.36320000142
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 208,
+        "PMNTN_SPOT" : 54505,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000209",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206185.84830000158,
+        "y" : 563844.5605000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 209,
+        "PMNTN_SPOT" : 54506,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단(끝)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000210",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206250.52120000031,
+        "y" : 563874.20580000244
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 210,
+        "PMNTN_SPOT" : 54507,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000211",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206271.10450000037,
+        "y" : 563876.07090000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 211,
+        "PMNTN_SPOT" : 54508,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000212",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207430.7592999991,
+        "y" : 566033.94620000198
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 212,
+        "PMNTN_SPOT" : 54509,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000213",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206368.04849999957,
+        "y" : 564005.63320000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 213,
+        "PMNTN_SPOT" : 54510,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "대형화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000214",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205730.79679999966,
+        "y" : 564902.35559999943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 214,
+        "PMNTN_SPOT" : 54511,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "영원암",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000215",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206553.8900000006,
+        "y" : 565147.13580000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 215,
+        "PMNTN_SPOT" : 54512,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "구암약수",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000216",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206531.90579999983,
+        "y" : 565060.17550000176
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 216,
+        "PMNTN_SPOT" : 54513,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000217",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205933.57980000414,
+        "y" : 565041.23480000347
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 217,
+        "PMNTN_SPOT" : 54514,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000218",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206514.37870000023,
+        "y" : 564912.17349999957
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 218,
+        "PMNTN_SPOT" : 54515,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000219",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206678.93840000313,
+        "y" : 565034.39279999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 219,
+        "PMNTN_SPOT" : 54516,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000220",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207178.1977000013,
+        "y" : 563995.18549999967
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 220,
+        "PMNTN_SPOT" : 54517,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000221",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206225.68650000263,
+        "y" : 565648.19820000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 221,
+        "PMNTN_SPOT" : 54518,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000222",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207747.91210000217,
+        "y" : 564826.27580000274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 222,
+        "PMNTN_SPOT" : 54519,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000223",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207421.9168000007,
+        "y" : 566059.83650000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 223,
+        "PMNTN_SPOT" : 54520,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000224",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207442.52540000062,
+        "y" : 566026.55719999969
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 224,
+        "PMNTN_SPOT" : 54521,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000225",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206495.28679999989,
+        "y" : 564886.26080000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 225,
+        "PMNTN_SPOT" : 54522,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "새광장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000226",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206726.94710000139,
+        "y" : 565667.0820000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 226,
+        "PMNTN_SPOT" : 54523,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000227",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205537.04480000027,
+        "y" : 564432.36350000277
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 227,
+        "PMNTN_SPOT" : 54524,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000228",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205560.54910000041,
+        "y" : 564461.9766000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 228,
+        "PMNTN_SPOT" : 54525,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000229",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205620.83210000023,
+        "y" : 564456.46690000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 229,
+        "PMNTN_SPOT" : 54526,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000230",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206057.37019999977,
+        "y" : 564623.25549999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 230,
+        "PMNTN_SPOT" : 54527,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000231",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209137.64169999957,
+        "y" : 566353.82990000397
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 231,
+        "PMNTN_SPOT" : 54528,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000232",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209025.11220000032,
+        "y" : 566397.84930000082
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 232,
+        "PMNTN_SPOT" : 54529,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000233",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208839.93560000043,
+        "y" : 566429.02920000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 233,
+        "PMNTN_SPOT" : 54530,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000234",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209489.55240000226,
+        "y" : 567356.83200000413
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 234,
+        "PMNTN_SPOT" : 54531,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000235",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209290.50170000363,
+        "y" : 567503.71730000153
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 235,
+        "PMNTN_SPOT" : 54532,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000236",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209181.01910000015,
+        "y" : 567524.87360000052
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 236,
+        "PMNTN_SPOT" : 54533,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000237",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208932.60320000071,
+        "y" : 567261.1659000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 237,
+        "PMNTN_SPOT" : 54534,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000238",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208794.35600000061,
+        "y" : 567220.44099999964
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 238,
+        "PMNTN_SPOT" : 54535,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000239",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208494.66530000046,
+        "y" : 566973.1975000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 239,
+        "PMNTN_SPOT" : 54536,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000240",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208493.38559999969,
+        "y" : 566974.15069999918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 240,
+        "PMNTN_SPOT" : 54537,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000241",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208890.11380000412,
+        "y" : 567230.17620000429
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 241,
+        "PMNTN_SPOT" : 54538,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000242",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209032.41930000391,
+        "y" : 566949.68570000492
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 242,
+        "PMNTN_SPOT" : 54539,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "18",
+        "MANAGE_SP2" : "주차장",
+        "DETAIL_SPO" : "주차장",
+        "ETC_MATTER" : "50여대주차",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000243",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209389.13140000124,
+        "y" : 567292.47670000233
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 243,
+        "PMNTN_SPOT" : 54540,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000244",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209496.17450000159,
+        "y" : 567364.96409999765
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 244,
+        "PMNTN_SPOT" : 54541,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "입구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000245",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209313.19389999937,
+        "y" : 567072.83890000172
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 245,
+        "PMNTN_SPOT" : 54542,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "18",
+        "MANAGE_SP2" : "주차장",
+        "DETAIL_SPO" : "주차장",
+        "ETC_MATTER" : "20여대주차",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000246",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208946.18840000313,
+        "y" : 566818.88930000179
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 246,
+        "PMNTN_SPOT" : 54543,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "경고판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000247",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208859.68940000143,
+        "y" : 566772.31410000101
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 247,
+        "PMNTN_SPOT" : 54544,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "매표소,화장실,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000248",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208441.16480000317,
+        "y" : 566628.9915000014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 248,
+        "PMNTN_SPOT" : 54545,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : "벤치14개",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000249",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208414.53770000301,
+        "y" : 566622.56050000153
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 249,
+        "PMNTN_SPOT" : 54546,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : "벤치4개",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000250",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208349.68420000281,
+        "y" : 566558.59780000336
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 250,
+        "PMNTN_SPOT" : 54547,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119표지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000251",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208252.78749999963,
+        "y" : 566523.66159999929
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 251,
+        "PMNTN_SPOT" : 54548,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구",
+        "ETC_MATTER" : "장승,스피커",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000252",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208202.63549999986,
+        "y" : 566511.95830000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 252,
+        "PMNTN_SPOT" : 54549,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내도",
+        "ETC_MATTER" : "경고판",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000253",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208165.32430000138,
+        "y" : 566490.97770000249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 253,
+        "PMNTN_SPOT" : 54550,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : "벤치2개",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000254",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208094.4196000006,
+        "y" : 566498.33440000378
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 254,
+        "PMNTN_SPOT" : 54551,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "가이드바",
+        "ETC_MATTER" : "가이드바시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000255",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208079.0549000008,
+        "y" : 566500.03999999911
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 255,
+        "PMNTN_SPOT" : 54552,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : "벤치2개,은류폭포",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000256",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208043.20270000119,
+        "y" : 566520.71660000272
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 256,
+        "PMNTN_SPOT" : 54553,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119표지",
+        "ETC_MATTER" : "가이드바",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000257",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208016.10670000128,
+        "y" : 566561.30250000209
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 257,
+        "PMNTN_SPOT" : 54554,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "위험표지",
+        "ETC_MATTER" : "소방서 설치",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000258",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207987.68719999958,
+        "y" : 566612.07630000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 258,
+        "PMNTN_SPOT" : 54555,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "가이드바",
+        "ETC_MATTER" : "가이드바시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000259",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207977.30370000098,
+        "y" : 566662.14580000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 259,
+        "PMNTN_SPOT" : 54556,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "가이드바",
+        "ETC_MATTER" : "가이드바끝",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000260",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207942.81089999992,
+        "y" : 566701.09340000339
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 260,
+        "PMNTN_SPOT" : 54557,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119표지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000261",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207867.64390000235,
+        "y" : 566779.31610000134
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 261,
+        "PMNTN_SPOT" : 54558,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : "나무다리",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000262",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207796.7508000005,
+        "y" : 566786.70859999955
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 262,
+        "PMNTN_SPOT" : 54559,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "내원암",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000263",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207734.47200000379,
+        "y" : 566757.7266000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 263,
+        "PMNTN_SPOT" : 54560,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "산신각",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000264",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207668.64300000016,
+        "y" : 566714.41279999912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 264,
+        "PMNTN_SPOT" : 54561,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000265",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207659.50410000049,
+        "y" : 566736.53619999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 265,
+        "PMNTN_SPOT" : 54562,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "끝",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000266",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207635.06400000025,
+        "y" : 566739.58840000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 266,
+        "PMNTN_SPOT" : 54563,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : "긴의자3,통의자8",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000267",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207610.60680000018,
+        "y" : 566722.60659999773
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 267,
+        "PMNTN_SPOT" : 54564,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "가이드바",
+        "ETC_MATTER" : "시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000268",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207592.02300000191,
+        "y" : 566705.64140000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 268,
+        "PMNTN_SPOT" : 54565,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "가이드바",
+        "ETC_MATTER" : "끝",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000269",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207547.10029999912,
+        "y" : 566694.45739999972
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 269,
+        "PMNTN_SPOT" : 54566,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "가이드바",
+        "ETC_MATTER" : "시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000270",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207530.03540000413,
+        "y" : 566734.07719999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 270,
+        "PMNTN_SPOT" : 54567,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "가이드바",
+        "ETC_MATTER" : "끝",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000271",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207501.62130000163,
+        "y" : 566723.5075000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 271,
+        "PMNTN_SPOT" : 54568,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : "긴의자1,통의자5",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000272",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207481.50310000218,
+        "y" : 566706.14159999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 272,
+        "PMNTN_SPOT" : 54569,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000273",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207349.77180000022,
+        "y" : 566688.599700002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 273,
+        "PMNTN_SPOT" : 54570,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "수락산장",
+        "ETC_MATTER" : "약수터,안내도",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000274",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207281.03870000038,
+        "y" : 566696.27590000257
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 274,
+        "PMNTN_SPOT" : 54571,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000275",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207288.50650000013,
+        "y" : 566729.05830000155
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 275,
+        "PMNTN_SPOT" : 54572,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000276",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207278.81860000081,
+        "y" : 566734.37749999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 276,
+        "PMNTN_SPOT" : 54573,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프끝",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000277",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207268.36710000411,
+        "y" : 566755.98960000277
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 277,
+        "PMNTN_SPOT" : 54574,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119표지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000278",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207271.27610000409,
+        "y" : 566798.24660000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 278,
+        "PMNTN_SPOT" : 54575,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000279",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207267.50790000055,
+        "y" : 566811.37370000407
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 279,
+        "PMNTN_SPOT" : 54576,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표,로프끝",
+        "ETC_MATTER" : "로프끝,119표지",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000280",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207236.40820000134,
+        "y" : 566826.7081000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 280,
+        "PMNTN_SPOT" : 54577,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000281",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207181.09990000073,
+        "y" : 566750.42049999908
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 281,
+        "PMNTN_SPOT" : 54578,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000282",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207155.54680000059,
+        "y" : 566683.31540000252
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 282,
+        "PMNTN_SPOT" : 54579,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000283",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207180.62920000404,
+        "y" : 566589.0382000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 283,
+        "PMNTN_SPOT" : 54580,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000284",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207178.54700000025,
+        "y" : 566569.36880000122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 284,
+        "PMNTN_SPOT" : 54581,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "위험표지",
+        "ETC_MATTER" : "소방서설치",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000285",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207192.96510000341,
+        "y" : 566570.82400000095
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 285,
+        "PMNTN_SPOT" : 54582,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000286",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207209.83150000125,
+        "y" : 566565.83270000108
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 286,
+        "PMNTN_SPOT" : 54583,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "22",
+        "MANAGE_SP2" : "헬기장",
+        "DETAIL_SPO" : "헬기장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000287",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207238.13590000384,
+        "y" : 566458.91659999825
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 287,
+        "PMNTN_SPOT" : 54584,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000288",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207216.29790000245,
+        "y" : 566306.59519999847
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 288,
+        "PMNTN_SPOT" : 54585,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "코끼리바위",
+        "ETC_MATTER" : "로프끝,119표지",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000289",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207261.97440000251,
+        "y" : 566285.20200000145
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 289,
+        "PMNTN_SPOT" : 54586,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000290",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207290.78940000013,
+        "y" : 566161.03850000165
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 290,
+        "PMNTN_SPOT" : 54587,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프끝",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000291",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207335.83650000114,
+        "y" : 566144.40670000203
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 291,
+        "PMNTN_SPOT" : 54588,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000292",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207411.34310000017,
+        "y" : 566131.86429999955
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 292,
+        "PMNTN_SPOT" : 54589,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : "로프끝",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000293",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207420.30660000164,
+        "y" : 566118.70870000124
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 293,
+        "PMNTN_SPOT" : 54590,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000294",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207422.37519999873,
+        "y" : 566093.29340000264
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 294,
+        "PMNTN_SPOT" : 54591,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프끝",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000295",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207425.45540000033,
+        "y" : 566080.92060000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 295,
+        "PMNTN_SPOT" : 54592,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : "청학,상계,정상",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000296",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207468.58820000011,
+        "y" : 566025.95140000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 296,
+        "PMNTN_SPOT" : 54593,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : "통의자5개",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000297",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207517.6632000003,
+        "y" : 566023.51999999955
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 297,
+        "PMNTN_SPOT" : 54594,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프시작",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000298",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207570.84189999942,
+        "y" : 565969.29289999977
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 298,
+        "PMNTN_SPOT" : 54595,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "로프끝",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000299",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207576.88120000064,
+        "y" : 565952.21680000052
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 299,
+        "PMNTN_SPOT" : 54596,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단",
+        "ETC_MATTER" : "바위깍은계단",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000300",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207701.94350000285,
+        "y" : 565973.8518000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 300,
+        "PMNTN_SPOT" : 54597,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000301",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208086.84970000014,
+        "y" : 566062.13010000251
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 301,
+        "PMNTN_SPOT" : 54598,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점,의자",
+        "ETC_MATTER" : "긴의자2,통의자6",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000302",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208155.39049999975,
+        "y" : 566104.26220000163
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 302,
+        "PMNTN_SPOT" : 54599,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점,암반",
+        "ETC_MATTER" : "암반",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000303",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208386.27960000187,
+        "y" : 566218.63360000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 303,
+        "PMNTN_SPOT" : 54600,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000304",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 204898.55729999952,
+        "y" : 564335.68700000271
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 304,
+        "PMNTN_SPOT" : 54601,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000305",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 204945.70090000145,
+        "y" : 564964.75550000183
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 305,
+        "PMNTN_SPOT" : 54602,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000306",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205161.90460000373,
+        "y" : 564811.34649999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 306,
+        "PMNTN_SPOT" : 54603,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000307",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205447.32730000187,
+        "y" : 563856.85210000165
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 307,
+        "PMNTN_SPOT" : 54604,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000308",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205978.53350000177,
+        "y" : 563840.71140000224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 308,
+        "PMNTN_SPOT" : 54605,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000309",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206130.34070000052,
+        "y" : 563132.81959999911
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 309,
+        "PMNTN_SPOT" : 54606,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000310",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206148.11130000092,
+        "y" : 565187.52700000256
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 310,
+        "PMNTN_SPOT" : 54607,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000311",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206375.16860000324,
+        "y" : 566053.96600000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 311,
+        "PMNTN_SPOT" : 54608,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000312",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206686.27430000063,
+        "y" : 565052.8972000014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 312,
+        "PMNTN_SPOT" : 54609,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000313",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206690.90920000058,
+        "y" : 565069.69310000353
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 313,
+        "PMNTN_SPOT" : 54610,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "영원암",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000314",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206884.58040000033,
+        "y" : 565249.14170000143
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 314,
+        "PMNTN_SPOT" : 54611,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000315",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 206912.54240000062,
+        "y" : 565212.16750000045
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 315,
+        "PMNTN_SPOT" : 54612,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철모바위",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000316",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207171.71560000069,
+        "y" : 566424.04160000198
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 316,
+        "PMNTN_SPOT" : 54613,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000317",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207174.57959999982,
+        "y" : 566512.83730000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 317,
+        "PMNTN_SPOT" : 54614,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "23",
+        "MANAGE_SP2" : "정상",
+        "DETAIL_SPO" : "수락산정상",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000318",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207177.42620000057,
+        "y" : 566621.9814999979
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 318,
+        "PMNTN_SPOT" : 54615,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000319",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207177.49729999993,
+        "y" : 566538.73790000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 319,
+        "PMNTN_SPOT" : 54616,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000320",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207191.6744999988,
+        "y" : 563699.0810000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 320,
+        "PMNTN_SPOT" : 54617,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000321",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207197.96690000128,
+        "y" : 566459.33379999921
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 321,
+        "PMNTN_SPOT" : 54618,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000322",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207232.02419999987,
+        "y" : 566817.74730000272
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 322,
+        "PMNTN_SPOT" : 54619,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000323",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207284.51240000036,
+        "y" : 566701.15729999915
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 323,
+        "PMNTN_SPOT" : 54620,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000324",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207384.77840000391,
+        "y" : 563725.52710000239
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 324,
+        "PMNTN_SPOT" : 54621,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "23",
+        "MANAGE_SP2" : "정상",
+        "DETAIL_SPO" : "치마바위정상,조망점",
+        "ETC_MATTER" : "치마바위정상",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000325",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207393.94060000125,
+        "y" : 566113.45770000108
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 325,
+        "PMNTN_SPOT" : 54622,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : "치마바위",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000326",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207443.98390000034,
+        "y" : 566039.50750000216
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 326,
+        "PMNTN_SPOT" : 54623,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000327",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207461.77109999955,
+        "y" : 565873.03600000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 327,
+        "PMNTN_SPOT" : 54624,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000328",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207482.38860000018,
+        "y" : 565830.50760000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 328,
+        "PMNTN_SPOT" : 54625,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000329",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207510.38780000061,
+        "y" : 565752.8385000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 329,
+        "PMNTN_SPOT" : 54626,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "30m",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000330",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207548.3505000025,
+        "y" : 565931.2137000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 330,
+        "PMNTN_SPOT" : 54627,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "로프",
+        "ETC_MATTER" : "30m",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000331",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207583.33780000173,
+        "y" : 565951.66760000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 331,
+        "PMNTN_SPOT" : 54628,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000332",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207636.61250000075,
+        "y" : 563995.0736999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 332,
+        "PMNTN_SPOT" : 54629,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000333",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208146.93510000035,
+        "y" : 565776.4867000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 333,
+        "PMNTN_SPOT" : 54630,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000334",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208246.62670000084,
+        "y" : 565523.68810000271
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 334,
+        "PMNTN_SPOT" : 54631,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000335",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208251.47760000173,
+        "y" : 565538.95050000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 335,
+        "PMNTN_SPOT" : 54632,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "사진촬영대,의자",
+        "ETC_MATTER" : "긴의자2,통의자6",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000336",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208434.62949999981,
+        "y" : 566278.6286000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 336,
+        "PMNTN_SPOT" : 54633,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000337",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208451.58320000302,
+        "y" : 565359.71350000054
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 337,
+        "PMNTN_SPOT" : 54634,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000338",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208488.52580000181,
+        "y" : 565171.06530000269
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 338,
+        "PMNTN_SPOT" : 54635,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000339",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208488.90980000049,
+        "y" : 566283.80010000244
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 339,
+        "PMNTN_SPOT" : 54636,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000340",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208533.30939999875,
+        "y" : 566963.91340000182
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 340,
+        "PMNTN_SPOT" : 54637,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000341",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208544.65710000135,
+        "y" : 566905.32130000181
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 341,
+        "PMNTN_SPOT" : 54638,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000342",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208739.23730000295,
+        "y" : 566767.19300000183
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 342,
+        "PMNTN_SPOT" : 54639,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000343",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208749.80580000021,
+        "y" : 566439.20109999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 343,
+        "PMNTN_SPOT" : 54640,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000344",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208803.87550000101,
+        "y" : 567224.61320000142
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 344,
+        "PMNTN_SPOT" : 54641,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000345",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208863.82570000086,
+        "y" : 566613.64470000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 345,
+        "PMNTN_SPOT" : 54642,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000346",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208929.96660000086,
+        "y" : 566806.05250000209
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 346,
+        "PMNTN_SPOT" : 54643,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000347",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208934.01590000186,
+        "y" : 566809.40520000644
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 347,
+        "PMNTN_SPOT" : 54644,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000348",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208979.20469999965,
+        "y" : 566236.09620000049
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 348,
+        "PMNTN_SPOT" : 54645,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000349",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209000.4363000039,
+        "y" : 564565.77480000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 349,
+        "PMNTN_SPOT" : 54646,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : "돌담농원",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000350",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209032.00549999997,
+        "y" : 566949.10810000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 350,
+        "PMNTN_SPOT" : 54647,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000351",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209052.61910000257,
+        "y" : 566602.42550000176
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 351,
+        "PMNTN_SPOT" : 54648,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000352",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209071.05659999885,
+        "y" : 566409.87490000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 352,
+        "PMNTN_SPOT" : 54649,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000353",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209076.85750000272,
+        "y" : 566232.80510000139
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 353,
+        "PMNTN_SPOT" : 54650,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000354",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209144.47020000033,
+        "y" : 566264.8844000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 354,
+        "PMNTN_SPOT" : 54651,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "순화궁고개",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000355",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209171.9112000037,
+        "y" : 566340.01559999958
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 355,
+        "PMNTN_SPOT" : 54652,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000356",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 209498.13630000036,
+        "y" : 567353.58960000239
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 356,
+        "PMNTN_SPOT" : 54653,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000357",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 205138.39500000235,
+        "y" : 564713.35579999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 357,
+        "PMNTN_SPOT" : 54654,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000358",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 207253.72200000379,
+        "y" : 566456.0775000006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 358,
+        "PMNTN_SPOT" : 54655,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010359",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207626.01168018207,
+        "y" : 565655.06860160083
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 359,
+        "PMNTN_SPOT" : 54656,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "4136010010360",
+        "MNTN_ID" : "413601001"
+      },
+      "geometry" : {
+        "x" : 207803.94694271684,
+        "y" : 565637.64092172123
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 360,
+        "PMNTN_SPOT" : 54657,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000361",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208488.7680766508,
+        "y" : 565090.76340133324
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 361,
+        "PMNTN_SPOT" : 54658,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000362",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208128.11637130566,
+        "y" : 564243.83815990761
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 362,
+        "PMNTN_SPOT" : 54659,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000363",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208273.3171489276,
+        "y" : 565764.90002620406
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 363,
+        "PMNTN_SPOT" : 54660,
+        "MNTN_CODE" : "113500201",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "수락산",
+        "PAST_SPOT_" : "21110507000364",
+        "MNTN_ID" : "2111050700"
+      },
+      "geometry" : {
+        "x" : 208408.27256989945,
+        "y" : 565776.32006261684
+      }
+    }
+  ]
+}

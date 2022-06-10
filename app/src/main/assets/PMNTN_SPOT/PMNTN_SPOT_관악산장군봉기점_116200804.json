@@ -1,0 +1,1647 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 7806,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "위험",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040001",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194355.62490000017,
+        "y" : 539265.55629999936
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 7807,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119 K20",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040002",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194297.81130000111,
+        "y" : 539160.52190000191
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 7808,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "경고문",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040003",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194245.72640000097,
+        "y" : 539096.32990000211
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 7809,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "19",
+        "MANAGE_SP2" : "야영장",
+        "DETAIL_SPO" : "제1야영장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040004",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193924.81319999881,
+        "y" : 538804.05729999952
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 7810,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119 K17",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040005",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194546.04220000096,
+        "y" : 537627.71010000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 7811,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040006",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194843.55090000108,
+        "y" : 540112.49650000222
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 7812,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119 K72",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040007",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194818.44810000062,
+        "y" : 540055.16909999959
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 7813,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119 K39",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040008",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193904.54279999901,
+        "y" : 538466.83460000344
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 7814,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040009",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 195346.55950000044,
+        "y" : 540456.2583000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 7815,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119 K19",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040010",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194422.57070000004,
+        "y" : 539551.03089999966
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 7816,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "위험",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040011",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194188.10020000115,
+        "y" : 539027.11209999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 7817,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040012",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 195244.77850000001,
+        "y" : 540382.32470000349
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 7818,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040013",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 192241.35840000305,
+        "y" : 538919.56000000425
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 7819,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040014",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193045.38709999993,
+        "y" : 539268.45720000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 7820,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040015",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193062.70440000109,
+        "y" : 538357.82010000199
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 7821,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040016",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193160.79357212689,
+        "y" : 538500.83917797729
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 7822,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040017",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193329.74419999961,
+        "y" : 539660.5949000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 7823,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040018",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193421.56450000033,
+        "y" : 539694.00879999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 7824,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040019",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193459.7703999998,
+        "y" : 539775.83660000376
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 7825,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040020",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193467.12229999993,
+        "y" : 539236.66999999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 7826,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040021",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193489.36300000083,
+        "y" : 539784.29780000262
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 7827,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040022",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193531.10419999994,
+        "y" : 538826.12690000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 7828,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040023",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193534.59370000008,
+        "y" : 540105.35449999943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 7829,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040024",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193579.69930000044,
+        "y" : 539453.64159999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 7830,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040025",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193591.93300000113,
+        "y" : 539975.55690000206
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 7831,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040026",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193683.36510000005,
+        "y" : 539531.56000000238
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 7832,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040027",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193690.55200000107,
+        "y" : 538962.13100000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 7833,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040028",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193711.82090000063,
+        "y" : 538977.0017000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 7834,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040029",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193751.62660000194,
+        "y" : 539088.47020000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 7835,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040030",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193768.22440000158,
+        "y" : 538934.51109999977
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 7836,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040031",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193781.61639999971,
+        "y" : 539752.51559999958
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 7837,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040032",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193812.46760000102,
+        "y" : 539597.11180000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 7838,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040033",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193866.36110000033,
+        "y" : 538528.94689999893
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 7839,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040034",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193868.14150000177,
+        "y" : 539105.0316000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 7840,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040035",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193910.8973000003,
+        "y" : 539090.20209999941
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 7841,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040036",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193914.65759999957,
+        "y" : 538795.28740000166
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 7842,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040037",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193923.7068000026,
+        "y" : 538789.91500000283
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 7843,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040038",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193944.77819999959,
+        "y" : 539038.38390000351
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 7844,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040039",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193973.27360000089,
+        "y" : 540439.88949999958
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 7845,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040040",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193988.42850000132,
+        "y" : 540262.90110000223
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 7846,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040041",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194082.09760000184,
+        "y" : 539908.16279999912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 7847,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040042",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194125.1444000015,
+        "y" : 539681.02170000412
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 7848,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040043",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194153.43530000094,
+        "y" : 538306.68659999967
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 7849,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040044",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194319.48440000229,
+        "y" : 539877.46750000119
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 7850,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040045",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194347.72510000039,
+        "y" : 539943.83899999969
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 7851,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040046",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194355.25790000148,
+        "y" : 539785.40320000239
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 7852,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040047",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194362.71600000095,
+        "y" : 539905.58590000123
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 7853,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040048",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194384.03090000153,
+        "y" : 538590.65919999778
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 7854,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040049",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194388.39620000124,
+        "y" : 539985.91880000196
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 7855,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040050",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194417.14750000089,
+        "y" : 540569.69630000181
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 7856,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040051",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194423.09279999975,
+        "y" : 540137.10510000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 7857,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040052",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194457.15080000088,
+        "y" : 540221.56180000119
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 7858,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040053",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194483.53660000116,
+        "y" : 540728.45500000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 7859,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040054",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194488.46119999979,
+        "y" : 539935.13040000387
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 7860,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040055",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194496.74650000315,
+        "y" : 539639.77640000172
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 7861,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040056",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194504.46700000111,
+        "y" : 540128.57370000333
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 7862,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040057",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194529.19269999955,
+        "y" : 540542.14100000076
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 7863,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040058",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194530.26740000211,
+        "y" : 540159.37780000269
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 7864,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040059",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194538.29780000076,
+        "y" : 540075.69549999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 7865,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040060",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194554.60599999968,
+        "y" : 540210.7182
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 7866,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040061",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194562.50059999991,
+        "y" : 540634.35190000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 7867,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040062",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194563.74060000014,
+        "y" : 539807.3561000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 7868,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040063",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194572.00500000082,
+        "y" : 540431.48680000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 7869,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040064",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194581.33729999978,
+        "y" : 540502.96500000171
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 7870,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040065",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194612.16210000031,
+        "y" : 539856.24240000173
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 7871,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040066",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194614.69630000181,
+        "y" : 540074.81589999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 7872,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040067",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194633.85130000114,
+        "y" : 540659.03649999946
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 7873,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040068",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194671.31120000221,
+        "y" : 540256.0530999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 7874,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040069",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194765.50140000042,
+        "y" : 540199.11950000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 7875,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040070",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194771.02940000035,
+        "y" : 540034.3945000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 7876,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040071",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194842.81890000124,
+        "y" : 540111.29180000164
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 7877,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040072",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194868.37080000062,
+        "y" : 539711.08070000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 7878,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040073",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194940.7893000003,
+        "y" : 539979.25330000184
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 7879,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040074",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194952.6138000004,
+        "y" : 540025.49040000141
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 7880,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040075",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 195022.90580000076,
+        "y" : 539772.06299999729
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 7881,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040076",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 195119.6305999998,
+        "y" : 539767.50200000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 7882,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040077",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 195168.64620000124,
+        "y" : 539811.11600000411
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 7883,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040078",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 195192.73410000093,
+        "y" : 539623.94810000062
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 7884,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040079",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 195297.14810000174,
+        "y" : 539887.59950000234
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 7885,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040080",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 195381.31599999964,
+        "y" : 540078.98929999955
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 95984,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040081",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194389.07610000035,
+        "y" : 539360.20460000087
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 95985,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040082",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193869.21640000079,
+        "y" : 538561.19860000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 95986,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040083",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 193892.93109999917,
+        "y" : 538722.11109999905
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 95987,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040084",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194009.52259999918,
+        "y" : 538838.56200000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 95988,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040085",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 195310.99000000075,
+        "y" : 540446.76220000105
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 95989,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040086",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194873.09269999998,
+        "y" : 540195.71810000122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 95990,
+        "MNTN_CODE" : "116200804",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산장군봉기점",
+        "PAST_SPOT_" : "1162008040087",
+        "MNTN_ID" : "116200804"
+      },
+      "geometry" : {
+        "x" : 194140.41099999935,
+        "y" : 538318.68409999995
+      }
+    }
+  ]
+}

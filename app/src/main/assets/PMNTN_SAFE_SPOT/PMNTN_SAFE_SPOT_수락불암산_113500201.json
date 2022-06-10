@@ -1,0 +1,975 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "SAFE_SPOT1" : "SAFE_SPOT1",
+    "SAFE_SPOT2" : "SAFE_SPOT2",
+    "SAFE_SPOT3" : "SAFE_SPOT3",
+    "MGC" : "MGC",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "SAFE_SPOT1",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "SAFE_SPOT1"
+    },
+    {
+      "name" : "SAFE_SPOT2",
+      "type" : "esriFieldTypeString",
+      "alias" : "SAFE_SPOT2",
+      "length" : 50
+    },
+    {
+      "name" : "SAFE_SPOT3",
+      "type" : "esriFieldTypeString",
+      "alias" : "SAFE_SPOT3",
+      "length" : 50
+    },
+    {
+      "name" : "MGC",
+      "type" : "esriFieldTypeString",
+      "alias" : "MGC",
+      "length" : 50
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "SAFE_SPOT1" : 2237,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-1",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서울창포원 후문 20m 전방",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 204350.17800000124,
+        "y" : 565385.59290000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "SAFE_SPOT1" : 2238,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-2",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "상도교 초입",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 204457.90309999976,
+        "y" : 565168.10869999975
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "SAFE_SPOT1" : 2239,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-3",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "상도교 끝",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 204575.1819000002,
+        "y" : 565230.32750000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "SAFE_SPOT1" : 2240,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-4",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "진성교회 후방 50m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 204593.66729999892,
+        "y" : 565298.0420000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "SAFE_SPOT1" : 2241,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-5",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "진성교회 후방 30m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 204620.99880000018,
+        "y" : 565319.14550000429
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "SAFE_SPOT1" : 2242,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-6",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락리버시티 3단지 305동 전방 80m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 204900.50950000063,
+        "y" : 565480.24289999902
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "SAFE_SPOT1" : 2243,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-7",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락리버시티 3단지 305동 전방 130m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 204933.99590000138,
+        "y" : 565531.31849999912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "SAFE_SPOT1" : 2244,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-8",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락리버시티 3단지 305동 전방 370m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205167.69670000207,
+        "y" : 565584.73680000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "SAFE_SPOT1" : 2245,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-9",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락리버시티 3단지 306동 전방 400m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205265.71089999937,
+        "y" : 565410.54329999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "SAFE_SPOT1" : 2246,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-10",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락리버시티 3단지 306동 전방 600m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205243.74610000104,
+        "y" : 565275.12079999782
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "SAFE_SPOT1" : 2247,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-11",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "은빛 3단지 아파트 309동 후방 400m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205117.69629999995,
+        "y" : 565141.85309999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "SAFE_SPOT1" : 2248,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-12",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "은빛 3단지 아파트 309동 후방 200m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205155.74390000105,
+        "y" : 564950.97289999947
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "SAFE_SPOT1" : 2249,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-13",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "은빛 3단지 아파트 309동 후방 90m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205172.57490000129,
+        "y" : 564836.66310000233
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "SAFE_SPOT1" : 2250,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-14",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "은빛 3단지 아파트 309동 후방 60m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205159.35740000103,
+        "y" : 564814.45680000074
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "SAFE_SPOT1" : 2251,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-15",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "은빛 3단지 아파트 301동 전방 60m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205162.07290000189,
+        "y" : 564703.46790000424
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "SAFE_SPOT1" : 2252,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-16",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "벽운동 근린공원 후방 100m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205181.62110000104,
+        "y" : 564477.05949999951
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "SAFE_SPOT1" : 2253,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-17",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "벽운동 근린공원 전방 230m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205346.65369999968,
+        "y" : 564361.73450000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "SAFE_SPOT1" : 2254,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-18",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "벽운동 근린공원 전방 330m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205329.07100000139,
+        "y" : 564268.49120000191
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "SAFE_SPOT1" : 2255,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-19",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락산 만남의 광장 후방 240m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205430.63640000112,
+        "y" : 564088.75269999914
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "SAFE_SPOT1" : 2256,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-20",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락산 만남의 광장 후방 30m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205453.69940000214,
+        "y" : 563896.75449999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "SAFE_SPOT1" : 2257,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-21",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락산 만남의 광장 전방 250m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205577.31979999971,
+        "y" : 563728.131500002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "SAFE_SPOT1" : 2258,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-22",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락산 만남의 광장 전방 320m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205564.12850000057,
+        "y" : 563665.96810000204
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "SAFE_SPOT1" : 2259,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-23",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락산 만남의 광장 전방 500m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205490.13229999971,
+        "y" : 563500.54300000146
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "SAFE_SPOT1" : 2260,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-24",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락산 만남의 광장 전방 540m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205528.0764000006,
+        "y" : 563488.35930000432
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "SAFE_SPOT1" : 2261,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-25",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락산 만남의 광장 전방 600m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205528.1015999997,
+        "y" : 563450.62260000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "SAFE_SPOT1" : 2262,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-26",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락산 만남의 광장 전방 770m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205623.47389999963,
+        "y" : 563317.49860000424
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "SAFE_SPOT1" : 2263,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-27",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락산 만남의 광장 전방 890m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205741.70720000006,
+        "y" : 563300.93119999953
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "SAFE_SPOT1" : 2264,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-28",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "수락산 만남의 광장 전방 1030m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205896.99100000132,
+        "y" : 563291.0513000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "SAFE_SPOT1" : 2265,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-29",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "당고개역 후방 1350m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 205939.97040000185,
+        "y" : 563640.70170000009
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "SAFE_SPOT1" : 2266,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-30",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "당고개역 후방 800m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 206478.9654000001,
+        "y" : 563692.16190000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "SAFE_SPOT1" : 2267,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-31",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "당고개역 후방 700m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 206561.89859999996,
+        "y" : 563685.56780000217
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "SAFE_SPOT1" : 2268,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-32",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "당고개역 후방 500m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 206608.81369999982,
+        "y" : 563488.04230000451
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "SAFE_SPOT1" : 2269,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-33",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "당고개역 앞",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 206913.27909999993,
+        "y" : 563375.08100000396
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "SAFE_SPOT1" : 2270,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-34",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "철쭉동산 입구 앞",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207318.3518000003,
+        "y" : 563237.80150000006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "SAFE_SPOT1" : 2271,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-35",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "철쭉동산",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207373.08560000081,
+        "y" : 563200.11339999922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "SAFE_SPOT1" : 2272,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-36",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "철쭉동산 전방 200m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207365.31620000117,
+        "y" : 563008.09320000187
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "SAFE_SPOT1" : 2273,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-37",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "불암산 도시자연공원 전방 80m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207187.29610000178,
+        "y" : 562775.96700000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "SAFE_SPOT1" : 2274,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-38",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "공릉축구장 전방 100m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207215.72360000014,
+        "y" : 562554.01120000333
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "SAFE_SPOT1" : 2275,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-39",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "재현중학교 후방 100m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207212.27939999942,
+        "y" : 562456.33690000139
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "SAFE_SPOT1" : 2276,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-40",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "넓쩍바위 후방 550m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207358.52050000057,
+        "y" : 561720.60099999979
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "SAFE_SPOT1" : 2277,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-41",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서울노원교회 후방 250m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207786.13719999976,
+        "y" : 561163.82220000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "SAFE_SPOT1" : 2278,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-42",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서울노원교회 후방 700m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207850.13470000029,
+        "y" : 560679.96649999917
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "SAFE_SPOT1" : 2279,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-43",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서울노원교회 후방 900m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 208010.80740000214,
+        "y" : 560626.84520000219
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "SAFE_SPOT1" : 2280,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-44",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서울여대부속어린이집 후방 1450m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 208083.50939999986,
+        "y" : 560285.06699999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "SAFE_SPOT1" : 2281,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-45",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서울여대부속어린이집 후방 1350m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 208044.76770000067,
+        "y" : 560190.68789999932
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "SAFE_SPOT1" : 2282,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-46",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서울여대부속어린이집 후방 350m",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207879.59769999981,
+        "y" : 559395.84229999967
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "SAFE_SPOT1" : 2283,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-47",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "화랑대역 앞",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207497.8908000011,
+        "y" : 557879.37060000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "SAFE_SPOT1" : 2284,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-48",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "도솔사 후방 200m(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 206704.65240000002,
+        "y" : 563888.79480000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "SAFE_SPOT1" : 2285,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-49",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "도솔사 전방 200m(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 206836.04389999993,
+        "y" : 563955.49660000391
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "SAFE_SPOT1" : 2286,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-50",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "덕릉로 129가길 (우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 206989.08710000012,
+        "y" : 564496.14819999784
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "SAFE_SPOT1" : 2287,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-51",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207235.26250000019,
+        "y" : 564425.32600000314
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "SAFE_SPOT1" : 2288,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-52",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207227.38350000046,
+        "y" : 564356.50500000082
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "SAFE_SPOT1" : 2289,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-53",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207428.5466,
+        "y" : 564317.8366000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "SAFE_SPOT1" : 2290,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-54",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "송암사 전방 300m(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207873.92760000005,
+        "y" : 564425.909500001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "SAFE_SPOT1" : 2291,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-55",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "덕릉교 앞(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207701.32809999958,
+        "y" : 564104.98440000229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "SAFE_SPOT1" : 2292,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-56",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 208170.56269999873,
+        "y" : 564185.34779999964
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "SAFE_SPOT1" : 2293,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-57",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207790.80550000072,
+        "y" : 563703.28270000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "SAFE_SPOT1" : 2294,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-58",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "철쭉동산 후방 360m(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207659.63769999985,
+        "y" : 563399.04649999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "SAFE_SPOT1" : 2295,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-59",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "철쭉동산 후방 325m(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207623.46670000162,
+        "y" : 563397.90320000052
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "SAFE_SPOT1" : 2296,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-60",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "철쭉동산 후방 200m(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207504.40310000163,
+        "y" : 563354.50799999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "SAFE_SPOT1" : 2297,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "1-61",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "철쭉동산 후방 180m(우회구간)",
+        "MNTN_NM" : "수락불암산"
+      },
+      "geometry" : {
+        "x" : 207479.70820000023,
+        "y" : 563345.60649999976
+      }
+    }
+  ]
+}

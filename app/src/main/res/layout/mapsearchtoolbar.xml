@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="5dp"
+    android:weightSum="5"
+    android:background="@color/white"
+    android:orientation="horizontal">
+    <ImageButton
+        android:id="@+id/searchbtn_back"
+        android:layout_width="25dp"
+        android:layout_height="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="center"
+        android:background="@drawable/back"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="5.5"
+        android:background="@drawable/customborder"
+        android:descendantFocusability="beforeDescendants"
+        android:focusableInTouchMode="true">
+        <ImageView
+            android:id="@+id/search_icon"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/search" />
+
+        <EditText
+            android:id="@+id/et_mapsearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="41dp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="10dp"
+            android:layout_toRightOf="@+id/search_icon"
+            android:background="@android:color/transparent"
+            android:hint="장소 OR 주소 검색"
+            android:imeOptions="actionSearch"
+            android:inputType="text"
+            android:textColor="#494949"
+            android:textColorHint="#a9a9a9"
+            android:textSize="16sp" >
+            <requestFocus/>
+        </EditText>
+    </RelativeLayout>
+</LinearLayout>

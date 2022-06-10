@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.Runner8">
+
+    <!-- 절전 모드 해제 권한-->
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <!-- 만보기 -->
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION"/>
+
+    <!-- LOCATION -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/runner8_7_2"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Menu.NoActionBar"
+        android:usesCleartextTraffic="true"
+        android:requestLegacyExternalStorage="true">
+        <meta-data
+            android:name="com.naver.maps.map.CLIENT_ID"
+            android:value="6iu0zg7ymk"/>
+
+        <activity android:name="com.example.Runner8.MainActivity"
+            android:windowSoftInputMode="adjustUnspecified|adjustPan">
+        </activity>
+
+        <!-- loginActivity 먼저 시작 -->
+
+        <activity android:name="com.example.Runner8.TRASH.MainActivity33">
+        </activity>
+        <activity android:name="com.example.Runner8.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.Runner8.TRASH.Sample2">
+        </activity>
+        <activity android:name="com.example.Runner8.loginActivity">
+        </activity>
+        <activity android:name="com.example.Runner8.RegisterActivity" />
+        <activity android:name="com.example.Runner8.ui.F_H.Cart.NewCart.FoodCartActivity" />
+        <activity android:name="com.example.Runner8.TRASH.calendar.MemoActivity" />
+        <activity android:name="com.example.Runner8.TRASH.calendar.DetailActivity" />
+        <activity android:name="com.example.Runner8.TRASH.calendar.EditActivity" />
+        <activity android:name="com.example.Runner8.ui.F_H.calorie.Activity.FoodRepActivity" />
+        <activity android:name="com.example.Runner8.TRASH.BookMarkActivity" />
+        <activity android:name="com.example.Runner8.ui.setting.AlarmSettingActivity" />
+        <activity android:name="com.example.Runner8.TRASH.comm_search_sns_activity" />
+        <activity android:name="com.example.Runner8.ui.GetUserData.GetUserDataActivity" />
+        <activity android:name="com.example.Runner8.TRASH.AlbumActivity" />
+        <activity android:name="com.example.Runner8.ui.Graph.GraphActivity" />
+        <activity android:name="com.example.Runner8.ui.community.Activity.UploadBoardActivity" />
+        <activity android:name="com.example.Runner8.ui.community.Activity.ComSearchActivity"/>
+        <activity android:name="com.example.Runner8.ui.community.Activity.ComUserActivity"/>
+        <activity android:name="com.example.Runner8.ui.community.Activity.ComNoticeActivity"/>
+        <activity android:name="com.example.Runner8.ui.F_H.calorie.Activity.FoodSearchActivity"/>
+        <activity android:name="com.example.Runner8.TRASH.MapSearchActivity"/>
+        <activity android:name=".TestActivity"/>
+        <activity android:name="com.example.Runner8.ui.map.Guide.GuideActivity"/>
+        <activity android:name="com.example.Runner8.ui.map.UFSRecord.MapUFSRecordActivity"/>
+        <activity android:name="com.example.Runner8.TRASH.FoodQuickActivity"/>
+        <activity android:name="com.example.Runner8.TRASH.FoodDetailActivity"/>
+
+        <activity
+            android:name="com.example.Runner8.ui.community.Activity.ComPickBoardActivity"
+            android:windowSoftInputMode="adjustResize" />
+
+        <receiver
+            android:name="com.example.Runner8.ui.setting.AlarmReceiver"
+            android:enabled="true"
+            android:exported="false" />
+
+        <service
+            android:name="com.example.Runner8.ui.setting.AlarmService"
+            android:enabled="true" />
+
+        <service
+            android:name="com.example.Runner8.TRASH.MapService"
+            android:foregroundServiceType="location"
+            >
+        </service>
+
+        <service android:name="com.example.Runner8.TRASH.MapAlarmService"/>
+        <receiver android:name="com.example.Runner8.TRASH.MapAlarmReceiver"/>
+        <service android:name="com.example.Runner8.ui.map.ForegroundService.LocationService"
+            android:enabled="true"
+            android:exported="true"
+            android:foregroundServiceType="location">
+
+        </service>
+        <service android:name=".ui.map.Service.BackgroundLocationUpdateService"
+            android:foregroundServiceType="location"
+            >
+
+
+        </service>
+        <service
+            android:name="com.example.Runner8.TRASH.LocationUpdatesIntentService"
+            android:exported="false" />
+        <receiver android:name="com.example.Runner8.TRASH.LocationUpdatesBroadcastReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.location.sample.
+                locationupdatespendingintent.LocationUpdatesBroadcastReceiver.ACTION_PROCESS_UPDATES" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

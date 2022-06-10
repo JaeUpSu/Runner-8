@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/page_home"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="홈"/>
+    <item
+        android:id="@+id/page_calendar"
+        android:enabled="true"
+        android:icon="@drawable/calendar"
+        android:title="달력"/>
+    <item
+        android:id="@+id/page_commu"
+        android:enabled="true"
+        android:icon="@drawable/commu"
+        android:title="북"/>
+    <item
+        android:id="@+id/page_map"
+        android:enabled="true"
+        android:icon="@drawable/map"
+        android:title="지도"/>
+    <item
+        android:id="@+id/page_user"
+        android:enabled="true"
+        android:icon="@drawable/profile"
+        android:title="나"/>
+
+</menu>

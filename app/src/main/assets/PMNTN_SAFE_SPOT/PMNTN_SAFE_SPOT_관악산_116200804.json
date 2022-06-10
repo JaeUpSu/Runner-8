@@ -1,0 +1,1080 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "SAFE_SPOT1" : "SAFE_SPOT1",
+    "SAFE_SPOT2" : "SAFE_SPOT2",
+    "SAFE_SPOT3" : "SAFE_SPOT3",
+    "MGC" : "MGC",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "SAFE_SPOT1",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "SAFE_SPOT1"
+    },
+    {
+      "name" : "SAFE_SPOT2",
+      "type" : "esriFieldTypeString",
+      "alias" : "SAFE_SPOT2",
+      "length" : 50
+    },
+    {
+      "name" : "SAFE_SPOT3",
+      "type" : "esriFieldTypeString",
+      "alias" : "SAFE_SPOT3",
+      "length" : 50
+    },
+    {
+      "name" : "MGC",
+      "type" : "esriFieldTypeString",
+      "alias" : "MGC",
+      "length" : 50
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "SAFE_SPOT1" : 2466,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-1",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "사당역 4번출구 전방 650m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 198000.82010000013,
+        "y" : 541317.93329999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "SAFE_SPOT1" : 2467,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-2",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "사당역 4번출구 전방 750m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197995.49089999963,
+        "y" : 541228.0354999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "SAFE_SPOT1" : 2468,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-3",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "사당역 4번출구 전방 900m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 198078.61300000083,
+        "y" : 541095.94200000353
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "SAFE_SPOT1" : 2469,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-4",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "사당역 4번출구 전방 1150m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197960.91040000133,
+        "y" : 540897.30420000106
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "SAFE_SPOT1" : 2470,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-5",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "사당역 4번출구 전방 1300m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197947.6671000002,
+        "y" : 541003.8545000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "SAFE_SPOT1" : 2471,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-6",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "사당역 4번출구 전방 1400m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197891.92810000014,
+        "y" : 540973.90200000443
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "SAFE_SPOT1" : 2472,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-7",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : " 사당역 4번출구 전방 1550m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197806.14180000219,
+        "y" : 541060.49360000156
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "SAFE_SPOT1" : 2473,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-8",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "사당역 4번출구 전방 1700m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197681.41160000023,
+        "y" : 541064.96689999849
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "SAFE_SPOT1" : 2474,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-9",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : " 사당역 4번출구 전방 1850m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197585.87880000006,
+        "y" : 541086.08139999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "SAFE_SPOT1" : 2475,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-10",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉천아파트 후방 100m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197439.02649999969,
+        "y" : 541067.25760000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "SAFE_SPOT1" : 2476,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-11",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉천아파트 옆 150m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197418.66580000054,
+        "y" : 541020.64949999936
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "SAFE_SPOT1" : 2477,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-12",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉천아파트 전방 100m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197360.27840000018,
+        "y" : 541014.00860000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "SAFE_SPOT1" : 2478,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-13",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "삼정아파트  옆 50m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197278.87729999982,
+        "y" : 540966.31069999933
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "SAFE_SPOT1" : 2479,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-14",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "삼정아파트 전방 150m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197299.18999999948,
+        "y" : 540861.97680000402
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "SAFE_SPOT1" : 2480,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-15",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "길상사 전방 200m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197229.27789999917,
+        "y" : 540785.41910000332
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "SAFE_SPOT1" : 2481,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-16",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "길상사 옆 250m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197200.06730000116,
+        "y" : 540734.37509999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "SAFE_SPOT1" : 2482,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-17",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "길상사 옆 150m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197147.89010000136,
+        "y" : 540785.44660000131
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "SAFE_SPOT1" : 2483,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-18",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "길상사 옆 150m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 197089.50480000023,
+        "y" : 540789.90619999915
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "SAFE_SPOT1" : 2484,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-19",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "보성사 후방 300m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 196873.61089999974,
+        "y" : 540684.54730000161
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "SAFE_SPOT1" : 2485,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-20",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "낙성대 터널 전방 100m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 196691.54720000084,
+        "y" : 541128.5634000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "SAFE_SPOT1" : 2486,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-21",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "낙성대 도서관 전방 50m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 196367.89250000007,
+        "y" : 541389.51649999805
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "SAFE_SPOT1" : 2487,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-22",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "낙성대 도서관 전방 100m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 196319.23880000133,
+        "y" : 541386.20830000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "SAFE_SPOT1" : 2488,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-23",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "낙성대 도서관 전방 100m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 196281.20020000078,
+        "y" : 541382.89560000226
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "SAFE_SPOT1" : 2489,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-24",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "낙성대 도서관 전방 150m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 196244.96460000053,
+        "y" : 541455.05310000293
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "SAFE_SPOT1" : 2490,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-25",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "낙성대 도서관 전방 300m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 196108.75510000065,
+        "y" : 541488.41159999929
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "SAFE_SPOT1" : 2491,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-26",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "낙성대 도서관 전방 400m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 196027.38900000043,
+        "y" : 541519.52620000206
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "SAFE_SPOT1" : 2492,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-27",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "낙성대 도서관 전방 400m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 196000.8395999996,
+        "y" : 541494.0120000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "SAFE_SPOT1" : 2493,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-28",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서울대학교 치과병원 후방 200m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 195903.38690000121,
+        "y" : 541189.95629999973
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "SAFE_SPOT1" : 2494,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-29",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "관악산시도서관 후방 20m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 195230.08499999996,
+        "y" : 540987.20919999853
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "SAFE_SPOT1" : 2495,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-30",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "관악산시도서관 전방 100m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 195284.87980000116,
+        "y" : 540895.05930000171
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "SAFE_SPOT1" : 2496,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-31",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "관악산 야외식물원 위 250m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 195392.57680000085,
+        "y" : 540481.01960000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "SAFE_SPOT1" : 2497,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-32",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "약수암 후방 350m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 195258.02170000039,
+        "y" : 540334.59300000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "SAFE_SPOT1" : 2498,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-33",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "약수암 후방 250m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 195173.94140000083,
+        "y" : 540275.81850000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "SAFE_SPOT1" : 2499,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-34",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "약수암 전방 100m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 194927.87019999977,
+        "y" : 540072.85960000381
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "SAFE_SPOT1" : 2500,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-35",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "화음사 후방 450m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 194830.58000000007,
+        "y" : 540120.64350000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "SAFE_SPOT1" : 2501,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-36",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "화음사 후방 350m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 194805.75450000167,
+        "y" : 540035.1995000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "SAFE_SPOT1" : 2502,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-37",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "화음사 후방 250m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 194746.46440000087,
+        "y" : 540014.14920000173
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "SAFE_SPOT1" : 2503,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-38",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "화음사 후방 100m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 194659.76779999956,
+        "y" : 540025.30299999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "SAFE_SPOT1" : 2504,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-39",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "화음사 후방 50m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 194593.43320000079,
+        "y" : 540056.42190000042
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "SAFE_SPOT1" : 2505,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-40",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "화음사 전방 150m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 194426.19010000024,
+        "y" : 540012.13749999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "SAFE_SPOT1" : 2506,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-41",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "약수사 옆 150m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 194348.27799999993,
+        "y" : 539930.06010000221
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "SAFE_SPOT1" : 2507,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-42",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "약수사 옆 150m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 194333.20569999982,
+        "y" : 539883.45610000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "SAFE_SPOT1" : 2508,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-43",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "약수사 전방 300m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 194120.72740000021,
+        "y" : 539686.0476000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "SAFE_SPOT1" : 2509,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-44",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 후방 700m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193863.18769999966,
+        "y" : 539587.45550000109
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "SAFE_SPOT1" : 2510,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-45",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 후방 650m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193810.08370000031,
+        "y" : 539564.18759999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "SAFE_SPOT1" : 2511,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-46",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 후방 600m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193785.29750000034,
+        "y" : 539547.55810000375
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "SAFE_SPOT1" : 2512,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-47",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 후방 350m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193591.46559999883,
+        "y" : 539463.35529999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "SAFE_SPOT1" : 2513,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-48",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 옆 50m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193455.9271000009,
+        "y" : 539252.58669999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "SAFE_SPOT1" : 2514,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-49",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 옆 50m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193466.52049999963,
+        "y" : 539221.50229999982
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "SAFE_SPOT1" : 2515,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-50",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 전방",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193384.19130000006,
+        "y" : 539169.40370000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "SAFE_SPOT1" : 2516,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-51",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 전방 200m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193298.27350000199,
+        "y" : 539057.37619999982
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "SAFE_SPOT1" : 2517,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-52",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 전방 250m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193250.48440000135,
+        "y" : 539047.42600000091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "SAFE_SPOT1" : 2518,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-53",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 전방 350m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193180.52259999979,
+        "y" : 538974.23200000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "SAFE_SPOT1" : 2519,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-54",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 전방 400m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193192.89219999965,
+        "y" : 538952.02470000274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "SAFE_SPOT1" : 2520,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-55",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 전방 490m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193158.32040000055,
+        "y" : 538875.47250000387
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "SAFE_SPOT1" : 2521,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-56",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호압사 전방 540m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 193112.32919999957,
+        "y" : 538901.037200002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "SAFE_SPOT1" : 2522,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-57",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호암터널 후방 60m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 192804.05370000005,
+        "y" : 538498.4178000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "SAFE_SPOT1" : 2523,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-58",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호암터널 후방 50m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 192801.39140000008,
+        "y" : 538489.54120000079
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "SAFE_SPOT1" : 2524,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-59",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "호암터널 전방 60m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 192778.34570000041,
+        "y" : 538445.16669999808
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "SAFE_SPOT1" : 2525,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-60",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "석수역 1번출구 전방 1900m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 192556.81400000118,
+        "y" : 538101.30460000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "SAFE_SPOT1" : 2526,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-61",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "석수역 1번출구 전방 1650m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 192322.25619999971,
+        "y" : 538047.13400000148
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "SAFE_SPOT1" : 2527,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-62",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "석수역 1번툴구 전방 1530m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 192221.33990000095,
+        "y" : 538011.71199999936
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "SAFE_SPOT1" : 2528,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-63",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "석수역 1번출구 전방 1380m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 192129.17260000017,
+        "y" : 537870.84620000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "SAFE_SPOT1" : 2529,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-64",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "석수역 1번출구 전방 1090m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 191951.97730000131,
+        "y" : 537660.14180000126
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "SAFE_SPOT1" : 2530,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-65",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "석수역 1번출구 전방 920m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 191961.5484000016,
+        "y" : 537490.32400000282
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "SAFE_SPOT1" : 2531,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-66",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "석수역 1번출구 전방 790m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 192017.19720000122,
+        "y" : 537379.28460000455
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "SAFE_SPOT1" : 2532,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-67",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "석수역 1번출구 전방 450m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 191813.44849999994,
+        "y" : 537179.70730000176
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "SAFE_SPOT1" : 2533,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "5-68",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "석수역 1번출구 전방 360m",
+        "MNTN_NM" : "관악산"
+      },
+      "geometry" : {
+        "x" : 191733.79000000097,
+        "y" : 537174.23660000227
+      }
+    }
+  ]
+}

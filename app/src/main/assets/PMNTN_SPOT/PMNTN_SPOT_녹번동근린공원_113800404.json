@@ -1,0 +1,531 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 17438,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "방범초소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040001",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193855.65610000025,
+        "y" : 555994.49869999848
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 17439,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "녹번동433",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040002",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193866.50860000122,
+        "y" : 556017.14360000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 17440,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "삼각점,삼각점,허리돌리기,철봉,역기,평행봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040003",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194034.99000000115,
+        "y" : 556050.25090000406
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 17441,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040004",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193851.62249999959,
+        "y" : 555992.12800000049
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 17442,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040005",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193887.55990000069,
+        "y" : 556024.86310000345
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 17443,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040006",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193905.79650000017,
+        "y" : 556038.62310000136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 17444,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040007",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193907.39570000023,
+        "y" : 556059.30250000395
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 17445,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040008",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193917.75050000194,
+        "y" : 556079.77080000378
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 17446,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040009",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193950.90960000083,
+        "y" : 556070.65750000253
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 17447,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040010",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193965.26820000075,
+        "y" : 556110.9755000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 17448,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040011",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193967.08559999894,
+        "y" : 556035.24780000374
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 17449,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040012",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193970.6174999997,
+        "y" : 555996.48890000209
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 17450,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040013",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 193970.88530000206,
+        "y" : 556089.90020000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 17451,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040014",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194001.75920000114,
+        "y" : 555874.19060000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 17452,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040015",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194016.30140000209,
+        "y" : 556071.73929999955
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 17453,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040016",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194018.81739999913,
+        "y" : 555926.48619999923
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 17454,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040017",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194029.27870000154,
+        "y" : 555909.97510000132
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 17455,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040018",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194032.68464702554,
+        "y" : 556099.2560323514
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 17456,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040019",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194035.97130000126,
+        "y" : 556056.1668999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 17457,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040020",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194039.14220880065,
+        "y" : 555910.85149868578
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 17458,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040021",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194070.85700000171,
+        "y" : 555946.22700000182
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 17459,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040022",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194081.77209999878,
+        "y" : 556009.21750000305
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 17460,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040023",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194097.87710000016,
+        "y" : 555973.30729999952
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 17461,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040024",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194138.85769999959,
+        "y" : 555971.04560000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 17462,
+        "MNTN_CODE" : "113800404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "녹번동근린공원",
+        "PAST_SPOT_" : "1138004040025",
+        "MNTN_ID" : "113800404"
+      },
+      "geometry" : {
+        "x" : 194178.12740000058,
+        "y" : 555890.07530000247
+      }
+    }
+  ]
+}

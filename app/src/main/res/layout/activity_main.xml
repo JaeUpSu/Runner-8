@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    ㅡㅡㅡㅡㅡ DrawerLayout ㅡㅡㅡㅡㅡㅡ
+    DrawerLayout 의 자식 뷰들 순서 :
+     - Main 화면에 표시되는 자식뷰들 <app_bar_main.xml>
+        app_bar_main.xml : toolbar + content_main.xml
+            content_main.xml : fragment <mobile_navigation.xml>
+                mobile_navigation.xml :
+                    fragment (home) nav_home, nav_gallery, nav_calender....
+
+     - Drawer 로 사용될 뷰 (MENU)
+        nav_header_main,xml + activity_main_drawer.xml
+-->
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <include
+        layout="@layout/app_bar_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>

@@ -1,0 +1,6021 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 11535,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "경로당",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010001",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193708.93340000045,
+        "y" : 552681.5131000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 11536,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : "연희동연궁경로당",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010002",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193715.07220000122,
+        "y" : 552672.43810000084
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 11537,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 16",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010003",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193719.72360000107,
+        "y" : 552684.00750000216
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 11538,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "허리돌리기 1, 허리운동 2, 벤치프레스 1, 윗몸일으키기 2",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010004",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193723.9159000013,
+        "y" : 552676.16190000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 11539,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010005",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193744.25150000025,
+        "y" : 552670.17400000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 11540,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010006",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193758.72369999997,
+        "y" : 552675.22389999963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 11541,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 15",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010007",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193744.10410000011,
+        "y" : 552671.12310000136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 11542,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010008",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193770.71140000038,
+        "y" : 552684.97370000184
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 11543,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 14",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010009",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193770.13449999876,
+        "y" : 552685.83930000104
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 11544,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4198~4199",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010010",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193772.80020000041,
+        "y" : 552685.99550000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 11545,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4198~4199",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010011",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193774.88549999986,
+        "y" : 552712.05140000395
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 11546,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 13",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010012",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193772.96839999966,
+        "y" : 552712.80650000088
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 11547,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : "2개,무단경작금지",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010013",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193778.47989999969,
+        "y" : 552716.40260000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 11548,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : "도시자연공원 12",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010014",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193773.65680000093,
+        "y" : 552722.51830000244
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 11549,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 11",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010015",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193783.53730000183,
+        "y" : 552736.32569999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 11550,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010016",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193796.96520000044,
+        "y" : 552751.22829999961
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 11551,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "관리번호:403",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010017",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193805.89930000063,
+        "y" : 552776.98149999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 11552,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "관리번호:404",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010018",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193814.24760000035,
+        "y" : 552791.60880000144
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 11553,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "관리번호:405",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010019",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193820.7920000013,
+        "y" : 552810.1819000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 11554,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "관리번호:40X",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010020",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193822.8013000004,
+        "y" : 552833.70760000125
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 11555,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단시작",
+        "ETC_MATTER" : "4211~4215",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010021",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193827.58120000083,
+        "y" : 552839.22990000248
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 11556,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "관리번호:361",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010022",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193848.5839000009,
+        "y" : 552834.72110000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 11557,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "관리번호:409",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010023",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193860.50810000114,
+        "y" : 552839.14980000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 11558,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "관리번호:360",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010024",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193869.22039999999,
+        "y" : 552855.7583000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 11559,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝",
+        "ETC_MATTER" : "4211~4215",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010025",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193868.1286000004,
+        "y" : 552861.18280000426
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 11560,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010026",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193831.50310000125,
+        "y" : 552806.18290000036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 11561,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "무임목지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010027",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193930.03450000007,
+        "y" : 552758.06990000233
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 11562,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010028",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193804.22350000124,
+        "y" : 552753.88350000232
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 11563,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010029",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193815.67080000136,
+        "y" : 552764.07100000232
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 11564,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010030",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193865.90820000041,
+        "y" : 552752.25620000064
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 11565,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010031",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193933.26640000008,
+        "y" : 552773.12900000252
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 11566,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 4",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010032",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193901.40240000002,
+        "y" : 552698.40320000239
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 11567,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010033",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193895.19220000133,
+        "y" : 552701.25449999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 11568,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 8",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010034",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193887.79520000052,
+        "y" : 552711.31640000269
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 11569,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 9",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010035",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193851.50710000005,
+        "y" : 552722.76720000245
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 11570,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 10",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010036",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193828.69799999893,
+        "y" : 552738.06880000234
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 11571,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4242~4243",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010037",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193821.42190000135,
+        "y" : 552741.30240000226
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 11572,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4242~4243",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010038",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193817.69790000096,
+        "y" : 552711.90780000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 11573,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4245~4246",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010039",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193820.86190000083,
+        "y" : 552705.14220000245
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 11574,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4245~4246",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010040",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193822.04720000084,
+        "y" : 552696.01509999856
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 11575,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010041",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193792.69020000007,
+        "y" : 552678.32420000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 11576,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010042",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193775.38760000002,
+        "y" : 552680.5140999984
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 11577,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4251~4252",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010043",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193877.78480000049,
+        "y" : 552711.94710000232
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 11578,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4251~4252",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010044",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193876.60830000136,
+        "y" : 552702.96130000427
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 11579,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010045",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193897.36170000024,
+        "y" : 552701.30859999917
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 11580,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010046",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193903.36230000202,
+        "y" : 552705.44410000183
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 11581,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : "벤치 2",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010047",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193908.81149999984,
+        "y" : 552704.82610000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 11582,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "평행봉 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010048",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193909.9636000013,
+        "y" : 552710.76980000176
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 11583,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "신기종 3, 벤치프레스 1, 허리돌리기 2",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010049",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193901.84829999972,
+        "y" : 552710.77569999732
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 11584,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 5",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010050",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193897.37980000023,
+        "y" : 552715.97010000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 11585,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 6",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010051",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193895.48319999967,
+        "y" : 552724.51160000265
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 11586,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 7",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010052",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193893.23220000044,
+        "y" : 552734.56050000153
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 11587,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010053",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193891.94560000207,
+        "y" : 552736.86850000359
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 11588,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "신기종 1, 허리운동 2, 윗몸일으키기 2",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010054",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193896.35570000112,
+        "y" : 552742.95869999938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 11589,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "배드민턴장 4",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010055",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193899.04870000109,
+        "y" : 552729.84880000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 11590,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010056",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193904.33820000011,
+        "y" : 552743.70640000142
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 11591,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : "안산도시자연공원",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010057",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193805.42329999991,
+        "y" : 552665.02090000361
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 11592,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "3개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010058",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193807.77170000039,
+        "y" : 552676.5268000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 11593,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "놀이터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010059",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193815.17590000201,
+        "y" : 552676.10270000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 11594,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "허리운동 1, 허리돌리기 2",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010060",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193812.27570000011,
+        "y" : 552669.26720000431
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 11595,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010061",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193817.0344000021,
+        "y" : 552666.20289999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 11596,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010062",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193840.29060000088,
+        "y" : 552674.53970000334
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 11597,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "윗몸일으키기 1, 벤치프레스 1, 허리운동 1, 평행봉 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010063",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193835.75490000006,
+        "y" : 552688.87890000269
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 11598,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1자형 3개, 원형 1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010064",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193826.28330000024,
+        "y" : 552696.96089999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 11599,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010065",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193832.91399999987,
+        "y" : 552692.04410000145
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 11600,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 3",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010066",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193830.98350000009,
+        "y" : 552694.84560000338
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 11601,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : "발은 제2의 심장",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010067",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193829.83660000097,
+        "y" : 552695.83260000125
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 11602,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010068",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193839.76020000037,
+        "y" : 552688.11309999973
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 11603,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "도시자연공원 2",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010069",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193847.94980000053,
+        "y" : 552678.54360000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 11604,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "관리번호 : 381",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010070",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193935.05190000031,
+        "y" : 552723.84990000166
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 11605,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단시작",
+        "ETC_MATTER" : "4285~4286",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010071",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194147.86550000124,
+        "y" : 552812.54970000125
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 11606,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝",
+        "ETC_MATTER" : "4285~4286",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010072",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194162.99390000012,
+        "y" : 552793.3655999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 11607,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010073",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194146.5625,
+        "y" : 552823.25830000266
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 11608,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010074",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194170.54560000077,
+        "y" : 552834.53520000353
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 11609,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "18",
+        "MANAGE_SP2" : "주차장",
+        "DETAIL_SPO" : "주차장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010075",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194130.53740000166,
+        "y" : 552872.54729999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 11610,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010076",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194136.91540000122,
+        "y" : 552813.69240000099
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 11611,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010077",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194138.15380000137,
+        "y" : 552826.91100000404
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 11612,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010078",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193778.07309999876,
+        "y" : 552726.76640000381
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 11613,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단시작",
+        "ETC_MATTER" : "4304~4306",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010079",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193769.43190000113,
+        "y" : 552726.38220000267
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 11614,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010080",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193764.57459999993,
+        "y" : 552726.5625
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 11615,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝",
+        "ETC_MATTER" : "4304~4306",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010081",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193748.00299999956,
+        "y" : 552735.50579999946
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 11616,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "시멘트계단시작",
+        "ETC_MATTER" : "4307~4308",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010082",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193731.69379999861,
+        "y" : 552729.34100000188
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 11617,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "시멘트계단끝",
+        "ETC_MATTER" : "4307~4308",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010083",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193722.92280000076,
+        "y" : 552733.59899999946
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 11618,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010084",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193699.44190000184,
+        "y" : 552663.42600000277
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 11619,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010085",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193739.77430000063,
+        "y" : 552752.09920000285
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 11620,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단시작",
+        "ETC_MATTER" : "4330~4331",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010086",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193548.14859999903,
+        "y" : 552056.52510000207
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 11621,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝",
+        "ETC_MATTER" : "4330~4331",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010087",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193538.36710000038,
+        "y" : 552095.18640000373
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 11622,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4335~4336",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010088",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193534.39690000005,
+        "y" : 552112.84650000371
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 11623,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4335~4336",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010089",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193525.03189999983,
+        "y" : 552106.27660000138
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "PMNTN_SPOT" : 11624,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010090",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193452.75889999978,
+        "y" : 552096.21169999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "PMNTN_SPOT" : 11625,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010091",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193421.09860000107,
+        "y" : 552100.42300000228
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "PMNTN_SPOT" : 11626,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010092",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193397.65240000002,
+        "y" : 552116.57300000079
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "PMNTN_SPOT" : 11627,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4343~4344",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010093",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193366.41050000023,
+        "y" : 552115.99310000427
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "PMNTN_SPOT" : 11628,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4343~4344",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010094",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193362.94250000082,
+        "y" : 552112.83300000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "PMNTN_SPOT" : 11629,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "신기종 7, 허리돌리기 1, 기타 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010095",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193357.51680000033,
+        "y" : 552115.60960000195
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "PMNTN_SPOT" : 11630,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010096",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193357.22649999987,
+        "y" : 552122.83820000105
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 96,
+        "PMNTN_SPOT" : 11631,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : "운동시설(4345)로 연결",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010097",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193347.63070000056,
+        "y" : 552124.25990000181
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 97,
+        "PMNTN_SPOT" : 11632,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010098",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193292.6854000017,
+        "y" : 552114.35930000432
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 98,
+        "PMNTN_SPOT" : 11633,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010099",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193285.07310000062,
+        "y" : 552114.29100000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 99,
+        "PMNTN_SPOT" : 11634,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "팔굽혀펴기 1, 철봉 3, 허리 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010100",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193254.68169999961,
+        "y" : 552112.58530000411
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 100,
+        "PMNTN_SPOT" : 11635,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "3개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010101",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193256.52000000048,
+        "y" : 552114.96540000103
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 101,
+        "PMNTN_SPOT" : 11636,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "평행봉 1, 철봉 2, 팔굽혀펴기 1, 기타 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010102",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193242.02159999963,
+        "y" : 552124.57780000009
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 102,
+        "PMNTN_SPOT" : 11637,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010103",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193239.79169999994,
+        "y" : 552123.47259999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 103,
+        "PMNTN_SPOT" : 11638,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "배드민턴장 2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010104",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193231.16240000166,
+        "y" : 552138.47590000182
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 104,
+        "PMNTN_SPOT" : 11639,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "6개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010105",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193232.20220000111,
+        "y" : 552142.3451000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 105,
+        "PMNTN_SPOT" : 11640,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010106",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193222.89260000084,
+        "y" : 552140.25960000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 106,
+        "PMNTN_SPOT" : 11641,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4359~4360",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010107",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193213.53689999972,
+        "y" : 552136.42500000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 107,
+        "PMNTN_SPOT" : 11642,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4359~4360",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010108",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193204.22680000123,
+        "y" : 552142.81450000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 108,
+        "PMNTN_SPOT" : 11643,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010109",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193196.90740000084,
+        "y" : 552147.83479999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 109,
+        "PMNTN_SPOT" : 11644,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "삼각점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010110",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193191.66750000138,
+        "y" : 552142.1643000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 110,
+        "PMNTN_SPOT" : 11645,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "삼각점시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010111",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193190.58780000079,
+        "y" : 552143.97000000067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 111,
+        "PMNTN_SPOT" : 11646,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "허리돌리기 1, 철봉 1, 기타 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010112",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193186.35749999993,
+        "y" : 552132.31690000184
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 112,
+        "PMNTN_SPOT" : 11647,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010113",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193184.9636000013,
+        "y" : 552130.12240000069
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 113,
+        "PMNTN_SPOT" : 11648,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010114",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193186.50980000105,
+        "y" : 552128.42799999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 114,
+        "PMNTN_SPOT" : 11649,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4368~4369",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010115",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193180.37640000135,
+        "y" : 552134.81489999965
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 115,
+        "PMNTN_SPOT" : 11650,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4368~4369",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010116",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193177.30159999989,
+        "y" : 552141.72960000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 116,
+        "PMNTN_SPOT" : 11651,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "배수지",
+        "ETC_MATTER" : "연희배수지, 은평수도사업소",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010117",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193147.02360000089,
+        "y" : 552124.70209999941
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 117,
+        "PMNTN_SPOT" : 11652,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4371~4372",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010118",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193154.50160000194,
+        "y" : 552132.52910000272
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 118,
+        "PMNTN_SPOT" : 11653,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4371~4372",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010119",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193131.41030000057,
+        "y" : 552129.34790000133
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 119,
+        "PMNTN_SPOT" : 11654,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010120",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193121.54720000084,
+        "y" : 552129.65389999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 120,
+        "PMNTN_SPOT" : 11655,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "군시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010121",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193086.27869999968,
+        "y" : 552104.47210000455
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 121,
+        "PMNTN_SPOT" : 11656,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010122",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193166.3833000008,
+        "y" : 552029.65670000203
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 122,
+        "PMNTN_SPOT" : 11657,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기념비",
+        "ETC_MATTER" : "해병대104고지전첩비",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010123",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193477.72929999977,
+        "y" : 552040.64409999922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 123,
+        "PMNTN_SPOT" : 11658,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010124",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193486.15340000018,
+        "y" : 552037.11180000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 124,
+        "PMNTN_SPOT" : 11659,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "4개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010125",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193487.32019999996,
+        "y" : 552033.0083000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 125,
+        "PMNTN_SPOT" : 11660,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4385~4386",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010126",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193475.50889999978,
+        "y" : 552051.55830000155
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 126,
+        "PMNTN_SPOT" : 11661,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4385~4386",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010127",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193482.4570000004,
+        "y" : 552063.64670000225
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 127,
+        "PMNTN_SPOT" : 11662,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010128",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193508.38580000028,
+        "y" : 552068.73370000347
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 128,
+        "PMNTN_SPOT" : 11663,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단끝",
+        "ETC_MATTER" : "4391~4390",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010129",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193480.8487999998,
+        "y" : 552033.65520000085
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 129,
+        "PMNTN_SPOT" : 11664,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단시작",
+        "ETC_MATTER" : "4391~4390",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010130",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193481.677000002,
+        "y" : 552013.46720000356
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 130,
+        "PMNTN_SPOT" : 11665,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010131",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193481.04210000113,
+        "y" : 552015.83060000092
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 131,
+        "PMNTN_SPOT" : 11666,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4394~4463",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010132",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193474.84260000102,
+        "y" : 552070.55550000258
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 132,
+        "PMNTN_SPOT" : 11667,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010133",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193451.55390000064,
+        "y" : 552108.14839999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 133,
+        "PMNTN_SPOT" : 11668,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010134",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193390.24039999954,
+        "y" : 552144.84119999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 134,
+        "PMNTN_SPOT" : 11669,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "시멘트계단시작",
+        "ETC_MATTER" : "4399~4400",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010135",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193357.72300000023,
+        "y" : 552169.78040000424
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 135,
+        "PMNTN_SPOT" : 11670,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "시멘트계단끝",
+        "ETC_MATTER" : "4399~4400",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010136",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193352.13570000138,
+        "y" : 552173.89680000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 136,
+        "PMNTN_SPOT" : 11671,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010137",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193244.89130000118,
+        "y" : 552247.81150000356
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 137,
+        "PMNTN_SPOT" : 11672,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "4개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010138",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193196.7081000004,
+        "y" : 552238.93860000186
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 138,
+        "PMNTN_SPOT" : 11673,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "윗몸일으키기 1, 철봉 2, 허리돌리기 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010139",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193192.8732000012,
+        "y" : 552240.03020000271
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 139,
+        "PMNTN_SPOT" : 11674,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "초소",
+        "ETC_MATTER" : "공원녹지관리초소",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010140",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193181.75679999962,
+        "y" : 552237.81589999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 140,
+        "PMNTN_SPOT" : 11675,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "평행봉 1, 매달리기 2",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010141",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193169.64639999904,
+        "y" : 552242.57970000431
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 141,
+        "PMNTN_SPOT" : 11676,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010142",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193163.87160000019,
+        "y" : 552243.87759999931
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 142,
+        "PMNTN_SPOT" : 11677,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단시작",
+        "ETC_MATTER" : "4412~4413",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010143",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193174.63760000095,
+        "y" : 552242.97560000233
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 143,
+        "PMNTN_SPOT" : 11678,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝",
+        "ETC_MATTER" : "4412~4413",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010144",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193174.26440000068,
+        "y" : 552248.41820000112
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 144,
+        "PMNTN_SPOT" : 11679,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "농구대 1, 신기종 5, 허리돌리기 2, 윗몸일으키기 1, 평행봉 2, 균형잡기 3",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010145",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193184.13060000166,
+        "y" : 552252.01030000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 145,
+        "PMNTN_SPOT" : 11680,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010146",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193172.9067000011,
+        "y" : 552254.25229999982
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 146,
+        "PMNTN_SPOT" : 11681,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010147",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193196.2181000011,
+        "y" : 552255.47039999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 147,
+        "PMNTN_SPOT" : 11682,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010148",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193194.22730000131,
+        "y" : 552256.80240000412
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 148,
+        "PMNTN_SPOT" : 11683,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 2",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010149",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193196.5429000007,
+        "y" : 552254.23290000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 149,
+        "PMNTN_SPOT" : 11684,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "배드민턴장 2",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010150",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193209.71900000051,
+        "y" : 552257.78509999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 150,
+        "PMNTN_SPOT" : 11685,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "8개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010151",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193212.81490000151,
+        "y" : 552258.68490000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 151,
+        "PMNTN_SPOT" : 11686,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010152",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193220.45430000033,
+        "y" : 552264.67910000123
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 152,
+        "PMNTN_SPOT" : 11687,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010153",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193236.74619999994,
+        "y" : 552266.30309999734
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 153,
+        "PMNTN_SPOT" : 11688,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010154",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193237.46280000079,
+        "y" : 552273.38210000284
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 154,
+        "PMNTN_SPOT" : 11689,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "허리돌리기 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010155",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193229.52180000115,
+        "y" : 552278.691300001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 155,
+        "PMNTN_SPOT" : 11690,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010156",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193228.45760000125,
+        "y" : 552281.25040000305
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 156,
+        "PMNTN_SPOT" : 11691,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "놀이터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010157",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193230.3376999991,
+        "y" : 552289.45409999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 157,
+        "PMNTN_SPOT" : 11692,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "평균대 1, 윗몸일으키기 1, 허리운동 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010158",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193231.46560000069,
+        "y" : 552301.43530000374
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 158,
+        "PMNTN_SPOT" : 11693,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 3",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010159",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193227.84990000073,
+        "y" : 552298.83350000344
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 159,
+        "PMNTN_SPOT" : 11694,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 4",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010160",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193229.65180000104,
+        "y" : 552283.7706000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 160,
+        "PMNTN_SPOT" : 11695,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4432~4436",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010161",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193259.60910000093,
+        "y" : 552235.07320000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 161,
+        "PMNTN_SPOT" : 11696,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010162",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193264.75870000105,
+        "y" : 552229.91520000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 162,
+        "PMNTN_SPOT" : 11697,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4432~4436",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010163",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193269.1687000012,
+        "y" : 552225.68799999729
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 163,
+        "PMNTN_SPOT" : 11698,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010164",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193265.16950000077,
+        "y" : 552215.91389999911
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 164,
+        "PMNTN_SPOT" : 11699,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010165",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193263.87789999973,
+        "y" : 552193.84830000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 165,
+        "PMNTN_SPOT" : 11700,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "윗몸일으키기1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010166",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193262.58650000114,
+        "y" : 552117.2397000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 166,
+        "PMNTN_SPOT" : 11701,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010167",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193115.82449999917,
+        "y" : 552042.07130000181
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 167,
+        "PMNTN_SPOT" : 11702,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010168",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193198.89919999987,
+        "y" : 552057.17600000463
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 168,
+        "PMNTN_SPOT" : 11703,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010169",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193372.80710000079,
+        "y" : 552095.93100000359
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 169,
+        "PMNTN_SPOT" : 11704,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4446~4447",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010170",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193381.39270000067,
+        "y" : 552109.10630000196
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 170,
+        "PMNTN_SPOT" : 11705,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4446~4447",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010171",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193379.48759999964,
+        "y" : 552116.01999999955
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 171,
+        "PMNTN_SPOT" : 11706,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010172",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193335.44120000023,
+        "y" : 552150.81100000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 172,
+        "PMNTN_SPOT" : 11707,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010173",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193208.90150000062,
+        "y" : 552208.89880000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 173,
+        "PMNTN_SPOT" : 11708,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010174",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193090.2061999999,
+        "y" : 552170.30580000207
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 174,
+        "PMNTN_SPOT" : 11709,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4452~4453",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010175",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193059.96119999979,
+        "y" : 552157.3348000031
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 175,
+        "PMNTN_SPOT" : 11710,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4452~4453",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010176",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193054.95529999956,
+        "y" : 552157.190200001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 176,
+        "PMNTN_SPOT" : 11711,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4455~4456",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010177",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193043.38980000094,
+        "y" : 552105.33590000309
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 177,
+        "PMNTN_SPOT" : 11712,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4455~4456",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010178",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 192970.18950000126,
+        "y" : 552120.26370000094
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 178,
+        "PMNTN_SPOT" : 11713,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단시작",
+        "ETC_MATTER" : "4459~4460",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010179",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 192954.48239999916,
+        "y" : 552171.29429999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 179,
+        "PMNTN_SPOT" : 11714,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝",
+        "ETC_MATTER" : "4459~4460",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010180",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 192960.25640000217,
+        "y" : 552186.59280000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 180,
+        "PMNTN_SPOT" : 11715,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4394~4463",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010181",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193461.4318000013,
+        "y" : 552088.9672000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 181,
+        "PMNTN_SPOT" : 11716,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010182",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193213.10130000021,
+        "y" : 552137.8860000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 182,
+        "PMNTN_SPOT" : 11717,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4540~4541",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010183",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193201.22670000046,
+        "y" : 552132.39770000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 183,
+        "PMNTN_SPOT" : 11718,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4540~4541",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010184",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193190.44540000148,
+        "y" : 552132.70420000143
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 184,
+        "PMNTN_SPOT" : 11719,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시점",
+        "ETC_MATTER" : "4542~4543",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010185",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 192961.42000000086,
+        "y" : 552109.12610000372
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 185,
+        "PMNTN_SPOT" : 11720,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4542~4543",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010186",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 192947.05540000182,
+        "y" : 552101.67750000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 186,
+        "PMNTN_SPOT" : 11721,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4544~4545",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010187",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 192938.08130000159,
+        "y" : 552102.57810000144
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 187,
+        "PMNTN_SPOT" : 11722,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4544~4545",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010188",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 192916.46160000097,
+        "y" : 552114.47640000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 188,
+        "PMNTN_SPOT" : 11723,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010189",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193357.15240000095,
+        "y" : 552391.20029999875
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 189,
+        "PMNTN_SPOT" : 11724,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010190",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193354.93250000104,
+        "y" : 552430.06980000064
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 190,
+        "PMNTN_SPOT" : 11725,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010191",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193426.11270000041,
+        "y" : 552503.72030000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 191,
+        "PMNTN_SPOT" : 11726,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010192",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193456.16410000063,
+        "y" : 552564.50999999978
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 192,
+        "PMNTN_SPOT" : 11727,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010193",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193503.04540000204,
+        "y" : 552625.20280000009
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 193,
+        "PMNTN_SPOT" : 11728,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010194",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193525.52960000187,
+        "y" : 552639.85590000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 194,
+        "PMNTN_SPOT" : 11729,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010195",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193534.91629999969,
+        "y" : 552637.09500000253
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 195,
+        "PMNTN_SPOT" : 11730,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "윗몸일으키기 1, 매달리기 1, 평행봉 1, 기타 1",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010196",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193547.15189999994,
+        "y" : 552641.36490000412
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 196,
+        "PMNTN_SPOT" : 11731,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "4개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010197",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193541.6221000012,
+        "y" : 552643.10879999958
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 197,
+        "PMNTN_SPOT" : 11732,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010198",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193590.76540000178,
+        "y" : 552633.17230000161
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 198,
+        "PMNTN_SPOT" : 11733,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4562~4563",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010199",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193544.08620000072,
+        "y" : 552631.57120000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 199,
+        "PMNTN_SPOT" : 11734,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4562~4563",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010200",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193542.60410000011,
+        "y" : 552620.41810000129
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 200,
+        "PMNTN_SPOT" : 11735,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 15",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010201",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193539.31110000052,
+        "y" : 552613.51780000143
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 201,
+        "PMNTN_SPOT" : 11736,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 16",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010202",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193570.53249999974,
+        "y" : 552618.62890000269
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 202,
+        "PMNTN_SPOT" : 11737,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "8개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010203",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193575.30869999994,
+        "y" : 552619.14610000141
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 203,
+        "PMNTN_SPOT" : 11738,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 17",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010204",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193586.32629999984,
+        "y" : 552618.65389999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 204,
+        "PMNTN_SPOT" : 11739,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010205",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193598.86990000121,
+        "y" : 552628.73790000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 205,
+        "PMNTN_SPOT" : 11740,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 18",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010206",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193594.45920000039,
+        "y" : 552631.84850000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 206,
+        "PMNTN_SPOT" : 11741,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 19",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010207",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193603.31060000136,
+        "y" : 552626.1203000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 207,
+        "PMNTN_SPOT" : 11742,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010208",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193585.99090000056,
+        "y" : 552644.53490000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 208,
+        "PMNTN_SPOT" : 11743,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : "4572~4574",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010209",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193583.00339999981,
+        "y" : 552649.6446000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 209,
+        "PMNTN_SPOT" : 11744,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010210",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193589.36040000152,
+        "y" : 552654.85870000161
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 210,
+        "PMNTN_SPOT" : 11745,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝",
+        "ETC_MATTER" : "4572~4574",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010211",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193593.81969999988,
+        "y" : 552657.08790000342
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 211,
+        "PMNTN_SPOT" : 11746,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010212",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193606.85489999969,
+        "y" : 552651.73790000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 212,
+        "PMNTN_SPOT" : 11747,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010213",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193623.55669999961,
+        "y" : 552657.89290000126
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 213,
+        "PMNTN_SPOT" : 11748,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철제계단시작",
+        "ETC_MATTER" : "4577~4578",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010214",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193627.55070000142,
+        "y" : 552661.82499999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 214,
+        "PMNTN_SPOT" : 11749,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철제계단끝",
+        "ETC_MATTER" : "4577~4578",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010215",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193636.16730000079,
+        "y" : 552658.81359999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 215,
+        "PMNTN_SPOT" : 11750,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 27",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010216",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193626.93260000087,
+        "y" : 552599.36540000141
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 216,
+        "PMNTN_SPOT" : 11751,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "놀이터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010217",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193623.56400000118,
+        "y" : 552600.0007000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 217,
+        "PMNTN_SPOT" : 11752,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010218",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193617.56350000016,
+        "y" : 552596.24690000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 218,
+        "PMNTN_SPOT" : 11753,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "3개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010219",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193617.55520000029,
+        "y" : 552595.0840999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 219,
+        "PMNTN_SPOT" : 11754,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : "윗몸일으키기 2, 벤치프레스 1, 허리돌리기 2",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010220",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193608.66130000073,
+        "y" : 552593.61180000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 220,
+        "PMNTN_SPOT" : 11755,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010221",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193608.04440000001,
+        "y" : 552590.60730000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 221,
+        "PMNTN_SPOT" : 11756,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 25",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010222",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193604.20060000103,
+        "y" : 552589.57760000415
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 222,
+        "PMNTN_SPOT" : 11757,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010223",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193606.18050000072,
+        "y" : 552602.98159999959
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 223,
+        "PMNTN_SPOT" : 11758,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 26",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010224",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193613.07620000001,
+        "y" : 552605.63709999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 224,
+        "PMNTN_SPOT" : 11759,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 29",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010225",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193592.44250000082,
+        "y" : 552599.59669999965
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 225,
+        "PMNTN_SPOT" : 11760,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010226",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193583.47540000174,
+        "y" : 552599.38040000014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 226,
+        "PMNTN_SPOT" : 11761,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 24",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010227",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193596.92769999988,
+        "y" : 552606.57980000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 227,
+        "PMNTN_SPOT" : 11762,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010228",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193590.04690000135,
+        "y" : 552604.00819999911
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 228,
+        "PMNTN_SPOT" : 11763,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 23",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010229",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193587.67619999964,
+        "y" : 552592.86510000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 229,
+        "PMNTN_SPOT" : 11764,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 22",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010230",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193575.92960000224,
+        "y" : 552598.45590000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 230,
+        "PMNTN_SPOT" : 11765,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 20",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010231",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193559.88900000043,
+        "y" : 552595.38910000212
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 231,
+        "PMNTN_SPOT" : 11766,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "1개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010232",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193558.61140000075,
+        "y" : 552590.23620000109
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 232,
+        "PMNTN_SPOT" : 11767,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 21",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010233",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193568.32019999996,
+        "y" : 552592.08000000194
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 233,
+        "PMNTN_SPOT" : 11768,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 14",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010234",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193534.95199999958,
+        "y" : 552644.881500002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 234,
+        "PMNTN_SPOT" : 11769,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 9",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010235",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193519.29690000229,
+        "y" : 552556.90640000068
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 235,
+        "PMNTN_SPOT" : 11770,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010236",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193514.9907999998,
+        "y" : 552570.76200000383
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 236,
+        "PMNTN_SPOT" : 11771,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 10",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010237",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193521.87409999967,
+        "y" : 552576.5429999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 237,
+        "PMNTN_SPOT" : 11772,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010238",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193517.52749999985,
+        "y" : 552585.77480000257
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 238,
+        "PMNTN_SPOT" : 11773,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010239",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193519.96380000003,
+        "y" : 552595.55970000103
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 239,
+        "PMNTN_SPOT" : 11774,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 11",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010240",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193522.54190000053,
+        "y" : 552597.26009999961
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 240,
+        "PMNTN_SPOT" : 11775,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : "2개",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010241",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193520.76719999965,
+        "y" : 552609.70890000276
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 241,
+        "PMNTN_SPOT" : 11776,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 12",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010242",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193527.64880000055,
+        "y" : 552613.26649999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 242,
+        "PMNTN_SPOT" : 11777,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010243",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193525.79300000146,
+        "y" : 552626.27350000106
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 243,
+        "PMNTN_SPOT" : 11778,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : "궁동근린공원 13",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010244",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193522.03480000049,
+        "y" : 552640.0354999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 244,
+        "PMNTN_SPOT" : 11779,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010245",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193026.80610000063,
+        "y" : 552135.81699999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 245,
+        "PMNTN_SPOT" : 11780,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : "산림사고안내문,서대문구청",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010246",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194020.96300000139,
+        "y" : 552720.59670000151
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 246,
+        "PMNTN_SPOT" : 11781,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : "산림사고안내문,서대문구청",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010247",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194028.59460000135,
+        "y" : 552696.7199000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 247,
+        "PMNTN_SPOT" : 11782,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010248",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 192893.96470000036,
+        "y" : 552106.57950000279
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 248,
+        "PMNTN_SPOT" : 11783,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010249",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 192960.2546000015,
+        "y" : 552187.50999999978
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 249,
+        "PMNTN_SPOT" : 11784,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010250",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 192972.50120000076,
+        "y" : 552117.0939000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 250,
+        "PMNTN_SPOT" : 11785,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010251",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193002.57840000186,
+        "y" : 552106.72010000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 251,
+        "PMNTN_SPOT" : 11786,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010252",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193042.54720000084,
+        "y" : 552177.89020000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 252,
+        "PMNTN_SPOT" : 11787,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010253",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193044.40990000125,
+        "y" : 552103.23259999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 253,
+        "PMNTN_SPOT" : 11788,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010254",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193063.16640000045,
+        "y" : 552100.97739999928
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 254,
+        "PMNTN_SPOT" : 11789,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010255",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193077.97500000056,
+        "y" : 552085.13400000148
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 255,
+        "PMNTN_SPOT" : 11790,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010256",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193187.15970000066,
+        "y" : 552135.36960000172
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 256,
+        "PMNTN_SPOT" : 11791,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010257",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193217.02960000187,
+        "y" : 552136.60899999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 257,
+        "PMNTN_SPOT" : 11792,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010258",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193220.0075000003,
+        "y" : 552261.62810000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 258,
+        "PMNTN_SPOT" : 11793,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010259",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193259.3832000019,
+        "y" : 552111.63750000112
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 259,
+        "PMNTN_SPOT" : 11794,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010260",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193262.35840000212,
+        "y" : 552210.17780000158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 260,
+        "PMNTN_SPOT" : 11795,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010261",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193265.07510000095,
+        "y" : 552236.46410000138
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 261,
+        "PMNTN_SPOT" : 11796,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010262",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193265.17769999988,
+        "y" : 552216.89069999941
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 262,
+        "PMNTN_SPOT" : 11797,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010263",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193273.07590000052,
+        "y" : 552205.1174999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 263,
+        "PMNTN_SPOT" : 11798,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010264",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193278.47720000055,
+        "y" : 552199.02759999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 264,
+        "PMNTN_SPOT" : 11799,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010265",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193331.97499999963,
+        "y" : 552197.4245999977
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 265,
+        "PMNTN_SPOT" : 11800,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010266",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193351.50260000024,
+        "y" : 552178.5859999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 266,
+        "PMNTN_SPOT" : 11801,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010267",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193375.05180000048,
+        "y" : 552118.55159999989
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 267,
+        "PMNTN_SPOT" : 11802,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010268",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193389.58080000058,
+        "y" : 552125.54739999957
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 268,
+        "PMNTN_SPOT" : 11803,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010269",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193406.61810000055,
+        "y" : 551927.50379999913
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 269,
+        "PMNTN_SPOT" : 11804,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010270",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193419.8777999999,
+        "y" : 552155.85940000042
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 270,
+        "PMNTN_SPOT" : 11805,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010271",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193459.06780000217,
+        "y" : 552097.00190000236
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 271,
+        "PMNTN_SPOT" : 11806,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010272",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193475.86990000214,
+        "y" : 552061.37550000288
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 272,
+        "PMNTN_SPOT" : 11807,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010273",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193478.95590000134,
+        "y" : 552064.24140000343
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 273,
+        "PMNTN_SPOT" : 11808,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010274",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193480.64780000132,
+        "y" : 552001.14440000243
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 274,
+        "PMNTN_SPOT" : 11809,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010275",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193512.93829999957,
+        "y" : 552547.36720000207
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 275,
+        "PMNTN_SPOT" : 11810,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010276",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193522.19990000129,
+        "y" : 552633.17720000073
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 276,
+        "PMNTN_SPOT" : 11811,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010277",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193536.14470000006,
+        "y" : 552637.25770000182
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 277,
+        "PMNTN_SPOT" : 11812,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010278",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193537.03612811863,
+        "y" : 552096.81286621839
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 278,
+        "PMNTN_SPOT" : 11813,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010279",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193541.70120000001,
+        "y" : 552114.26129999943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 279,
+        "PMNTN_SPOT" : 11814,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010280",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193544.39099999983,
+        "y" : 552121.4215000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 280,
+        "PMNTN_SPOT" : 11815,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010281",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193547.63970000111,
+        "y" : 552053.99450000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 281,
+        "PMNTN_SPOT" : 11816,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010282",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193566.41370000038,
+        "y" : 552047.86989999935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 282,
+        "PMNTN_SPOT" : 11817,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010283",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193594.08490000013,
+        "y" : 552636.44339999929
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 283,
+        "PMNTN_SPOT" : 11818,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010284",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193639.86230000108,
+        "y" : 552659.49960000254
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 284,
+        "PMNTN_SPOT" : 11819,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010285",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193690.42279999983,
+        "y" : 552751.08819999918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 285,
+        "PMNTN_SPOT" : 11820,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010286",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193705.25970000215,
+        "y" : 552621.58630000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 286,
+        "PMNTN_SPOT" : 11821,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010287",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193707.77589999884,
+        "y" : 552620.85590000451
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 287,
+        "PMNTN_SPOT" : 11822,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010288",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193709.68039999995,
+        "y" : 552624.5484000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 288,
+        "PMNTN_SPOT" : 11823,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010289",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193713.70500000007,
+        "y" : 552744.38810000196
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 289,
+        "PMNTN_SPOT" : 11824,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010290",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193717.38220000081,
+        "y" : 552789.5698000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 290,
+        "PMNTN_SPOT" : 11825,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010291",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193724.17760000192,
+        "y" : 552787.23710000142
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 291,
+        "PMNTN_SPOT" : 11826,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010292",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193725.03899999987,
+        "y" : 552731.68960000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 292,
+        "PMNTN_SPOT" : 11827,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010293",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193726.61440000217,
+        "y" : 552729.42850000411
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 293,
+        "PMNTN_SPOT" : 11828,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010294",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193743.68429999985,
+        "y" : 552755.86810000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 294,
+        "PMNTN_SPOT" : 11829,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010295",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193744.74260000139,
+        "y" : 552758.02130000107
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 295,
+        "PMNTN_SPOT" : 11830,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010296",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193745.55250000115,
+        "y" : 552735.13320000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 296,
+        "PMNTN_SPOT" : 11831,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010297",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193753.62340000086,
+        "y" : 552795.40139999986
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 297,
+        "PMNTN_SPOT" : 11832,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010298",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193761.42770000082,
+        "y" : 552793.93920000084
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 298,
+        "PMNTN_SPOT" : 11833,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010299",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193769.28540000133,
+        "y" : 552682.33090000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 299,
+        "PMNTN_SPOT" : 11834,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010300",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193780.47049999982,
+        "y" : 552725.88749999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 300,
+        "PMNTN_SPOT" : 11835,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010301",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193796.08029999956,
+        "y" : 552675.14500000142
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 301,
+        "PMNTN_SPOT" : 11836,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010302",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193800.92240000051,
+        "y" : 552751.46389999986
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 302,
+        "PMNTN_SPOT" : 11837,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010303",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193819.17860000022,
+        "y" : 552711.6742000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 303,
+        "PMNTN_SPOT" : 11838,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010304",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193819.56450000126,
+        "y" : 552814.82500000112
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 304,
+        "PMNTN_SPOT" : 11839,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010305",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193822.14329999965,
+        "y" : 552695.82899999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 305,
+        "PMNTN_SPOT" : 11840,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010306",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193822.51910000015,
+        "y" : 552745.35800000094
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 306,
+        "PMNTN_SPOT" : 11841,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010307",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193824.87370000128,
+        "y" : 552826.46599999815
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 307,
+        "PMNTN_SPOT" : 11842,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010308",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193848.50160000101,
+        "y" : 552763.72100000456
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 308,
+        "PMNTN_SPOT" : 11843,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010309",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193861.86272236519,
+        "y" : 552773.14406326786
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 309,
+        "PMNTN_SPOT" : 11844,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010310",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193867.71999999974,
+        "y" : 552869.32320000045
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 310,
+        "PMNTN_SPOT" : 11845,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010311",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193872.81869999971,
+        "y" : 552699.03150000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 311,
+        "PMNTN_SPOT" : 11846,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010312",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193876.75910000037,
+        "y" : 552716.70560000092
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 312,
+        "PMNTN_SPOT" : 11847,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010313",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193894.96070000064,
+        "y" : 552698.95740000159
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 313,
+        "PMNTN_SPOT" : 11848,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010314",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193908.60030000005,
+        "y" : 552762.5941000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 314,
+        "PMNTN_SPOT" : 11849,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010315",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193919.93350000028,
+        "y" : 552692.93850000203
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 315,
+        "PMNTN_SPOT" : 11850,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010316",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193929.74170000013,
+        "y" : 552714.1892999988
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 316,
+        "PMNTN_SPOT" : 11851,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010317",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193930.26930000074,
+        "y" : 552776.71470000222
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 317,
+        "PMNTN_SPOT" : 11852,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010318",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193944.46789999958,
+        "y" : 552752.96730000339
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 318,
+        "PMNTN_SPOT" : 11853,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010319",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193948.98540000152,
+        "y" : 552746.64389999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 319,
+        "PMNTN_SPOT" : 11854,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010320",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193990.04040000029,
+        "y" : 552736.50999999978
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 320,
+        "PMNTN_SPOT" : 11855,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010321",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 193991.74182026275,
+        "y" : 552743.44569202699
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 321,
+        "PMNTN_SPOT" : 11856,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010322",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194027.38690000121,
+        "y" : 552768.47540000267
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 322,
+        "PMNTN_SPOT" : 11857,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010323",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194096.02550000139,
+        "y" : 552881.54830000363
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 323,
+        "PMNTN_SPOT" : 11858,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010324",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194117.78749809694,
+        "y" : 552869.51517817006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 324,
+        "PMNTN_SPOT" : 11859,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010325",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194148.11390000116,
+        "y" : 552813.60620000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 325,
+        "PMNTN_SPOT" : 11860,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010326",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194166.83480000123,
+        "y" : 552787.17560000159
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 326,
+        "PMNTN_SPOT" : 11861,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010327",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194192.60230000131,
+        "y" : 552887.10209999979
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 327,
+        "PMNTN_SPOT" : 11862,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010328",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194193.57460000087,
+        "y" : 552857.76720000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 328,
+        "PMNTN_SPOT" : 11863,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010329",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194196.83890000079,
+        "y" : 552845.80120000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 329,
+        "PMNTN_SPOT" : 11864,
+        "MNTN_CODE" : "114100601",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "궁동산",
+        "PAST_SPOT_" : "1141006010330",
+        "MNTN_ID" : "114100601"
+      },
+      "geometry" : {
+        "x" : 194200.73279999942,
+        "y" : 552876.51690000109
+      }
+    }
+  ]
+}

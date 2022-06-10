@@ -1,0 +1,2655 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 69762,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010001",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199257.94500000123,
+        "y" : 540067.76270000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 69763,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010002",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199377.37920000125,
+        "y" : 540115.50780000165
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 69764,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010003",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199460.73840000108,
+        "y" : 540128.60570000112
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 69765,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010004",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199493.54060000181,
+        "y" : 540225.11380000226
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 69766,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010005",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199493.76530000009,
+        "y" : 540077.16460000165
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 69767,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010006",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199568.90320000052,
+        "y" : 539811.02649999969
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 69768,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010007",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199578.7025000006,
+        "y" : 539622.46230000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 69769,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010008",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199599.18660000153,
+        "y" : 539115.53620000184
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 69770,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010009",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199649.09550000075,
+        "y" : 540268.64920000173
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 69771,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010010",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199667.42800000124,
+        "y" : 539798.76950000226
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 69772,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010011",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199671.3348000031,
+        "y" : 539124.63599999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 69773,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010012",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199681.76160000172,
+        "y" : 540753.89790000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 69774,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010013",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199718.94890000205,
+        "y" : 539691.60649999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 69775,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010014",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199719.00430000294,
+        "y" : 540190.41810000129
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 69776,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010015",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199722.68350000214,
+        "y" : 540295.90709999762
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 69777,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010016",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199786.38200000208,
+        "y" : 539170.13490000367
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 69778,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010017",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199802.67879999988,
+        "y" : 539687.06939999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 69779,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010018",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199818.12289999984,
+        "y" : 540855.54329999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 69780,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010019",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199826.93110000156,
+        "y" : 539574.57790000364
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 69781,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010020",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199955.17800000124,
+        "y" : 540517.4104999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 69782,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010021",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200027.85880000331,
+        "y" : 539408.05570000224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 69783,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010022",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 200046.12330000103,
+        "y" : 540851.4001000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 69784,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010023",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 200093.77480000164,
+        "y" : 540866.53710000031
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 69785,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010024",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200132.56390000228,
+        "y" : 539805.45080000348
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 69786,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010025",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200281.95380000118,
+        "y" : 540869.54360000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 69787,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010026",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200377.74200000055,
+        "y" : 540569.27480000444
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 69788,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010027",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200386.3254000023,
+        "y" : 540248.17850000039
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 69789,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010028",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200691.90749999974,
+        "y" : 539742.41909999959
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 69790,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010029",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 201877.76219999976,
+        "y" : 542590.58799999952
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 69791,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010030",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199635.25700000022,
+        "y" : 539125.9755000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 69792,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "22",
+        "MANAGE_SP2" : "헬기장",
+        "DETAIL_SPO" : "헬기장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010031",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199671.7918000007,
+        "y" : 539131.63380000181
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 69793,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "과수원",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010032",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199735.36820000131,
+        "y" : 539167.8786000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 69794,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "신금농산",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010033",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199780.38820000086,
+        "y" : 539174.83550000191
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 69795,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "군사경계석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010034",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199664.70900000259,
+        "y" : 539216.40540000238
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 69796,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "울타리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010035",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199514.67270000093,
+        "y" : 539365.93560000136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 69797,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "군인시설물",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010036",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199429.06769999955,
+        "y" : 539465.49690000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 69798,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "통신표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010037",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199382.43380000349,
+        "y" : 539503.96880000271
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 69799,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010038",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199622.92180000059,
+        "y" : 539555.60390000045
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 69800,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "통신표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010039",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199286.20339999907,
+        "y" : 539580.94680000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 69801,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "통신표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010040",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199276.04009999894,
+        "y" : 539608.27270000428
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 69802,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010041",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199584.39330000244,
+        "y" : 539614.20700000226
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 69803,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "묘지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010042",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199868.53899999987,
+        "y" : 539628.85480000079
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 69804,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010043",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199582.82070000004,
+        "y" : 539649.66719999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 69805,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "묘지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010044",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199831.7248999998,
+        "y" : 539663.45040000416
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 69806,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "묘지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010045",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200656.32919999957,
+        "y" : 539670.47670000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 69807,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010046",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199200.49720000476,
+        "y" : 539680.92120000161
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 69808,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "표석,샘터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010047",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199196.35740000382,
+        "y" : 539689.41210000217
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 69809,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010048",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199600.72230000049,
+        "y" : 539691.27480000257
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 69810,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010049",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199798.32600000128,
+        "y" : 539693.22930000164
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 69811,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "지적표시",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010050",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200597.53490000218,
+        "y" : 539694.40179999918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 69812,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안개판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010051",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199193.23489999864,
+        "y" : 539696.23810000159
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 69813,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010052",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199744.19690000173,
+        "y" : 539711.92159999907
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 69814,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010053",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200666.20930000022,
+        "y" : 539711.96400000155
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 69815,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "울타리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010054",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199814.07579999883,
+        "y" : 539720.57570000179
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 69816,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010055",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199590.85130000114,
+        "y" : 539738.20050000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 69817,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010056",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200693.59070000239,
+        "y" : 539741.44380000234
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 69818,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "양봉장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010057",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199183.56179999933,
+        "y" : 539750.84449999966
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 69819,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "맑은샘학교,광고판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010058",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199183.56179999933,
+        "y" : 539750.84449999966
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 69820,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010059",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199813.46710000373,
+        "y" : 539767.6117000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 69821,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010060",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200236.22169999965,
+        "y" : 539799.19340000302
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 69822,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "마을이름, 계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010061",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200140.43820000067,
+        "y" : 539801.96730000153
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 69823,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "산소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010062",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199177.90509999916,
+        "y" : 539802.35380000249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 69824,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "진입로",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010063",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199177.90509999916,
+        "y" : 539802.35380000249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 69825,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "물애비약수,천막,다리,방송기기,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010064",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199572.97479999997,
+        "y" : 539807.72340000235
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 69826,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안개판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010065",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199147.64970000368,
+        "y" : 539828.99400000274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 69827,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010066",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199767.35649999976,
+        "y" : 539836.39169999957
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 69828,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "배드민턴장,운동기구,텃밭,CCTV",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010067",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199554.6455000015,
+        "y" : 539847.80179999769
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 69829,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "통신표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010068",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199129.28679999895,
+        "y" : 539867.15330000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 69830,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "울타리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010069",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199741.32010000106,
+        "y" : 539876.21480000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 69831,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010070",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200287.83650000114,
+        "y" : 539889.8367999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 69832,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "울타리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010071",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199738.87009999994,
+        "y" : 539894.18360000104
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 69833,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "울타리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010072",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199736.6519000018,
+        "y" : 539946.53590000421
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 69834,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안개판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010073",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199124.30780000053,
+        "y" : 539959.02840000205
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 69835,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010074",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200280.12890000362,
+        "y" : 539970.57919999957
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 69836,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "지적표시",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010075",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199737.56480000354,
+        "y" : 539981.74070000276
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 69837,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "헬기장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010076",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199170.72000000067,
+        "y" : 540025.99210000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 69838,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010077",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199362.05379999988,
+        "y" : 540048.45820000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 69839,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "지적표시",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010078",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199201.89150000457,
+        "y" : 540048.6520000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 69840,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안개판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010079",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199201.89150000457,
+        "y" : 540048.6520000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 69841,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "표석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010080",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199292.33780000173,
+        "y" : 540053.44820000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 69842,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "울타리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010081",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199726.89030000102,
+        "y" : 540071.08520000428
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 69843,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010082",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199316.58129999973,
+        "y" : 540073.77850000188
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 69844,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010083",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199316.58129999973,
+        "y" : 540073.77850000188
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 69845,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "등산로입구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010084",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199251.51869999897,
+        "y" : 540075.09470000118
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 69846,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철조망",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010085",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199251.51869999897,
+        "y" : 540075.09470000118
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 69847,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010086",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199380.5206000004,
+        "y" : 540076.22529999726
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 69848,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "군인시설물",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010087",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199288.34149999917,
+        "y" : 540080.4959000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 69849,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "맨홀",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010088",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199288.34149999917,
+        "y" : 540080.4959000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 69850,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010089",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200301.38640000019,
+        "y" : 540094.85099999979
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "PMNTN_SPOT" : 69851,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010090",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199343.02839999925,
+        "y" : 540102.90990000404
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "PMNTN_SPOT" : 69852,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "울타리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010091",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199343.02839999925,
+        "y" : 540102.90990000404
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "PMNTN_SPOT" : 69853,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010092",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199376.36550000124,
+        "y" : 540111.15310000069
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "PMNTN_SPOT" : 69854,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "텃밭",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010093",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199482.11650000233,
+        "y" : 540113.97450000234
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "PMNTN_SPOT" : 69855,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010094",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200307.05700000096,
+        "y" : 540116.52669999935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "PMNTN_SPOT" : 69856,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "통신표시석,울타리,맨홀",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010095",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199348.71120000165,
+        "y" : 540133.20860000141
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "PMNTN_SPOT" : 69857,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010096",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199404.97169999965,
+        "y" : 540147.45420000143
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 96,
+        "PMNTN_SPOT" : 69858,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010097",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199426.00160000101,
+        "y" : 540149.61670000292
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 97,
+        "PMNTN_SPOT" : 69859,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "통신표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010098",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199731.34440000076,
+        "y" : 540156.24479999952
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 98,
+        "PMNTN_SPOT" : 69860,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010099",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199354.50899999961,
+        "y" : 540165.3719000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 99,
+        "PMNTN_SPOT" : 69861,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "묘지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010100",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199729.6464999998,
+        "y" : 540172.2379999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 100,
+        "PMNTN_SPOT" : 69862,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010101",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200314.31030000374,
+        "y" : 540178.26860000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 101,
+        "PMNTN_SPOT" : 69863,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "T.P표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010102",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199708.01630000304,
+        "y" : 540192.73830000311
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 102,
+        "PMNTN_SPOT" : 69864,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "맨홀,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010103",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199377.54970000405,
+        "y" : 540194.71460000239
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 103,
+        "PMNTN_SPOT" : 69865,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "울타리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010104",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199706.86710000038,
+        "y" : 540211.37289999984
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 104,
+        "PMNTN_SPOT" : 69866,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010105",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200351.86540000048,
+        "y" : 540216.70409999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 105,
+        "PMNTN_SPOT" : 69867,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010106",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199482.125,
+        "y" : 540224.97189999931
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 106,
+        "PMNTN_SPOT" : 69868,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "맨홀",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010107",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199434.60869999975,
+        "y" : 540242.24520000257
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 107,
+        "PMNTN_SPOT" : 69869,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "맨홀",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010108",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199595.16619999986,
+        "y" : 540253.67619999871
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 108,
+        "PMNTN_SPOT" : 69870,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "조망점, 공동묘지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010109",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200417.84470000025,
+        "y" : 540284.49670000374
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 109,
+        "PMNTN_SPOT" : 69871,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010110",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200435.5821000021,
+        "y" : 540307.02760000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 110,
+        "PMNTN_SPOT" : 69872,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커,표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010111",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199730.45950000454,
+        "y" : 540338.5511000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 111,
+        "PMNTN_SPOT" : 69873,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "군사도로",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010112",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200471.98540000059,
+        "y" : 540357.78309999965
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 112,
+        "PMNTN_SPOT" : 69874,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010113",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200437.57000000123,
+        "y" : 540379.23540000245
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 113,
+        "PMNTN_SPOT" : 69875,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커,표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010114",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199730.77130000014,
+        "y" : 540384.3329000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 114,
+        "PMNTN_SPOT" : 69876,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010115",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 200441.99170000013,
+        "y" : 540424.07400000095
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 115,
+        "PMNTN_SPOT" : 69877,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커,표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010116",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199736.25820000097,
+        "y" : 540424.25450000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 116,
+        "PMNTN_SPOT" : 69878,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010117",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 200430.9765000008,
+        "y" : 540448.51280000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 117,
+        "PMNTN_SPOT" : 69879,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010118",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199756.8646999998,
+        "y" : 540472.39950000122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 118,
+        "PMNTN_SPOT" : 69880,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010119",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199768.06539999973,
+        "y" : 540486.08360000141
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 119,
+        "PMNTN_SPOT" : 69881,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010120",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 200423.55250000022,
+        "y" : 540488.86720000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 120,
+        "PMNTN_SPOT" : 69882,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010121",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 200413.82910000067,
+        "y" : 540510.91990000196
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 121,
+        "PMNTN_SPOT" : 69883,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010122",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200397.8247000007,
+        "y" : 540526.82370000146
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 122,
+        "PMNTN_SPOT" : 69884,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무다리, 울타리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010123",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199956.84040000197,
+        "y" : 540568.89580000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 123,
+        "PMNTN_SPOT" : 69885,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010124",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199711.64499999955,
+        "y" : 540580.08060000092
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 124,
+        "PMNTN_SPOT" : 69886,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점,T.P 기준석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010125",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200371.68060000055,
+        "y" : 540590.79539999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 125,
+        "PMNTN_SPOT" : 69887,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "22",
+        "MANAGE_SP2" : "헬기장",
+        "DETAIL_SPO" : "헬기장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010126",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199699.71229999978,
+        "y" : 540610.0808000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 126,
+        "PMNTN_SPOT" : 69888,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010127",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199941.40500000026,
+        "y" : 540666.27560000122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 127,
+        "PMNTN_SPOT" : 69889,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010128",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199687.11869999953,
+        "y" : 540687.36130000465
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 128,
+        "PMNTN_SPOT" : 69890,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "과수원",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010129",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199974.89950000122,
+        "y" : 540730.6026000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 129,
+        "PMNTN_SPOT" : 69891,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010130",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199681.39780000318,
+        "y" : 540741.75610000268
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 130,
+        "PMNTN_SPOT" : 69892,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010131",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199668.50280000176,
+        "y" : 540801.64510000311
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 131,
+        "PMNTN_SPOT" : 69893,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "표시석, 이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010132",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199686.63889999967,
+        "y" : 540815.85029999912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 132,
+        "PMNTN_SPOT" : 69894,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "23",
+        "MANAGE_SP2" : "정상",
+        "DETAIL_SPO" : "벙커,초소,안내판,정상부",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010133",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199669.16720000375,
+        "y" : 540818.00439999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 133,
+        "PMNTN_SPOT" : 69895,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010134",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 199714.73670000024,
+        "y" : 540844.99400000833
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 134,
+        "PMNTN_SPOT" : 69896,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "나무계단,이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010135",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 200048.8842999991,
+        "y" : 540851.52140000463
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 135,
+        "PMNTN_SPOT" : 69897,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "모래보관함, 벤치, 이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010136",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199815.66590000223,
+        "y" : 540851.64880000241
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 136,
+        "PMNTN_SPOT" : 69898,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "4129002010137",
+        "MNTN_ID" : "412900201"
+      },
+      "geometry" : {
+        "x" : 200069.52300000004,
+        "y" : 540854.22929999977
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 137,
+        "PMNTN_SPOT" : 69899,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010138",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199727.02510000393,
+        "y" : 540860.56479999982
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 138,
+        "PMNTN_SPOT" : 69900,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010139",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199980.90860000066,
+        "y" : 540865.49550000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 139,
+        "PMNTN_SPOT" : 69901,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "군사시설,벙커,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010140",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199742.19700000063,
+        "y" : 540867.75599999912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 140,
+        "PMNTN_SPOT" : 69902,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "표시석",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010141",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199925.17640000116,
+        "y" : 540873.60970000178
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 141,
+        "PMNTN_SPOT" : 69903,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010142",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 199784.77520000003,
+        "y" : 540876.41110000201
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 142,
+        "PMNTN_SPOT" : 69904,
+        "MNTN_CODE" : "116500401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "전기시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "우면산",
+        "PAST_SPOT_" : "1165004010143",
+        "MNTN_ID" : "116500401"
+      },
+      "geometry" : {
+        "x" : 201882.17239999957,
+        "y" : 542576.84950000048
+      }
+    }
+  ]
+}

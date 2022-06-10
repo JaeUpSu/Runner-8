@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="7dp"
+    android:orientation="vertical">
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="14"
+        android:id="@+id/scroll_searchview"
+        android:background="#FFFFFF">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+      `  <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:weightSum="5"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:id="@+id/searchspinner"
+                android:layout_weight="1"
+                android:layout_width="118dp"
+                android:layout_height="28dp"/>
+            <EditText
+                android:id="@+id/et_Search"
+                android:layout_weight="3"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:textSize="20sp"/>
+            <ImageButton
+                android:id="@+id/btn_search_ok"
+                android:layout_width="25dp"
+                android:layout_height="26dp"
+                android:layout_weight="1"
+                android:background="@drawable/comm_search"/>
+        </LinearLayout>
+        <Spinner
+            android:id="@+id/sortspinner"
+            android:layout_gravity="right"
+            android:layout_width="111dp"
+            android:layout_height="28dp"
+            android:layout_marginRight="5dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="11dp"
+                    android:orientation="vertical">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/list_searchSNS"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+                 </LinearLayout>
+            </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

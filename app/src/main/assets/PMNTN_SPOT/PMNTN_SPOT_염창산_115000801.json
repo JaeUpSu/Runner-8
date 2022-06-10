@@ -1,0 +1,1647 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 64315,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010001",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188124.18309999909,
+        "y" : 551055.62569999881
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 64316,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010002",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188139.53460000083,
+        "y" : 551049.74290000089
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 64317,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010003",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188165.99530000053,
+        "y" : 551038.86720000207
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 64318,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010004",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188245.78850000072,
+        "y" : 551013.87780000083
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 64319,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010005",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188250.52170000132,
+        "y" : 551014.39210000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 64320,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "역기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010006",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188253.89159999974,
+        "y" : 551014.59200000204
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 64321,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010007",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188251.35429999977,
+        "y" : 551016.60500000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 64322,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010008",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188246.31010000221,
+        "y" : 551016.04470000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 64323,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010009",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188248.51040000003,
+        "y" : 551016.61840000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 64324,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010010",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188279.40180000011,
+        "y" : 551027.9057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 64325,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010011",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188372.56359999999,
+        "y" : 550987.27900000103
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 64326,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010012",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188373.95970000047,
+        "y" : 550984.69080000184
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 64327,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010013",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188376.56090000179,
+        "y" : 550985.87799999863
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 64328,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010014",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188371.5783000011,
+        "y" : 550981.75439999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 64329,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "역기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010015",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188376.4160000002,
+        "y" : 550977.66370000131
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 64330,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "평행봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010016",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188379.10730000027,
+        "y" : 550979.66939999908
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 64331,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "팔굽혀펴기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010017",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188376.71720000077,
+        "y" : 550975.88640000112
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 64332,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010018",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188376.03090000059,
+        "y" : 550972.27789999917
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 64333,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010019",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188381.82870000135,
+        "y" : 550976.83749999851
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 64334,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010020",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188382.72310000099,
+        "y" : 550980.90160000324
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 64335,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내문",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010021",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188375.97130000126,
+        "y" : 550993.25600000285
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 64336,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "무덤가",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010022",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188427.44969999976,
+        "y" : 551003.48249999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 64337,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "송전탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010023",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188376.67400000058,
+        "y" : 551024.37340000272
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 64338,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010024",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188360.81880000047,
+        "y" : 550977.49940000102
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 64339,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010025",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188344.06149999984,
+        "y" : 550947.54880000465
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 64340,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010026",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188342.74340000004,
+        "y" : 550942.44340000115
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 64341,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010027",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188342.76950000133,
+        "y" : 550939.94089999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 64342,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010028",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188342.33100000117,
+        "y" : 550933.55040000193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 64343,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010029",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188342.98249999993,
+        "y" : 550928.06079999916
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 64344,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010030",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188351.79889999982,
+        "y" : 550919.84310000204
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 64345,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010031",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188349.12210000027,
+        "y" : 550906.99949999899
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 64346,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010032",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188339.21210000105,
+        "y" : 550895.9057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 64347,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010033",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188340.32100000139,
+        "y" : 550894.50870000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 64348,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "팔굽혀펴기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010034",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188337.42280000076,
+        "y" : 550892.7731999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 64349,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010035",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188337.79440000001,
+        "y" : 550893.70290000178
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 64350,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010036",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188337.31400000118,
+        "y" : 550889.09869999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 64351,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010037",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188340.68870000169,
+        "y" : 550887.3729000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 64352,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010038",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188342.32070000097,
+        "y" : 550884.03079999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 64353,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010039",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188339.58460000157,
+        "y" : 550881.67170000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 64354,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010040",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188342.49110000022,
+        "y" : 550873.49970000237
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 64355,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010041",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188340.76510000136,
+        "y" : 550852.0960000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 64356,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010042",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188343.4254999999,
+        "y" : 550842.67779999971
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 64357,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010043",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188345.41060000099,
+        "y" : 550827.05520000122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 64358,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010044",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188349.46150000021,
+        "y" : 550811.0578000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 64359,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010045",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188355.8657000009,
+        "y" : 550746.09570000134
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 64360,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010046",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188359.08970000129,
+        "y" : 550742.49100000411
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 64361,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "작은활차돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010047",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188341.70000000112,
+        "y" : 550805.81259999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 64362,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "온몸역기들기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010048",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188341.73400000203,
+        "y" : 550803.66360000335
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 64363,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "온몸역기들기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010049",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188341.3973000003,
+        "y" : 550801.25450000353
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 64364,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "파도타기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010050",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188341.16380000208,
+        "y" : 550798.43610000052
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 64365,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "걷기운동",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010051",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188341.79100000113,
+        "y" : 550796.83510000259
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 64366,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "작은활차돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010052",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188342.21540000197,
+        "y" : 550798.3881000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 64367,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "파도타기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010053",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188343.18950000219,
+        "y" : 550801.17760000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 64368,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "걷기운동",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010054",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188343.78550000023,
+        "y" : 550803.7071999982
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 64369,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010055",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188346.58260000031,
+        "y" : 550807.25690000132
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 64370,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010056",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188346.83780000079,
+        "y" : 550804.37280000187
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 64371,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010057",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188346.72190000024,
+        "y" : 550800.97729999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 64372,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "체조단상",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010058",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188332.02190000005,
+        "y" : 550849.26160000265
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 64373,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010059",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188333.60890000034,
+        "y" : 550845.4729999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 64374,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010060",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188333.42210000008,
+        "y" : 550844.3198000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 64375,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010061",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188313.32720000111,
+        "y" : 550895.41190000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 64376,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010062",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188308.61450000014,
+        "y" : 550898.98150000349
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 64377,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010063",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188280.57050000224,
+        "y" : 550921.95280000381
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 64378,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010064",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188262.17899999954,
+        "y" : 550941.31960000284
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 64379,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010065",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188222.34750000201,
+        "y" : 550971.25710000284
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 64380,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010066",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188215.99600000028,
+        "y" : 550978.53160000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 64381,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010067",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188437.53990000021,
+        "y" : 551037.7498000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 64382,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010068",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188123.11689999979,
+        "y" : 551057.78060000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 64383,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010069",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188161.1062000012,
+        "y" : 551038.16359999962
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 64384,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010070",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188262.41060000099,
+        "y" : 551092.19150000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 64385,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010071",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188273.62579999957,
+        "y" : 550924.43040000275
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 64386,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010072",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188278.22180000041,
+        "y" : 551027.35170000233
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 64387,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010073",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188338.15749999974,
+        "y" : 551024.48330000229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 64388,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010074",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188341.85610000137,
+        "y" : 550877.46639999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 64389,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010075",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188373.1043000007,
+        "y" : 550993.56200000085
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 64390,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010076",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188381.49810000043,
+        "y" : 550735.18480000086
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 64391,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010077",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188406.95970000047,
+        "y" : 550826.75930000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 64392,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010078",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188421.43130000029,
+        "y" : 551034.31929999962
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 64393,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010079",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188429.2321000006,
+        "y" : 550984.85400000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 98438,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010080",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188159.8921999991,
+        "y" : 551038.44789999886
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 98439,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010081",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188453.48400000017,
+        "y" : 550983.88220000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 98440,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "송전탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010082",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188342.19379999948,
+        "y" : 551025.73350000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 98441,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010083",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188378.44099999894,
+        "y" : 550736.41699999955
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 98442,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010084",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188340.28519999934,
+        "y" : 550879.57760000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 98443,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010085",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188259.10859999983,
+        "y" : 550927.76029999927
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 98444,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010086",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188278.00669999959,
+        "y" : 551104.64760000107
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 98445,
+        "MNTN_CODE" : "115000801",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "염창산",
+        "PAST_SPOT_" : "1150008010087",
+        "MNTN_ID" : "115000801"
+      },
+      "geometry" : {
+        "x" : 188423.81800000012,
+        "y" : 551033.3685999997
+      }
+    }
+  ]
+}

@@ -1,0 +1,5247 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 95503,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010001",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191678.56159999873,
+        "y" : 541589.5308999978
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 95504,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010002",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191701.54280000087,
+        "y" : 541564.39320000261
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 95505,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010003",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191769.18919999991,
+        "y" : 537171.98189999908
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 95506,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010004",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191770.0092000002,
+        "y" : 537848.39159999788
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 95507,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010005",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191805.33550000004,
+        "y" : 540612.24459999986
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 95508,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010006",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191807.73530000076,
+        "y" : 540372.04620000161
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 95509,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010007",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191812.65440000128,
+        "y" : 540609.73829999939
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 95510,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010008",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191820.7471000012,
+        "y" : 538605.50110000186
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 95511,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010009",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191836.31620000023,
+        "y" : 537937.71930000186
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 95512,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010010",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191845.06890000124,
+        "y" : 541580.80760000087
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 95513,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010011",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191846.87380000018,
+        "y" : 541191.45860000141
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 95514,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010012",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191870.22749999911,
+        "y" : 537925.41050000116
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 95515,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010013",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191885.0903000012,
+        "y" : 541478.93310000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 95516,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010014",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191914.53340000194,
+        "y" : 538176.86720000394
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 95517,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010015",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191923.4765000008,
+        "y" : 538074.62450000457
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 95518,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010016",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191925.40060000122,
+        "y" : 540068.56849999912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 95519,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010017",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191930.59130000137,
+        "y" : 537813.6930999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 95520,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010018",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191930.86720000207,
+        "y" : 539622.76780000143
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 95521,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010019",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191934.96240000054,
+        "y" : 537758.19590000436
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 95522,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010020",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191936.39429999981,
+        "y" : 538195.42119999975
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 95523,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010021",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191936.76080000028,
+        "y" : 537925.47280000336
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 95524,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010022",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191939.94130000006,
+        "y" : 538316.6054999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 95525,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010023",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191948.98149999976,
+        "y" : 538244.57740000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 95526,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010024",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191953.12340000086,
+        "y" : 538058.86620000191
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 95527,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010025",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191959.93500000052,
+        "y" : 541307.2666000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 95528,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010026",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191972.08790000062,
+        "y" : 541296.05900000036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 95529,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010027",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191986.76330000162,
+        "y" : 537298.12750000134
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 95530,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010028",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191988.55070000049,
+        "y" : 540931.80650000088
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 95531,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010029",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192005.03710000031,
+        "y" : 538542.43019999936
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 95532,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010030",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192005.26540000178,
+        "y" : 540915.6875
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 95533,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010031",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192007.04449999984,
+        "y" : 538045.87820000201
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 95534,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010032",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192018.27320000064,
+        "y" : 538819.36310000159
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 95535,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010033",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192046.08970000129,
+        "y" : 541880.1986999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 95536,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010034",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192052.27520000096,
+        "y" : 538588.62930000201
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 95537,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010035",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192087.9299000008,
+        "y" : 541196.5493000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 95538,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010036",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192097.31760000065,
+        "y" : 537874.5757999979
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 95539,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010037",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192127.39270000067,
+        "y" : 541607.38870000094
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 95540,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010038",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192135.67450000066,
+        "y" : 537883.78850000165
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 95541,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010039",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192137.50559999887,
+        "y" : 538029.78130000271
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 95542,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010040",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192145.60480000079,
+        "y" : 540634.90320000239
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 95543,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010041",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192156.71569999959,
+        "y" : 540890.13880000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 95544,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010042",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192160.43690000009,
+        "y" : 541646.57550000213
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 95545,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010043",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192208.11630000081,
+        "y" : 541978.66730000079
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 95546,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010044",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192219.84040000103,
+        "y" : 537985.44670000114
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 95547,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010045",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192256.01590000093,
+        "y" : 541695.52679999918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 95548,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010046",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192289.75239999965,
+        "y" : 538011.13620000333
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 95549,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010047",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192311.56420000084,
+        "y" : 538059.61659999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 95550,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010048",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192315.5178000005,
+        "y" : 541805.26530000195
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 95551,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010049",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192323.94370000158,
+        "y" : 538030.65070000105
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 95552,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010050",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192329.57710000128,
+        "y" : 540232.81650000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 95553,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010051",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192330.04160000011,
+        "y" : 540577.28109999932
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 95554,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010052",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192347.33069999982,
+        "y" : 540297.54240000248
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 95555,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010053",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192376.50300000049,
+        "y" : 539367.82720000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 95556,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010054",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192390.18880000059,
+        "y" : 537825.20750000514
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 95557,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010055",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192399.78340000007,
+        "y" : 540308.81179999933
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 95558,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010056",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192415.45080000162,
+        "y" : 539954.1082000006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 95559,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010057",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192431.38240000047,
+        "y" : 540303.01490000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 95560,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010058",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192433.18090000004,
+        "y" : 540224.5409000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 95561,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010059",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192435.11880000122,
+        "y" : 539870.90479999781
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 95562,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010060",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192468.90550000221,
+        "y" : 539402.1416000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 95563,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010061",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192494.35879999958,
+        "y" : 539828.57520000264
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 95564,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010062",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192649.17130000051,
+        "y" : 538343.26490000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 95565,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010063",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192679.03890000097,
+        "y" : 538303.42210000195
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 95566,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010064",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192683.84570000228,
+        "y" : 539306.24770000204
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 95567,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010065",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192694.43890000135,
+        "y" : 539378.27630000189
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 95568,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010066",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192766.70990000013,
+        "y" : 539401.48709999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 95569,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010067",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192776.2893000003,
+        "y" : 538454.78730000183
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 95570,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010068",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192778.50390000176,
+        "y" : 537876.32049999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 95571,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010069",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192825.86000000034,
+        "y" : 539750.4066000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 95572,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010070",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192848.47649999987,
+        "y" : 538362.23660000227
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 95573,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010071",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193054.0532999998,
+        "y" : 539050.17699999921
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 95574,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010072",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193111.45349999983,
+        "y" : 538896.66279999912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 95575,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010073",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193125.51460000128,
+        "y" : 538959.29710000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 95576,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010074",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193198.25460000057,
+        "y" : 538549.8331000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 95577,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010075",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193285.07969999965,
+        "y" : 539098.61560000107
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 95578,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010076",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193291.01450000051,
+        "y" : 539375.83290000074
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 95579,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010077",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193302.15240000095,
+        "y" : 538955.63570000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 95580,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010078",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193467.12229999993,
+        "y" : 539236.66999999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 95581,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010079",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193518.1492000008,
+        "y" : 538824.57400000282
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 95582,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자, 벤치, 운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010080",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192452.68762580806,
+        "y" : 539405.85572341224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 95583,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010081",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192477.90872366272,
+        "y" : 539574.16219817032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 95584,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "삼정약수터, 감로수약수터, 정자, 운동시설, 배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010082",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192477.90872366272,
+        "y" : 539574.16219817032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 95585,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "오리나무약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010083",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192477.90872366272,
+        "y" : 539574.16219817032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 95586,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010084",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191952.99546530034,
+        "y" : 539631.99537826772
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 95587,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010085",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192050.4068873465,
+        "y" : 539722.54069123149
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 95588,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010086",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192097.57843039112,
+        "y" : 539705.84788291005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 95589,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010087",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192209.66594055944,
+        "y" : 539724.240135186
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 95590,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010088",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192429.49118678973,
+        "y" : 539844.27276976162
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 95591,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010089",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192317.54056411807,
+        "y" : 539972.00954451144
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "PMNTN_SPOT" : 95592,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010090",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191967.19418383008,
+        "y" : 540593.86400907778
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "PMNTN_SPOT" : 95593,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010091",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192002.5703497424,
+        "y" : 540582.73133169941
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "PMNTN_SPOT" : 95594,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "시호천약수터,시호천약수터정자, 벤치, 운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010092",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192029.15473263586,
+        "y" : 540628.95027768274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "PMNTN_SPOT" : 95595,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설및벤치, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010093",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192052.79350647019,
+        "y" : 540678.87163353537
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "PMNTN_SPOT" : 95596,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010094",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192113.22783160492,
+        "y" : 540660.31642484211
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "PMNTN_SPOT" : 95597,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "노폭",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010095",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192201.66127635021,
+        "y" : 540625.08754012943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "PMNTN_SPOT" : 95598,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "아카시아 배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010096",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192101.64626466119,
+        "y" : 540886.00009597512
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 96,
+        "PMNTN_SPOT" : 95599,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "공원관리소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010097",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192005.83866580663,
+        "y" : 540915.68780777743
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 97,
+        "PMNTN_SPOT" : 95600,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010098",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191857.51610681857,
+        "y" : 541520.7085235772
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 98,
+        "PMNTN_SPOT" : 95601,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구 등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010099",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191884.01542392321,
+        "y" : 541481.83733045182
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 99,
+        "PMNTN_SPOT" : 95602,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "배드민턴장, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010100",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191925.45524933457,
+        "y" : 541646.4273752711
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 100,
+        "PMNTN_SPOT" : 95603,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "만수천약수터, 벤치, 운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010101",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191966.79881434079,
+        "y" : 541712.97942120873
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 101,
+        "PMNTN_SPOT" : 95604,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010102",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191999.24306297634,
+        "y" : 541724.046866494
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 102,
+        "PMNTN_SPOT" : 95605,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "호암약수정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010103",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193291.50758100429,
+        "y" : 539079.57889174938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 103,
+        "PMNTN_SPOT" : 95606,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "호암약수",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010104",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193282.63244469036,
+        "y" : 539046.29017460183
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 104,
+        "PMNTN_SPOT" : 95607,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010105",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193292.95554331888,
+        "y" : 539046.28186363168
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 105,
+        "PMNTN_SPOT" : 95608,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010106",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193316.58229915384,
+        "y" : 539085.10806378827
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 106,
+        "PMNTN_SPOT" : 95609,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구, 벤치, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010107",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193360.86506299837,
+        "y" : 539136.86628724949
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 107,
+        "PMNTN_SPOT" : 95610,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "13",
+        "MANAGE_SP2" : "유적(문화, 역사)",
+        "DETAIL_SPO" : "호압사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010108",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193381.53591126311,
+        "y" : 539168.29591133527
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 108,
+        "PMNTN_SPOT" : 95611,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구 등), 산림1초소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010109",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193465.63890184517,
+        "y" : 539225.57249010005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 109,
+        "PMNTN_SPOT" : 95612,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010110",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193516.93811104691,
+        "y" : 538820.43281938415
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 110,
+        "PMNTN_SPOT" : 95613,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "잣나무약수터, 정자, 벤치, 평상, 운동시설, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010111",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193599.35740624368,
+        "y" : 538602.09635892534
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 111,
+        "PMNTN_SPOT" : 95614,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구 등), 벤치, 평상, 목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010112",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193599.35740624368,
+        "y" : 538602.09635892534
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 112,
+        "PMNTN_SPOT" : 95615,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "보수필요한 경사도, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010113",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192533.11148964136,
+        "y" : 538643.67794632341
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 113,
+        "PMNTN_SPOT" : 95616,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010114",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192569.9763750151,
+        "y" : 538638.09570775984
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 114,
+        "PMNTN_SPOT" : 95617,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치, 시설물(운동기구 등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010115",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192664.24459015485,
+        "y" : 538502.97906038468
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 115,
+        "PMNTN_SPOT" : 95618,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010116",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192739.42983007545,
+        "y" : 538467.76761282759
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 116,
+        "PMNTN_SPOT" : 95619,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010117",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192774.81445001712,
+        "y" : 538454.78857160558
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 117,
+        "PMNTN_SPOT" : 95620,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010118",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192901.63081129917,
+        "y" : 538432.48243290838
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 118,
+        "PMNTN_SPOT" : 95621,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "칼바위조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010119",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192965.09546777132,
+        "y" : 538487.92171019805
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 119,
+        "PMNTN_SPOT" : 95622,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "13",
+        "MANAGE_SP2" : "유적(문화, 역사)",
+        "DETAIL_SPO" : "불영암",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010120",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193075.72869647239,
+        "y" : 538513.72583449527
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 120,
+        "PMNTN_SPOT" : 95623,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "13",
+        "MANAGE_SP2" : "유적(문화, 역사)",
+        "DETAIL_SPO" : "한우물, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010121",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193117.05417835439,
+        "y" : 538550.68695937935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 121,
+        "PMNTN_SPOT" : 95624,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "헬기장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010122",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193164.25722672127,
+        "y" : 538561.7467429603
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 122,
+        "PMNTN_SPOT" : 95625,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "옹달샘약수터, 벤치, 평상, 정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010123",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192697.95486759621,
+        "y" : 538262.47952434444
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 123,
+        "PMNTN_SPOT" : 95626,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "人道터널",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010124",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192667.04130166207,
+        "y" : 538329.09830939292
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 124,
+        "PMNTN_SPOT" : 95627,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "산복약수터. 정자, 벤치, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010125",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192584.46775923506,
+        "y" : 538349.51885534998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 125,
+        "PMNTN_SPOT" : 95628,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "우정약수터, 운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010126",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192292.57445214727,
+        "y" : 538486.66638716299
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 126,
+        "PMNTN_SPOT" : 95629,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구 등), 벤치, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010127",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192187.9036103221,
+        "y" : 538531.15825035633
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 127,
+        "PMNTN_SPOT" : 95630,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시흥초소, 화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010128",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192005.03531704308,
+        "y" : 538540.58038592106
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 128,
+        "PMNTN_SPOT" : 95631,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치, 시설물(운동기구 등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010129",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192061.06060667572,
+        "y" : 538522.02923870482
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 129,
+        "PMNTN_SPOT" : 95632,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010130",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192094.95515816065,
+        "y" : 538494.25049939961
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 130,
+        "PMNTN_SPOT" : 95633,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "삼성배드민턴장, 벤치, 운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010131",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192137.68834474092,
+        "y" : 538455.36494693009
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 131,
+        "PMNTN_SPOT" : 95634,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "치산약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010132",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192237.87337844286,
+        "y" : 538344.28495833417
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 132,
+        "PMNTN_SPOT" : 95635,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "삼성약수터, 정자, 운동시설, 천막, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010133",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192259.97207137477,
+        "y" : 538318.36758310511
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 133,
+        "PMNTN_SPOT" : 95636,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "호국탑, 벤치, 정자, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010134",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192405.78208847414,
+        "y" : 538098.11114455317
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 134,
+        "PMNTN_SPOT" : 95637,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "야호배드민턴장, 정자, 운동시설, 벤치, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010135",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192494.242318595,
+        "y" : 538061.03574319195
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 135,
+        "PMNTN_SPOT" : 95638,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "한우물약수터, 정자, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010136",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192600.42353069189,
+        "y" : 538047.9924477092
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 136,
+        "PMNTN_SPOT" : 95639,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "배드민턴장 2개, 정자, 벤치, 운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010137",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192613.69927708057,
+        "y" : 538049.83048412169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 137,
+        "PMNTN_SPOT" : 95640,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "호암1약수터, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010138",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192654.96719908965,
+        "y" : 538016.49822072627
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 138,
+        "PMNTN_SPOT" : 95641,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "계곡약수터, 정자, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010139",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192665.20698170413,
+        "y" : 537920.30126729875
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 139,
+        "PMNTN_SPOT" : 95642,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "목계단훼손, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010140",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192380.46560633759,
+        "y" : 537831.76771035453
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 140,
+        "PMNTN_SPOT" : 95643,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010141",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192200.82231130131,
+        "y" : 538151.94353617739
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 141,
+        "PMNTN_SPOT" : 95644,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010142",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191979.70910621528,
+        "y" : 538276.08777416521
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 142,
+        "PMNTN_SPOT" : 95645,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010143",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191947.27464386498,
+        "y" : 538289.06744851789
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 143,
+        "PMNTN_SPOT" : 95646,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010144",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191920.77378613074,
+        "y" : 538337.18703209865
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 144,
+        "PMNTN_SPOT" : 95647,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010145",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191865.80198736352,
+        "y" : 537924.74210348411
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 145,
+        "PMNTN_SPOT" : 95648,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "약청수약수터, 정자, 벤치, 운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010146",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191899.69652881954,
+        "y" : 537895.11290695018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 146,
+        "PMNTN_SPOT" : 95649,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010147",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191930.59843416029,
+        "y" : 537821.09221520601
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 147,
+        "PMNTN_SPOT" : 95650,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치1, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010148",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191959.81372793516,
+        "y" : 537526.9510554031
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 148,
+        "PMNTN_SPOT" : 95651,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "등산로전경, 약수터, 정자, 벤치, 운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010149",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192023.13410154,
+        "y" : 537417.75408436148
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 149,
+        "PMNTN_SPOT" : 95652,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설, 공터, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010150",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192039.28153844242,
+        "y" : 537336.34887776338
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 150,
+        "PMNTN_SPOT" : 95653,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구 등), 벤치, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010151",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192137.81218444239,
+        "y" : 541712.81625729264
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 151,
+        "PMNTN_SPOT" : 95654,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구 등), 벤치, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010152",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192127.40148194341,
+        "y" : 541616.63758937013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 152,
+        "PMNTN_SPOT" : 95655,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구 등), 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010153",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192010.85254239576,
+        "y" : 541531.65872708568
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 153,
+        "PMNTN_SPOT" : 95656,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "독산자연공원",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010154",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191895.81334247004,
+        "y" : 541485.52547443856
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 154,
+        "PMNTN_SPOT" : 95657,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "금천체육공원",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010155",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191964.93033173663,
+        "y" : 541304.18025685416
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 155,
+        "PMNTN_SPOT" : 95658,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "금천정, 벤치, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010156",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192038.42560061568,
+        "y" : 541072.88762887788
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 156,
+        "PMNTN_SPOT" : 95659,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "소화전, 시설물(운동기구 등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010157",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192128.2466112714,
+        "y" : 540950.71704747668
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 157,
+        "PMNTN_SPOT" : 95660,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "아카시아배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010158",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192144.42996542648,
+        "y" : 540913.70628974331
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 158,
+        "PMNTN_SPOT" : 95661,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010159",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192263.65838367361,
+        "y" : 540700.87049897958
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 159,
+        "PMNTN_SPOT" : 95662,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "천막배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010160",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192319.49581060035,
+        "y" : 540493.64400651585
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 160,
+        "PMNTN_SPOT" : 95663,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구 등), 소화전",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010161",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192371.01081923326,
+        "y" : 540393.70886055473
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 161,
+        "PMNTN_SPOT" : 95664,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "등산로전경, 금천2초소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010162",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192420.85394901806,
+        "y" : 540075.5023379582
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 162,
+        "PMNTN_SPOT" : 95665,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "나무 벤치 2",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010163",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192416.3478502222,
+        "y" : 539984.86750528053
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 163,
+        "PMNTN_SPOT" : 95666,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010164",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192439.82672129944,
+        "y" : 539859.06164546136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 164,
+        "PMNTN_SPOT" : 95667,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010165",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192554.80104877477,
+        "y" : 539810.8639879534
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 165,
+        "PMNTN_SPOT" : 95668,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010166",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192587.24203839488,
+        "y" : 539810.83507399983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 166,
+        "PMNTN_SPOT" : 95669,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010167",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192747.9367833857,
+        "y" : 539769.99879087077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 167,
+        "PMNTN_SPOT" : 95670,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "소화전",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010168",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192886.51413269844,
+        "y" : 539729.18434674863
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 168,
+        "PMNTN_SPOT" : 95671,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설 4개, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010169",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192969.09189676328,
+        "y" : 539729.11428350606
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 169,
+        "PMNTN_SPOT" : 95672,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "소화전, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010170",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193140.06679532494,
+        "y" : 539632.78363917873
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 170,
+        "PMNTN_SPOT" : 95673,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010171",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193287.32024713705,
+        "y" : 539373.6957939273
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 171,
+        "PMNTN_SPOT" : 95674,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "헬기장, 등산로전경, 벤치, 운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010172",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193412.60551734577,
+        "y" : 539295.90547503054
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 172,
+        "PMNTN_SPOT" : 95675,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010173",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193511.21186782222,
+        "y" : 539042.40963767702
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 173,
+        "PMNTN_SPOT" : 95676,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010174",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193524.3119903144,
+        "y" : 538820.42708913411
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 174,
+        "PMNTN_SPOT" : 95677,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "13",
+        "MANAGE_SP2" : "유적(문화, 역사)",
+        "DETAIL_SPO" : "석구상, 이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010175",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193229.16385246595,
+        "y" : 538580.19151201553
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 175,
+        "PMNTN_SPOT" : 95678,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "13",
+        "MANAGE_SP2" : "유적(문화, 역사)",
+        "DETAIL_SPO" : "한우물주변산성지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010176",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193105.12103321162,
+        "y" : 538387.91725615691
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 176,
+        "PMNTN_SPOT" : 95679,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010177",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192593.06876963947,
+        "y" : 538070.19618869841
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 177,
+        "PMNTN_SPOT" : 95680,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010178",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192545.6786638191,
+        "y" : 537853.81562123646
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 178,
+        "PMNTN_SPOT" : 95681,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010179",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192408.47937876094,
+        "y" : 537820.64356257871
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 179,
+        "PMNTN_SPOT" : 95682,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010180",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192339.09082413447,
+        "y" : 537748.56609291839
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 180,
+        "PMNTN_SPOT" : 95683,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010181",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192250.54718606093,
+        "y" : 537698.70418204239
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 181,
+        "PMNTN_SPOT" : 95684,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010182",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192173.75545930059,
+        "y" : 537598.88847676653
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 182,
+        "PMNTN_SPOT" : 95685,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010183",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192141.17689737893,
+        "y" : 537462.0364278229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 183,
+        "PMNTN_SPOT" : 95686,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "등산로전경, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010184",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192009.76862751052,
+        "y" : 537323.42880660179
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 184,
+        "PMNTN_SPOT" : 95687,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "천막배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010185",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191938.99225065799,
+        "y" : 537349.39358634048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 185,
+        "PMNTN_SPOT" : 95688,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "13",
+        "MANAGE_SP2" : "유적(문화, 역사)",
+        "DETAIL_SPO" : "천불사, 운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010186",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192348.80521914639,
+        "y" : 540297.54102918785
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 186,
+        "PMNTN_SPOT" : 95689,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010187",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193124.75766915362,
+        "y" : 538950.23078883672
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 187,
+        "PMNTN_SPOT" : 95690,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010188",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193025.75657569629,
+        "y" : 538719.09184373659
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 188,
+        "PMNTN_SPOT" : 95691,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010189",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193010.98400628846,
+        "y" : 538689.50786719075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 189,
+        "PMNTN_SPOT" : 95692,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010190",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193006.56119574385,
+        "y" : 538691.36138177256
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 190,
+        "PMNTN_SPOT" : 95693,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010191",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192900.29148184945,
+        "y" : 538591.56365389912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 191,
+        "PMNTN_SPOT" : 95694,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010192",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192898.81192180226,
+        "y" : 538586.01560669369
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 192,
+        "PMNTN_SPOT" : 95695,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010193",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192886.99772689678,
+        "y" : 538567.52794917626
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 193,
+        "PMNTN_SPOT" : 95696,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010194",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192894.37331840658,
+        "y" : 538569.37146684655
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 194,
+        "PMNTN_SPOT" : 95697,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010195",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192830.90562809596,
+        "y" : 538510.23322315991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 195,
+        "PMNTN_SPOT" : 95698,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010196",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192844.17899990769,
+        "y" : 538510.22182213375
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 196,
+        "PMNTN_SPOT" : 95699,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010197",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192799.94880180975,
+        "y" : 538526.90781523928
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 197,
+        "PMNTN_SPOT" : 95700,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "호천약수",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010198",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192798.47883719491,
+        "y" : 538532.45839135535
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 198,
+        "PMNTN_SPOT" : 95701,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "창고",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010199",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192789.62354824087,
+        "y" : 538525.06693109637
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 199,
+        "PMNTN_SPOT" : 95702,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010200",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192808.80248437831,
+        "y" : 538532.44948192942
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 200,
+        "PMNTN_SPOT" : 95703,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010201",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192807.29262616078,
+        "y" : 538491.75583225
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 201,
+        "PMNTN_SPOT" : 95704,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010202",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192798.43730193103,
+        "y" : 538484.36436304054
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 202,
+        "PMNTN_SPOT" : 95705,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "수로",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010203",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192687.70549692173,
+        "y" : 538347.5778855508
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 203,
+        "PMNTN_SPOT" : 95706,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "人道터널",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010204",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192639.02898509437,
+        "y" : 538340.2215993196
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 204,
+        "PMNTN_SPOT" : 95707,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "옹달샘약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010205",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192686.16248273326,
+        "y" : 538269.88896810298
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 205,
+        "PMNTN_SPOT" : 95708,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010206",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191896.77716555237,
+        "y" : 537926.561756004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 206,
+        "PMNTN_SPOT" : 95709,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치 4",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010207",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191915.94580970678,
+        "y" : 537920.99385122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 207,
+        "PMNTN_SPOT" : 95710,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010208",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191924.7917691248,
+        "y" : 537917.28578341554
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 208,
+        "PMNTN_SPOT" : 95711,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010209",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191941.01948058736,
+        "y" : 537920.96958565537
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 209,
+        "PMNTN_SPOT" : 95712,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치 2",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010210",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192041.31434058133,
+        "y" : 537920.87327702565
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 210,
+        "PMNTN_SPOT" : 95713,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "불로천약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010211",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192131.24796863983,
+        "y" : 537881.94282597036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 211,
+        "PMNTN_SPOT" : 95714,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010212",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192129.77135172245,
+        "y" : 537880.09441477363
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 212,
+        "PMNTN_SPOT" : 95715,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설5",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010213",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192129.77309724069,
+        "y" : 537881.94421756419
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 213,
+        "PMNTN_SPOT" : 95716,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "공터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010214",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192148.94539212217,
+        "y" : 537880.07634373289
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 214,
+        "PMNTN_SPOT" : 95717,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치 7",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010215",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192137.12504972061,
+        "y" : 537857.89027004945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 215,
+        "PMNTN_SPOT" : 95718,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010216",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192085.73003787236,
+        "y" : 541204.17666772322
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 216,
+        "PMNTN_SPOT" : 95719,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010217",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192075.41849526,
+        "y" : 541213.43542776047
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 217,
+        "PMNTN_SPOT" : 95720,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010218",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192164.33655254581,
+        "y" : 541699.84278020938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 218,
+        "PMNTN_SPOT" : 95721,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "미성중학교",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010219",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192224.77924969501,
+        "y" : 541697.9363290536
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 219,
+        "PMNTN_SPOT" : 95722,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "신림12동약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010220",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192217.33714711116,
+        "y" : 541622.10241453152
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 220,
+        "PMNTN_SPOT" : 95723,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목벤치 4",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010221",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192207.01896719562,
+        "y" : 541623.96187577175
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 221,
+        "PMNTN_SPOT" : 95724,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010222",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192215.86284892308,
+        "y" : 541622.10379204014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 222,
+        "PMNTN_SPOT" : 95725,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "임시다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010223",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192107.65264201519,
+        "y" : 537885.66461822193
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 223,
+        "PMNTN_SPOT" : 95726,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "불로천약수터정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010224",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192120.93225206027,
+        "y" : 537891.20136500092
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 224,
+        "PMNTN_SPOT" : 95727,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "불로천약수터운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010225",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192134.19963296759,
+        "y" : 537883.78984619153
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 225,
+        "PMNTN_SPOT" : 95728,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "불로천약수터벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010226",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192138.63837133365,
+        "y" : 537898.58376395388
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 226,
+        "PMNTN_SPOT" : 95729,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "불로천약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010227",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192137.16515827371,
+        "y" : 537900.43495717156
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 227,
+        "PMNTN_SPOT" : 95730,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌무더기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010228",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192075.33070617635,
+        "y" : 538018.87853890168
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 228,
+        "PMNTN_SPOT" : 95731,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "서울금산초교",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010229",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191908.64479915987,
+        "y" : 537996.84137343289
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 229,
+        "PMNTN_SPOT" : 95732,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010230",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191929.26487157308,
+        "y" : 537967.22518240171
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 230,
+        "PMNTN_SPOT" : 95733,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010231",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191924.86340823129,
+        "y" : 537991.27635070728
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 231,
+        "PMNTN_SPOT" : 95734,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "목조다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010232",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191924.83117046542,
+        "y" : 537957.98056109622
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 232,
+        "PMNTN_SPOT" : 95735,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "山水路",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010233",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191945.45496957362,
+        "y" : 537932.06390702049
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 233,
+        "PMNTN_SPOT" : 95736,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010234",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192049.85692997574,
+        "y" : 540691.82289964147
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 234,
+        "PMNTN_SPOT" : 95737,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "목벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010235",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192045.43362985109,
+        "y" : 540691.82712098642
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 235,
+        "PMNTN_SPOT" : 95738,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "공터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010236",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192030.69466232596,
+        "y" : 540697.39053032524
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 236,
+        "PMNTN_SPOT" : 95739,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "간이벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010237",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191949.54009030122,
+        "y" : 540634.5761387524
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 237,
+        "PMNTN_SPOT" : 95740,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010238",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191809.44616555489,
+        "y" : 540612.51535629877
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 238,
+        "PMNTN_SPOT" : 95741,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010239",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191861.14574665681,
+        "y" : 540708.65306169493
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 239,
+        "PMNTN_SPOT" : 95742,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "금천배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010240",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192021.94724768304,
+        "y" : 540800.98629811849
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 240,
+        "PMNTN_SPOT" : 95743,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010241",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192035.2240468743,
+        "y" : 540808.37273672805
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 241,
+        "PMNTN_SPOT" : 95744,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010242",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192026.38288066184,
+        "y" : 540813.93051977956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 242,
+        "PMNTN_SPOT" : 95745,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "주차장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010243",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192024.91198023874,
+        "y" : 540817.63144206535
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 243,
+        "PMNTN_SPOT" : 95746,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "수로",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010244",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192020.54366124645,
+        "y" : 540874.97871372465
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 244,
+        "PMNTN_SPOT" : 95747,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "금천구민체육센타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010245",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191845.40137108578,
+        "y" : 541193.30976764159
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 245,
+        "PMNTN_SPOT" : 95748,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "금천체육공원",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010246",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191843.92880777756,
+        "y" : 541195.16102304892
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 246,
+        "PMNTN_SPOT" : 95749,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010247",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191864.58404944887,
+        "y" : 541209.93900708971
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 247,
+        "PMNTN_SPOT" : 95750,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "정심초등학교",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010248",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191910.33896446825,
+        "y" : 541261.68824865995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 248,
+        "PMNTN_SPOT" : 95751,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010249",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191717.49567652482,
+        "y" : 541557.84219404415
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 249,
+        "PMNTN_SPOT" : 95752,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "표지판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010250",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191714.54705710919,
+        "y" : 541557.84512621083
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 250,
+        "PMNTN_SPOT" : 95753,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010251",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191708.63710752633,
+        "y" : 541544.90252287337
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 251,
+        "PMNTN_SPOT" : 95754,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "수로",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010252",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191708.63158426917,
+        "y" : 541539.35319425282
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 252,
+        "PMNTN_SPOT" : 95755,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010253",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191707.14254005079,
+        "y" : 541524.55648933945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 253,
+        "PMNTN_SPOT" : 95756,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010254",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191749.71362002258,
+        "y" : 541339.5364123201
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 254,
+        "PMNTN_SPOT" : 95757,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "문교초등학교",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010255",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191846.4213226735,
+        "y" : 540729.01495141245
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 255,
+        "PMNTN_SPOT" : 95758,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010256",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192718.08939919365,
+        "y" : 539363.07496053958
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 256,
+        "PMNTN_SPOT" : 95759,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010257",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192653.24640961422,
+        "y" : 539411.22587330546
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 257,
+        "PMNTN_SPOT" : 95760,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010258",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192656.14844311523,
+        "y" : 539357.5799825032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 258,
+        "PMNTN_SPOT" : 95761,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010259",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192561.75967792049,
+        "y" : 539346.56503910024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 259,
+        "PMNTN_SPOT" : 95762,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010260",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191817.01701218347,
+        "y" : 537810.10427234648
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 260,
+        "PMNTN_SPOT" : 95763,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010261",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191814.05807804543,
+        "y" : 537800.85837582685
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 261,
+        "PMNTN_SPOT" : 95764,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010262",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191833.25412478411,
+        "y" : 537823.03676692699
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 262,
+        "PMNTN_SPOT" : 95765,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010263",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191964.74125579989,
+        "y" : 538048.58067802456
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 263,
+        "PMNTN_SPOT" : 95766,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치 4",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010264",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191927.90450915269,
+        "y" : 538085.6115749029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 264,
+        "PMNTN_SPOT" : 95767,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "천막시설",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010265",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191924.95833190327,
+        "y" : 538089.31403727992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 265,
+        "PMNTN_SPOT" : 95768,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "공터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010266",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191913.15562376365,
+        "y" : 538085.62586327083
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 266,
+        "PMNTN_SPOT" : 95769,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구 등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010267",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191924.95654083829,
+        "y" : 538087.46423387388
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 267,
+        "PMNTN_SPOT" : 95770,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "삽,소화전",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010268",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191922.01574050344,
+        "y" : 538096.71588560217
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 268,
+        "PMNTN_SPOT" : 95771,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010269",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191907.26678623981,
+        "y" : 538096.73018450267
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 269,
+        "PMNTN_SPOT" : 95772,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "간이목조다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010270",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191911.69325768368,
+        "y" : 538098.57569553657
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 270,
+        "PMNTN_SPOT" : 95773,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010271",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191923.50132215151,
+        "y" : 538107.81305590889
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 271,
+        "PMNTN_SPOT" : 95774,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "16",
+        "MANAGE_SP2" : "주요나무",
+        "DETAIL_SPO" : "잣나무군락지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010272",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 191917.66635573193,
+        "y" : 538174.41036743554
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 272,
+        "PMNTN_SPOT" : 100046,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단, 등산로전경",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010273",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192162.42119999937,
+        "y" : 539663.24190000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 273,
+        "PMNTN_SPOT" : 100047,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010274",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192835.21719999981,
+        "y" : 538378.89590000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 274,
+        "PMNTN_SPOT" : 100048,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010275",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192165.82809999964,
+        "y" : 541718.33919999935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 275,
+        "PMNTN_SPOT" : 100049,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "아카시아배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010276",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192293.13669999881,
+        "y" : 540689.74450000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 276,
+        "PMNTN_SPOT" : 100050,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010277",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192319.5640000008,
+        "y" : 540567.63499999954
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 277,
+        "PMNTN_SPOT" : 100051,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점, 천막배드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010278",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193030.60919999931,
+        "y" : 539231.47409999964
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 278,
+        "PMNTN_SPOT" : 100052,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "13",
+        "MANAGE_SP2" : "유적(문화, 역사)",
+        "DETAIL_SPO" : "천불사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010279",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193119.09230000025,
+        "y" : 539233.25029999984
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 279,
+        "PMNTN_SPOT" : 100053,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "13",
+        "MANAGE_SP2" : "유적(문화, 역사)",
+        "DETAIL_SPO" : "호암산문, 다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010280",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193127.94649999921,
+        "y" : 539240.64210000087
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 280,
+        "PMNTN_SPOT" : 100054,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목조다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010281",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193299.00909999976,
+        "y" : 539238.65310000069
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 281,
+        "PMNTN_SPOT" : 100055,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "음수대",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010282",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193307.82010000016,
+        "y" : 539192.40179999929
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 282,
+        "PMNTN_SPOT" : 100056,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010283",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193297.28160000005,
+        "y" : 538924.19360000128
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 283,
+        "PMNTN_SPOT" : 100057,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010284",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193255.94230000101,
+        "y" : 538866.88399999973
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 284,
+        "PMNTN_SPOT" : 100058,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010285",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193210.20829999974,
+        "y" : 538846.57369999902
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 285,
+        "PMNTN_SPOT" : 100059,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010286",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 193179.25050000087,
+        "y" : 538861.39709999936
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 286,
+        "PMNTN_SPOT" : 100060,
+        "MNTN_CODE" : "115450101",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "호암산",
+        "PAST_SPOT_" : "1154501010287",
+        "MNTN_ID" : "115450101"
+      },
+      "geometry" : {
+        "x" : 192164.32789999907,
+        "y" : 541690.59390000021
+      }
+    }
+  ]
+}

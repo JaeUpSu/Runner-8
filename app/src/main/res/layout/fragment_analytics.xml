@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:autofit="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/board_custom">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="20dp"
+                android:gravity="right"
+                android:textColor="#595959"
+                android:text="( w ) is a week     ( M ) is a Month"
+                android:textSize="12sp"/>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/mainshadowboard">
+
+                <LinearLayout
+                    android:id="@+id/linearLayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    autofit:layout_constraintBottom_toBottomOf="parent"
+                    autofit:layout_constraintStart_toStartOf="parent"
+                    autofit:layout_constraintTop_toTopOf="parent">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text=" Run   ( Total )"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <me.grantland.widget.AutofitTextView
+                        android:id="@+id/total_count_run"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="10dp"
+                        android:layout_marginTop="5dp"
+                        android:maxLines="3"
+                        android:text=" 54번"
+                        android:textColor="#000000"
+                        android:textSize="23sp"
+                        android:textStyle="bold"
+                        autofit:minTextSize="20sp" />
+
+                    <me.grantland.widget.AutofitTextView
+                        android:id="@+id/total_distance_run"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:maxLines="3"
+                        android:text="103.40 km"
+                        android:textColor="#000000"
+                        android:textSize="23sp"
+                        android:textStyle="bold"
+                        autofit:minTextSize="20sp" />
+
+                    <me.grantland.widget.AutofitTextView
+                        android:id="@+id/total_kcal_run"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:maxLines="3"
+                        android:text="10403 Kcal"
+                        android:textColor="#000000"
+                        android:textSize="23sp"
+                        android:textStyle="bold"
+                        autofit:minTextSize="20sp" />
+
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/whereImg"
+                    android:layout_width="115dp"
+                    android:layout_height="115dp"
+                    android:layout_marginStart="124dp"
+                    android:src="@drawable/germany"
+                    autofit:layout_constraintBottom_toBottomOf="parent"
+                    autofit:layout_constraintStart_toStartOf="@+id/linearLayout"
+                    autofit:layout_constraintTop_toTopOf="parent"
+                    autofit:layout_constraintVertical_bias="0.074" />
+
+                <TextView
+                    android:id="@+id/whereJustTxt"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_marginStart="10dp"
+                    android:text="  어디까지 \n  가보셨나요? "
+                    android:textStyle="bold"
+                    android:textColor="#999999"
+                    autofit:layout_constraintBottom_toBottomOf="parent"
+                    autofit:layout_constraintStart_toEndOf="@+id/whereImg"
+                    autofit:layout_constraintTop_toTopOf="parent"
+                    autofit:layout_constraintVertical_bias="0.049" />
+
+                <TextView
+                    android:id="@+id/whereTxt"
+                    android:layout_width="100dp"
+                    android:layout_height="30dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="15dp"
+                    android:text=" 대한민국 "
+                    android:textColor="#444444"
+                    android:textSize="22sp"
+                    android:textStyle="bold"
+                    autofit:layout_constraintBottom_toBottomOf="parent"
+                    autofit:layout_constraintStart_toEndOf="@+id/whereImg"
+                    autofit:layout_constraintTop_toBottomOf="@+id/whereJustTxt"
+                    autofit:layout_constraintVertical_bias="0.0" />
+
+                <com.daimajia.numberprogressbar.NumberProgressBar
+                    android:id="@+id/whereProgress"
+                    android:layout_width="110dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="18dp"
+                    autofit:layout_constraintBottom_toBottomOf="parent"
+                    autofit:layout_constraintStart_toEndOf="@+id/whereImg"
+                    autofit:layout_constraintTop_toBottomOf="@+id/whereTxt"
+                    autofit:layout_constraintVertical_bias="0.547" />
+
+                <ImageView
+                    android:id="@+id/justImg"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginStart="105dp"
+                    android:layout_marginBottom="14dp"
+                    android:src="@drawable/runner8"
+                    autofit:layout_constraintBottom_toBottomOf="parent"
+                    autofit:layout_constraintStart_toEndOf="@+id/linearLayout" />
+
+                <TextView
+                    android:id="@+id/whereEndPoint"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="7dp"
+                    android:textColor="#999999"
+                    android:text="230 km"
+                    android:textSize="11sp"
+                    autofit:layout_constraintBottom_toBottomOf="parent"
+                    autofit:layout_constraintEnd_toEndOf="parent" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        <LinearLayout
+           android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clipToPadding="false"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="자주먹은 음식 top3 ( M )"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />-
+
+                    <me.grantland.widget.AutofitTextView
+                        android:id="@+id/freqFood_top3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginVertical="10dp"
+                        android:maxLines="3"
+                        android:text=" 햄버거 (5) \n 피자 (4) \n 치킨 (3)"
+                        android:textColor="#000000"
+                        android:textSize="21sp"
+                        android:textStyle="bold"
+                        autofit:minTextSize="10dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="많이먹은 요일   ( M )"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <me.grantland.widget.AutofitTextView
+                        android:id="@+id/txtMonth_manyday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginVertical="10dp"
+                        android:singleLine="true"
+                        android:text="화요일 ( 2430 Kcal )"
+                        android:textColor="#000000"
+                        android:textSize="26sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="F O O D   ( W )"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/img_week_food_kcal"
+                        android:layout_width="85dp"
+                        android:layout_height="85dp"
+                        android:layout_gravity="center"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginVertical="10dp"
+                        android:src="@drawable/linegraph_2" />
+
+                    <TextView
+                        android:id="@+id/week_food_kcal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="+ 1470 KCAL"
+                        android:textColor="#000000"
+                        android:textSize="26sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/week_food_kcal_ratio"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:textColor="#999999"
+                        android:text=""
+                        android:textSize="15sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:baselineAligned="false"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="먹은 고칼로리 top3 ( M )"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <me.grantland.widget.AutofitTextView
+                        android:id="@+id/highKcal_top3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginVertical="10dp"
+                        android:text="랍스타 양념구이 +340 \n치즈제육덮밥 +320
+                        \n김치치즈명란볶음밥 +1270"
+                        android:textColor="#000000"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        autofit:minTextSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="먹은 저칼로리 top3 ( M )"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <me.grantland.widget.AutofitTextView
+                        android:id="@+id/LowKcal_top3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginVertical="10dp"
+                        android:text="열무김치국수 +140 \n시저 샐러드 +120
+                        \n삶은 계란 +70"
+                        android:textColor="#000000"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        autofit:minTextSize="15sp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="몸무게   ( 현재  목표 )"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/kg_summary"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginHorizontal="15dp"
+                            android:layout_marginVertical="10dp"
+                            android:text="78.1"
+                            android:textColor="#000000"
+                            android:textSize="26sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginHorizontal="15dp"
+                            android:layout_marginVertical="10dp"
+                            android:layout_gravity="center"
+                            android:textColor="#000000"
+                            android:textSize="26sp"
+                            android:textStyle="bold"
+                            android:text="->">
+
+                        </TextView>
+                        <TextView
+                            android:id="@+id/goal_kg_summary"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginHorizontal="15dp"
+                            android:layout_marginVertical="10dp"
+                            android:layout_gravity="right"
+                            android:text="74.0"
+                            android:textColor="#000000"
+                            android:textSize="26sp"
+                            android:textStyle="bold" />
+                    </FrameLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="평균 속력 (Run)"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/avg_speed_summary"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginVertical="10dp"
+                        android:text=" 4.05 km/h "
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="평균 감량 칼로리 (Run)"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/minus_avg_kcal_summary"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginVertical="10dp"
+                        android:text=" - 302 Kcal "
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="H E A L T H   ( w )"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/img_week_health_kcal"
+                        android:layout_width="85dp"
+                        android:layout_height="85dp"
+                        android:layout_gravity="center"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginVertical="10dp"
+                        android:src="@drawable/bargraph_2" />
+
+                    <TextView
+                        android:id="@+id/week_health_kcal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="- 1070 KCAL"
+                        android:textColor="#000000"
+                        android:textSize="26sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/week_health_kcal_ratio"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:textColor="#999999"
+                        android:text=""
+                        android:textSize="15sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="입력 안한 요일   ( w )"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/none_data_date"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginVertical="10dp"
+                        android:text="월 , 화 , 토 "
+                        android:textColor="#000000"
+                        android:textSize="26sp"
+                        android:textStyle="bold" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/shadowboard"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginTop="15dp"
+                        android:text="먹은 고단백 top3 ( M )"
+                        android:textColor="#4E4E4E"
+                        android:textStyle="bold" />
+
+                    <me.grantland.widget.AutofitTextView
+                        android:id="@+id/highProtein_top3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:layout_marginVertical="10dp"
+                        android:text="연어 구이 +140 \n프로틴 +120
+                        \n닭가슴살 +100"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        autofit:minTextSize="15sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        </LinearLayout>
+</androidx.core.widget.NestedScrollView>

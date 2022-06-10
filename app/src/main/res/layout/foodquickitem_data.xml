@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:id="@+id/itemopen"
+    android:transitionName="quickitemopen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:id="@+id/img_fooddata"
+        android:background="@color/white"
+        android:src="@drawable/picnic_basket"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/fooddataname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="소갈비찜"
+            android:fontFamily="@font/nanumbrushscript_regular"
+            android:layout_gravity="center_vertical"
+            android:ems="5"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="#494949"
+            android:textStyle="bold"
+            android:textSize="44sp"/>
+        <TextView
+            android:id="@+id/foodStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="20dp"
+            android:layout_marginLeft="150dp"
+            android:text=""
+            android:textColor="#494949"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+        <ImageView
+            android:id="@+id/img_lowkcal"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right |center_vertical"
+            android:src="@drawable/lowkcal"/>
+        <ImageView
+            android:id="@+id/img_highprotein"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="40dp"
+            android:layout_gravity="right |center_vertical"
+            android:src="@drawable/protein_man"/>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/day1_citeria"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text=" 1인분 100g"
+            android:textColor="#595959"
+            android:textSize="18sp"/>
+
+        <ImageButton
+            android:id="@+id/detail_cart2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="7dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/background_transparent"
+            android:scaleType="fitXY"
+            android:src="@drawable/cart"
+            >
+
+        </ImageButton>
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="120dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="칼  로  리  "
+            android:textColor="#595959"
+            android:textStyle="bold"
+            android:textSize="23sp"/>
+        <TextView
+            android:id="@+id/kcaldata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="300"
+            android:textColor="#494949"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="단  백  질  "
+            android:textColor="#595959"
+            android:textStyle="bold"
+            android:textSize="23sp"/>
+        <TextView
+            android:id="@+id/proteindata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="102"
+            android:textColor="#494949"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="지        방  "
+            android:textColor="#595959"
+            android:textStyle="bold"
+            android:textSize="23sp"/>
+        <TextView
+            android:id="@+id/fatdata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="89"
+            android:textColor="#494949"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="탄수화물  "
+            android:textColor="#595959"
+            android:textStyle="bold"
+            android:textSize="23sp"/>
+        <TextView
+            android:id="@+id/cycdata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="102"
+            android:textColor="#494949"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btneat_fooddata"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginHorizontal="60dp"
+        android:layout_gravity="right"
+        android:background="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="E A T"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="20dp"
+        android:gravity="right"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:id="@+id/high_protein"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:visibility="invisible"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="# "
+                android:textColor="#898989"
+                android:textStyle="bold"
+                android:textSize="17sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="고단백"
+                android:textColor="#898989"
+                android:textStyle="bold"
+                android:textSize="17sp"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/protein_man"/>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/row_kcal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="# 저칼로리"
+                android:textColor="#898989"
+                android:textStyle="bold"
+                android:textSize="17sp"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/lowkcal"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

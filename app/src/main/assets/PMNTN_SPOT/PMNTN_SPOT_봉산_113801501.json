@@ -1,0 +1,6273 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 41358,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "수국사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010001",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191681.59940000065,
+        "y" : 557337.6938000042
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 41359,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "간안막",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010002",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191543.88550000079,
+        "y" : 557321.61800000258
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 41360,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "봉수정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010003",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191331.53849999979,
+        "y" : 557234.70530000143
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 41361,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "덕산정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010004",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191340.37390000001,
+        "y" : 556022.55070000142
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 41362,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "은덕정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010005",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191188.97740000021,
+        "y" : 555828.17520000227
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 41363,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "은숭정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010006",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191132.73429999966,
+        "y" : 554860.88179999962
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 41364,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "군막사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010007",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191262.14130000211,
+        "y" : 557041.60099999979
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 41365,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "놀이터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010008",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191699.80840000045,
+        "y" : 557297.74690000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 41366,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "개나리어린",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010009",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191577.88100000191,
+        "y" : 555112.47309999913
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 41367,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "서울시제76",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010010",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191278.08059999999,
+        "y" : 554823.63680000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 41368,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "만수약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010011",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191228.75390000083,
+        "y" : 554470.36140000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 41369,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "증산체육광",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010012",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191394.96930000093,
+        "y" : 553976.73880000226
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 41370,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "인조구장,증산배수지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010013",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191447.43769999966,
+        "y" : 553862.99300000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 41371,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "수색약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010014",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190999.10460000113,
+        "y" : 554199.62080000341
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 41372,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "수향정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010015",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190902.52850000001,
+        "y" : 554345.83880000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 41373,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010016",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190116.71769999992,
+        "y" : 554278.09109999985
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 41374,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010017",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190225.75380000193,
+        "y" : 554214.44700000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 41375,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010018",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190245.73370000068,
+        "y" : 554406.71950000152
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 41376,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010019",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190280.98289999925,
+        "y" : 554188.81160000153
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 41377,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010020",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190285.51779999956,
+        "y" : 554067.38920000009
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 41378,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010021",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190308.5448000012,
+        "y" : 554381.50590000115
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 41379,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010022",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190324.75160000101,
+        "y" : 554107.49890000187
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 41380,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010023",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190326.56359999999,
+        "y" : 554370.11150000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 41381,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010024",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190341.60369999986,
+        "y" : 554070.22079999931
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 41382,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010025",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190341.70280000102,
+        "y" : 554181.97750000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 41383,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010026",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190343.30709999986,
+        "y" : 554161.03020000085
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 41384,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010027",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190347.11890000105,
+        "y" : 554215.47609999962
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 41385,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010028",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190348.02220000047,
+        "y" : 554239.89140000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 41386,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010029",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190351.97530000005,
+        "y" : 554278.23900000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 41387,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010030",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190358.36760000139,
+        "y" : 554258.59060000256
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 41388,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010031",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190370.63820000086,
+        "y" : 554181.86009999923
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 41389,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010032",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190370.92860000022,
+        "y" : 554116.98220000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 41390,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010033",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190380.57880000118,
+        "y" : 554134.73540000245
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 41391,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010034",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190407.68020000122,
+        "y" : 554213.73860000074
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 41392,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010035",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190420.96060000081,
+        "y" : 554334.45009999722
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 41393,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010036",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190484.25970000215,
+        "y" : 554179.76689999923
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 41394,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010037",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190506.19369999971,
+        "y" : 554361.40420000069
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 41395,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010038",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190549.67390000075,
+        "y" : 554174.85590000264
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 41396,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010039",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190562.19730000012,
+        "y" : 554300.74830000103
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 41397,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010040",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190566.8534000013,
+        "y" : 554252.82970000245
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 41398,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010041",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190603.29250000045,
+        "y" : 554064.48560000397
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 41399,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010042",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190645.37889999989,
+        "y" : 554192.82589999773
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 41400,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010043",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190656.44349999912,
+        "y" : 554199.69439999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 41401,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010044",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190659.07460000087,
+        "y" : 554101.89890000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 41402,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010045",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190669.89000000153,
+        "y" : 554076.55069999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 41403,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010046",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190762.86760000139,
+        "y" : 554278.19370000437
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 41404,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010047",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190857.1967000002,
+        "y" : 554232.48409999907
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 41405,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010048",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190862.86230000015,
+        "y" : 554178.08320000209
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 41406,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010049",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190882.47080000211,
+        "y" : 553969.32379999943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 41407,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010050",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190902.79189999867,
+        "y" : 554346.1791999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 41408,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010051",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190923.91700000037,
+        "y" : 554216.88460000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 41409,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010052",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190924.32940000109,
+        "y" : 554324.64950000308
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 41410,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010053",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190935.52589999977,
+        "y" : 554204.29539999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 41411,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010054",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190941.71789999958,
+        "y" : 554215.2463000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 41412,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010055",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190949.91810000036,
+        "y" : 554072.36079999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 41413,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010056",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190972.39809999987,
+        "y" : 554223.845900001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 41414,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010057",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190993.70300000068,
+        "y" : 554201.96900000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 41415,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010058",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191004.41579999961,
+        "y" : 554296.29110000283
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 41416,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010059",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191011.70270000119,
+        "y" : 554159.93260000274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 41417,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010060",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191044.86920000054,
+        "y" : 554324.43020000122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 41418,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010061",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191050.29870000016,
+        "y" : 553791.68760000169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 41419,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010062",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191059.10390000045,
+        "y" : 554258.73220000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 41420,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010063",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191073.84079999942,
+        "y" : 554162.40560000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 41421,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010064",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191116.10110000055,
+        "y" : 553938.43500000238
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 41422,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010065",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191135.16320000123,
+        "y" : 554863.28909999877
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 41423,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010066",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191135.19349999912,
+        "y" : 554562.31640000455
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 41424,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010067",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191145.74730000086,
+        "y" : 554486.84090000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 41425,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010068",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191147.16389999911,
+        "y" : 554516.04529999942
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 41426,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010069",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191161.9561999999,
+        "y" : 554893.92679999955
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 41427,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010070",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191163.35900000017,
+        "y" : 554477.42780000158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 41428,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010071",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191200.83940000087,
+        "y" : 554944.25760000199
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 41429,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010072",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191213.05930000078,
+        "y" : 554466.19090000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 41430,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010073",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191213.86080000084,
+        "y" : 553884.26320000179
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 41431,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010074",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191229.61459999904,
+        "y" : 554472.19319999963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 41432,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010075",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191240.91530000232,
+        "y" : 555704.15200000256
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 41433,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010076",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191244.7920000013,
+        "y" : 553554.60620000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 41434,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010077",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191248.36200000159,
+        "y" : 554580.65550000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 41435,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010078",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191251.4112000009,
+        "y" : 553638.25669999979
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 41436,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010079",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191252.86739999987,
+        "y" : 553558.16820000112
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 41437,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010080",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191253.54870000016,
+        "y" : 554452.78070000373
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 41438,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010081",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191257.16459999979,
+        "y" : 554820.76610000432
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 41439,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010082",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191264.66240000073,
+        "y" : 553624.59950000048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 41440,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010083",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191269.65310000069,
+        "y" : 554506.82729999907
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 41441,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010084",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191270.02919999976,
+        "y" : 555317.90709999949
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 41442,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010085",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191271.01609999966,
+        "y" : 553526.95150000229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 41443,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010086",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191273.36280000024,
+        "y" : 554048.12920000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 41444,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010087",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191274.5867000008,
+        "y" : 555275.09610000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 41445,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010088",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191276.77550000139,
+        "y" : 554821.48919999972
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 41446,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010089",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191279.24780000001,
+        "y" : 553567.8172999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "PMNTN_SPOT" : 41447,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010090",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191279.62249999959,
+        "y" : 556919.31220000423
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "PMNTN_SPOT" : 41448,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010091",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191288.51649999991,
+        "y" : 553543.31990000233
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "PMNTN_SPOT" : 41449,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010092",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191293.82590000052,
+        "y" : 555416.43810000084
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "PMNTN_SPOT" : 41450,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010093",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191300.32940000203,
+        "y" : 553532.69759999961
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "PMNTN_SPOT" : 41451,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010094",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191301.09180000052,
+        "y" : 555285.05929999985
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "PMNTN_SPOT" : 41452,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010095",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191304.50119999982,
+        "y" : 553918.55729999952
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "PMNTN_SPOT" : 41453,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010096",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191306.12330000009,
+        "y" : 554440.05819999985
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 96,
+        "PMNTN_SPOT" : 41454,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010097",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191306.70100000128,
+        "y" : 554372.70170000196
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 97,
+        "PMNTN_SPOT" : 41455,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010098",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191312.58860000037,
+        "y" : 553596.14939999953
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 98,
+        "PMNTN_SPOT" : 41456,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010099",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191315.34410000034,
+        "y" : 553980.55580000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 99,
+        "PMNTN_SPOT" : 41457,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010100",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191319.55130000226,
+        "y" : 554385.83540000208
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 100,
+        "PMNTN_SPOT" : 41458,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010101",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191320.61930000037,
+        "y" : 556270.4085000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 101,
+        "PMNTN_SPOT" : 41459,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010102",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191324.41900000069,
+        "y" : 556950.71560000256
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 102,
+        "PMNTN_SPOT" : 41460,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010103",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191327.99450000096,
+        "y" : 555339.02590000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 103,
+        "PMNTN_SPOT" : 41461,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010104",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191332.11149999965,
+        "y" : 553601.89140000194
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 104,
+        "PMNTN_SPOT" : 41462,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010105",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191333.38929999992,
+        "y" : 554232.4765000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 105,
+        "PMNTN_SPOT" : 41463,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010106",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191334.9291000003,
+        "y" : 557211.03890000284
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 106,
+        "PMNTN_SPOT" : 41464,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010107",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191337.2620000001,
+        "y" : 555065.66290000081
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 107,
+        "PMNTN_SPOT" : 41465,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010108",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191337.52310000081,
+        "y" : 556019.23110000417
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 108,
+        "PMNTN_SPOT" : 41466,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010109",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191339.93690000009,
+        "y" : 554441.13410000131
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 109,
+        "PMNTN_SPOT" : 41467,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010110",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191341.43600000069,
+        "y" : 554372.33159999922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 110,
+        "PMNTN_SPOT" : 41468,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010111",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191353.45800000057,
+        "y" : 553747.02829999849
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 111,
+        "PMNTN_SPOT" : 41469,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010112",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191357.73070000205,
+        "y" : 554080.68400000222
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 112,
+        "PMNTN_SPOT" : 41470,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010113",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191360.09120000154,
+        "y" : 553481.51730000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 113,
+        "PMNTN_SPOT" : 41471,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010114",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191360.37740000058,
+        "y" : 553911.31899999827
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 114,
+        "PMNTN_SPOT" : 41472,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010115",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191361.52440000046,
+        "y" : 554091.72870000079
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 115,
+        "PMNTN_SPOT" : 41473,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010116",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191361.78650000039,
+        "y" : 557408.72719999962
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 116,
+        "PMNTN_SPOT" : 41474,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010117",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191365.83330000006,
+        "y" : 553978.57710000128
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 117,
+        "PMNTN_SPOT" : 41475,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010118",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191366.86450000107,
+        "y" : 557170.60540000163
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 118,
+        "PMNTN_SPOT" : 41476,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010119",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191373.76250000205,
+        "y" : 553788.02300000377
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 119,
+        "PMNTN_SPOT" : 41477,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010120",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191381.2033000011,
+        "y" : 553795.36370000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 120,
+        "PMNTN_SPOT" : 41478,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010121",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191381.92880000174,
+        "y" : 555049.50710000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 121,
+        "PMNTN_SPOT" : 41479,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010122",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191382.01280000061,
+        "y" : 555395.74270000122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 122,
+        "PMNTN_SPOT" : 41480,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010123",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191387.96910000127,
+        "y" : 554403.64150000177
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 123,
+        "PMNTN_SPOT" : 41481,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010124",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191390.79779999983,
+        "y" : 556923.18490000069
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 124,
+        "PMNTN_SPOT" : 41482,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010125",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191394.06080000009,
+        "y" : 555281.69410000369
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 125,
+        "PMNTN_SPOT" : 41483,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010126",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191394.59890000056,
+        "y" : 553972.04850000329
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 126,
+        "PMNTN_SPOT" : 41484,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010127",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191402.08420000039,
+        "y" : 555234.02030000277
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 127,
+        "PMNTN_SPOT" : 41485,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010128",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191402.65250000078,
+        "y" : 554509.18569999933
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 128,
+        "PMNTN_SPOT" : 41486,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010129",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191404.43130000122,
+        "y" : 555394.55870000087
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 129,
+        "PMNTN_SPOT" : 41487,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010130",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191405.40649999958,
+        "y" : 554594.31140000187
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 130,
+        "PMNTN_SPOT" : 41488,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010131",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191408.95999999996,
+        "y" : 554571.04160000198
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 131,
+        "PMNTN_SPOT" : 41489,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010132",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191409.09270000085,
+        "y" : 554603.88450000249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 132,
+        "PMNTN_SPOT" : 41490,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010133",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191412.37230000086,
+        "y" : 556873.71309999935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 133,
+        "PMNTN_SPOT" : 41491,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010134",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191413.13710000087,
+        "y" : 556921.45649999939
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 134,
+        "PMNTN_SPOT" : 41492,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010135",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191416.57679999992,
+        "y" : 557505.46940000169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 135,
+        "PMNTN_SPOT" : 41493,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010136",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191418.32340000011,
+        "y" : 554211.05490000173
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 136,
+        "PMNTN_SPOT" : 41494,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010137",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191421.79550000094,
+        "y" : 554533.92989999801
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 137,
+        "PMNTN_SPOT" : 41495,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010138",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191421.8861999996,
+        "y" : 554330.26579999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 138,
+        "PMNTN_SPOT" : 41496,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010139",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191423.04830000084,
+        "y" : 554223.67940000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 139,
+        "PMNTN_SPOT" : 41497,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010140",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191423.25239999965,
+        "y" : 554329.70010000095
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 140,
+        "PMNTN_SPOT" : 41498,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010141",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191426.59420000203,
+        "y" : 554861.35170000233
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 141,
+        "PMNTN_SPOT" : 41499,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010142",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191428.41000000201,
+        "y" : 554327.24020000175
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 142,
+        "PMNTN_SPOT" : 41500,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010143",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191428.88300000038,
+        "y" : 555280.07990000211
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 143,
+        "PMNTN_SPOT" : 41501,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010144",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191429.74430000037,
+        "y" : 554326.50500000082
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 144,
+        "PMNTN_SPOT" : 41502,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010145",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191429.87420000136,
+        "y" : 555186.0717999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 145,
+        "PMNTN_SPOT" : 41503,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010146",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191434.74200000148,
+        "y" : 555351.46550000273
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 146,
+        "PMNTN_SPOT" : 41504,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010147",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191439.64790000115,
+        "y" : 555266.7237999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 147,
+        "PMNTN_SPOT" : 41505,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010148",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191446.42470000032,
+        "y" : 557547.98770000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 148,
+        "PMNTN_SPOT" : 41506,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010149",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191447.4693,
+        "y" : 553900.27070000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 149,
+        "PMNTN_SPOT" : 41507,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010150",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191447.70210000034,
+        "y" : 553862.85769999959
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 150,
+        "PMNTN_SPOT" : 41508,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010151",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191448.17460000142,
+        "y" : 553668.53940000385
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 151,
+        "PMNTN_SPOT" : 41509,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010152",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191451.06480000075,
+        "y" : 555261.70260000229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 152,
+        "PMNTN_SPOT" : 41510,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010153",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191452.06080000196,
+        "y" : 555014.22140000202
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 153,
+        "PMNTN_SPOT" : 41511,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010154",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191456.79070000071,
+        "y" : 554543.5270000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 154,
+        "PMNTN_SPOT" : 41512,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010155",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191459.29430000018,
+        "y" : 555402.18700000085
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 155,
+        "PMNTN_SPOT" : 41513,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010156",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191461.1845000023,
+        "y" : 555290.79100000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 156,
+        "PMNTN_SPOT" : 41514,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010157",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191462.24030000065,
+        "y" : 554319.26079999842
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 157,
+        "PMNTN_SPOT" : 41515,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010158",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191473.52400000021,
+        "y" : 554260.30750000104
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 158,
+        "PMNTN_SPOT" : 41516,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010159",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191479.71640000027,
+        "y" : 557371.26080000214
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 159,
+        "PMNTN_SPOT" : 41517,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010160",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191482.99839999992,
+        "y" : 555242.18859999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 160,
+        "PMNTN_SPOT" : 41518,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010161",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191486.01480000094,
+        "y" : 554454.18500000052
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 161,
+        "PMNTN_SPOT" : 41519,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010162",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191486.67560000159,
+        "y" : 555935.43310000375
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 162,
+        "PMNTN_SPOT" : 41520,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010163",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191487.42379999999,
+        "y" : 554286.3115000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 163,
+        "PMNTN_SPOT" : 41521,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010164",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191509.33440000098,
+        "y" : 556932.54520000145
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 164,
+        "PMNTN_SPOT" : 41522,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010165",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191524.64670000132,
+        "y" : 557248.11400000006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 165,
+        "PMNTN_SPOT" : 41523,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010166",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191526.7808000017,
+        "y" : 556158.25300000049
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 166,
+        "PMNTN_SPOT" : 41524,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010167",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191529.92210000101,
+        "y" : 553920.22259999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 167,
+        "PMNTN_SPOT" : 41525,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010168",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191532.93690000102,
+        "y" : 555056.99860000052
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 168,
+        "PMNTN_SPOT" : 41526,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010169",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191535.65450000111,
+        "y" : 557477.61639999971
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 169,
+        "PMNTN_SPOT" : 41527,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010170",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191535.65710000135,
+        "y" : 557233.06850000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 170,
+        "PMNTN_SPOT" : 41528,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010171",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191539.10280000139,
+        "y" : 554118.75100000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 171,
+        "PMNTN_SPOT" : 41529,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010172",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191540.22160000075,
+        "y" : 555158.86840000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 172,
+        "PMNTN_SPOT" : 41530,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010173",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191541.73749999981,
+        "y" : 557232.21480000205
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 173,
+        "PMNTN_SPOT" : 41531,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010174",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191543.83640000038,
+        "y" : 557302.56550000049
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 174,
+        "PMNTN_SPOT" : 41532,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010175",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191544.53780000098,
+        "y" : 554194.1614000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 175,
+        "PMNTN_SPOT" : 41533,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010176",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191545.33920000028,
+        "y" : 554973.1473999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 176,
+        "PMNTN_SPOT" : 41534,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010177",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191546.18770000152,
+        "y" : 557323.75599999912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 177,
+        "PMNTN_SPOT" : 41535,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010178",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191547.8032000009,
+        "y" : 555085.63049999811
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 178,
+        "PMNTN_SPOT" : 41536,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010179",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191550.34499999974,
+        "y" : 557289.40170000307
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 179,
+        "PMNTN_SPOT" : 41537,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010180",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191550.64100000076,
+        "y" : 554283.35910000093
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 180,
+        "PMNTN_SPOT" : 41538,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010181",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191556.32870000042,
+        "y" : 555095.97780000418
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 181,
+        "PMNTN_SPOT" : 41539,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010182",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191557.18620000128,
+        "y" : 554916.17210000381
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 182,
+        "PMNTN_SPOT" : 41540,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010183",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191560.75229999889,
+        "y" : 557182.04930000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 183,
+        "PMNTN_SPOT" : 41541,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010184",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191564.18929999974,
+        "y" : 557294.0231000036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 184,
+        "PMNTN_SPOT" : 41542,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010185",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191570.42679999955,
+        "y" : 555109.96490000375
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 185,
+        "PMNTN_SPOT" : 41543,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010186",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191574.91990000103,
+        "y" : 557219.13480000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 186,
+        "PMNTN_SPOT" : 41544,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010187",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191578.76290000044,
+        "y" : 555898.47250000387
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 187,
+        "PMNTN_SPOT" : 41545,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010188",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191579.43429999985,
+        "y" : 555952.15860000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 188,
+        "PMNTN_SPOT" : 41546,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010189",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191580.87669999991,
+        "y" : 555622.103500003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 189,
+        "PMNTN_SPOT" : 41547,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010190",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191585.46300000232,
+        "y" : 554983.58980000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 190,
+        "PMNTN_SPOT" : 41548,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010191",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191586.81510000024,
+        "y" : 556906.41039999947
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 191,
+        "PMNTN_SPOT" : 41549,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010192",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191588.47819999978,
+        "y" : 557276.83730000257
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 192,
+        "PMNTN_SPOT" : 41550,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010193",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191588.64100000076,
+        "y" : 556926.27510000207
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 193,
+        "PMNTN_SPOT" : 41551,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010194",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191590.01250000205,
+        "y" : 554016.35989999771
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 194,
+        "PMNTN_SPOT" : 41552,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010195",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191597.84489999991,
+        "y" : 554323.10380000062
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 195,
+        "PMNTN_SPOT" : 41553,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010196",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191598.22549999971,
+        "y" : 554198.20980000123
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 196,
+        "PMNTN_SPOT" : 41554,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010197",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191599.46810000017,
+        "y" : 557266.93600000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 197,
+        "PMNTN_SPOT" : 41555,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010198",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191601.47109999973,
+        "y" : 554233.75600000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 198,
+        "PMNTN_SPOT" : 41556,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010199",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191603.29669999983,
+        "y" : 553986.22580000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 199,
+        "PMNTN_SPOT" : 41557,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010200",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191605.33999999985,
+        "y" : 554143.69700000249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 200,
+        "PMNTN_SPOT" : 41558,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010201",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191605.69980000146,
+        "y" : 554218.16240000166
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 201,
+        "PMNTN_SPOT" : 41559,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010202",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191608.91950000077,
+        "y" : 554253.06760000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 202,
+        "PMNTN_SPOT" : 41560,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010203",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191616.72220000066,
+        "y" : 556960.80829999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 203,
+        "PMNTN_SPOT" : 41561,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010204",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191620.40040000062,
+        "y" : 555055.08709999919
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 204,
+        "PMNTN_SPOT" : 41562,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010205",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191624.17760000005,
+        "y" : 554302.41460000165
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 205,
+        "PMNTN_SPOT" : 41563,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010206",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191624.66820000112,
+        "y" : 554176.62860000134
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 206,
+        "PMNTN_SPOT" : 41564,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010207",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191627.7471000012,
+        "y" : 554341.60230000317
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 207,
+        "PMNTN_SPOT" : 41565,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010208",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191640.83850000147,
+        "y" : 555049.32340000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 208,
+        "PMNTN_SPOT" : 41566,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010209",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191640.92750000022,
+        "y" : 556883.29020000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 209,
+        "PMNTN_SPOT" : 41567,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010210",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191643.45579999965,
+        "y" : 554507.6715000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 210,
+        "PMNTN_SPOT" : 41568,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010211",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191644.39820000064,
+        "y" : 556881.13800000399
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 211,
+        "PMNTN_SPOT" : 41569,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010212",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191648.07419999968,
+        "y" : 555120.15560000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 212,
+        "PMNTN_SPOT" : 41570,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010213",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191650.1624999987,
+        "y" : 555088.55639999732
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 213,
+        "PMNTN_SPOT" : 41571,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010214",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191653.93990000058,
+        "y" : 554958.26420000196
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 214,
+        "PMNTN_SPOT" : 41572,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010215",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191657.58420000132,
+        "y" : 557252.00489999913
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 215,
+        "PMNTN_SPOT" : 41573,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010216",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191661.16079999972,
+        "y" : 554236.56359999813
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 216,
+        "PMNTN_SPOT" : 41574,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010217",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191662.41099999938,
+        "y" : 556874.84139999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 217,
+        "PMNTN_SPOT" : 41575,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010218",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191666.40240000095,
+        "y" : 557223.28200000152
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 218,
+        "PMNTN_SPOT" : 41576,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010219",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191670.15640000161,
+        "y" : 554230.05080000125
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 219,
+        "PMNTN_SPOT" : 41577,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010220",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191673.08550000004,
+        "y" : 554258.15830000304
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 220,
+        "PMNTN_SPOT" : 41578,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010221",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191678.5290000001,
+        "y" : 554270.4310999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 221,
+        "PMNTN_SPOT" : 41579,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010222",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191683.59559999965,
+        "y" : 554233.96190000139
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 222,
+        "PMNTN_SPOT" : 41580,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010223",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191685.99720000103,
+        "y" : 554217.75840000249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 223,
+        "PMNTN_SPOT" : 41581,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010224",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191693.1986999996,
+        "y" : 557285.16719999723
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 224,
+        "PMNTN_SPOT" : 41582,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010225",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191695.82380000222,
+        "y" : 554359.43459999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 225,
+        "PMNTN_SPOT" : 41583,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010226",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191714.34910000116,
+        "y" : 554427.62790000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 226,
+        "PMNTN_SPOT" : 41584,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010227",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191714.9534,
+        "y" : 554246.51080000214
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 227,
+        "PMNTN_SPOT" : 41585,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010228",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191729.52990000229,
+        "y" : 554413.66770000383
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 228,
+        "PMNTN_SPOT" : 41586,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010229",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191737.12480000034,
+        "y" : 555846.24470000342
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 229,
+        "PMNTN_SPOT" : 41587,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010230",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191765.25700000115,
+        "y" : 557354.30440000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 230,
+        "PMNTN_SPOT" : 41588,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010231",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191767.27670000028,
+        "y" : 554266.08130000345
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 231,
+        "PMNTN_SPOT" : 41589,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010232",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191783.54250000138,
+        "y" : 554406.30980000272
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 232,
+        "PMNTN_SPOT" : 41590,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010233",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191801.23330000136,
+        "y" : 554284.41650000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 233,
+        "PMNTN_SPOT" : 41591,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010234",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191816.70720000006,
+        "y" : 554467.81530000269
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 234,
+        "PMNTN_SPOT" : 41592,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010235",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191822.43059999961,
+        "y" : 554245.5968000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 235,
+        "PMNTN_SPOT" : 41593,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010236",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191856.01690000109,
+        "y" : 554277.8107000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 236,
+        "PMNTN_SPOT" : 96948,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "간안막",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010237",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191521.34650000039,
+        "y" : 557331.23239999951
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 237,
+        "PMNTN_SPOT" : 96949,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010238",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191507.74779999896,
+        "y" : 557355.81570000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 238,
+        "PMNTN_SPOT" : 96950,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010239",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191332.11099999869,
+        "y" : 557371.59860000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 239,
+        "PMNTN_SPOT" : 96951,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "봉수정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010240",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191365.72439999942,
+        "y" : 557173.995300001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 240,
+        "PMNTN_SPOT" : 96952,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "기타건물",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010241",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191282.4626000011,
+        "y" : 556872.15300000052
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 241,
+        "PMNTN_SPOT" : 96953,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010242",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191279.52489999947,
+        "y" : 556837.31629999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 242,
+        "PMNTN_SPOT" : 96954,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010243",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191286.25129999995,
+        "y" : 556815.36339999922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 243,
+        "PMNTN_SPOT" : 96955,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010244",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191348.18930000081,
+        "y" : 556553.81880000047
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 244,
+        "PMNTN_SPOT" : 96956,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010245",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191321.17599999902,
+        "y" : 556271.40760000108
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 245,
+        "PMNTN_SPOT" : 96957,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "은덕정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010246",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191238.87860000014,
+        "y" : 555708.33689999906
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 246,
+        "PMNTN_SPOT" : 96958,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010247",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191294.40249999962,
+        "y" : 555485.86229999957
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 247,
+        "PMNTN_SPOT" : 96959,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010248",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191291.32949999892,
+        "y" : 555407.22729999921
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 248,
+        "PMNTN_SPOT" : 96960,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010249",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191274.25430000012,
+        "y" : 555274.75210000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 249,
+        "PMNTN_SPOT" : 96961,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010250",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191338.418200001,
+        "y" : 555064.14879999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 250,
+        "PMNTN_SPOT" : 96962,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010251",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191202.6267000009,
+        "y" : 554949.53930000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 251,
+        "PMNTN_SPOT" : 96963,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010252",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191135.6657999999,
+        "y" : 554563.13670000073
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 252,
+        "PMNTN_SPOT" : 96964,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010253",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191307.01819999953,
+        "y" : 554372.50469999842
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 253,
+        "PMNTN_SPOT" : 96965,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010254",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191343.24760000044,
+        "y" : 554371.95519999939
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 254,
+        "PMNTN_SPOT" : 96966,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010255",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191425.74729999938,
+        "y" : 554237.04140000104
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 255,
+        "PMNTN_SPOT" : 96967,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010256",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191512.04320000098,
+        "y" : 557221.70819999988
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 256,
+        "PMNTN_SPOT" : 96968,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010257",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191473.30419999963,
+        "y" : 557202.22089999926
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 257,
+        "PMNTN_SPOT" : 96969,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010258",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191435.21200000081,
+        "y" : 557185.83110000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 258,
+        "PMNTN_SPOT" : 96970,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "23",
+        "MANAGE_SP2" : "정상",
+        "DETAIL_SPO" : "정상",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010259",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191227.80129999964,
+        "y" : 556977.36260000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 259,
+        "PMNTN_SPOT" : 96971,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010260",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191350.94920000032,
+        "y" : 556936.25339999888
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 260,
+        "PMNTN_SPOT" : 96972,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010261",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191391.19680000097,
+        "y" : 556924.61999999871
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 261,
+        "PMNTN_SPOT" : 96973,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010262",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191585.85979999995,
+        "y" : 556905.83259999927
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 262,
+        "PMNTN_SPOT" : 96974,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010263",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191586.07030000084,
+        "y" : 556865.34579999896
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 263,
+        "PMNTN_SPOT" : 96975,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010264",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191562.54330000022,
+        "y" : 556887.02710000076
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 264,
+        "PMNTN_SPOT" : 96976,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010265",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191437.19269999873,
+        "y" : 556846.59449999966
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 265,
+        "PMNTN_SPOT" : 96977,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010266",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191413.91430000088,
+        "y" : 556879.29070000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 266,
+        "PMNTN_SPOT" : 96978,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010267",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191400.83029999927,
+        "y" : 556244.7830999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 267,
+        "PMNTN_SPOT" : 96979,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010268",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191489.27950000088,
+        "y" : 555981.69590000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 268,
+        "PMNTN_SPOT" : 96980,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010269",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191482.91829999897,
+        "y" : 555935.3735000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 269,
+        "PMNTN_SPOT" : 96981,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010270",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191541.00090000089,
+        "y" : 555959.54839999927
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 270,
+        "PMNTN_SPOT" : 96982,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010271",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191577.97219999888,
+        "y" : 555952.97069999971
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 271,
+        "PMNTN_SPOT" : 96983,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010272",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191738.11010000081,
+        "y" : 555847.16469999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 272,
+        "PMNTN_SPOT" : 96984,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "16",
+        "MANAGE_SP2" : "주요나무",
+        "DETAIL_SPO" : "주요나무",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010273",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191494.63059999875,
+        "y" : 555815.57609999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 273,
+        "PMNTN_SPOT" : 96985,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010274",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191503.425400001,
+        "y" : 555961.6613999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 274,
+        "PMNTN_SPOT" : 96986,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010275",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191573.59350000121,
+        "y" : 555897.6129999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 275,
+        "PMNTN_SPOT" : 96987,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010276",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191529.43719999885,
+        "y" : 555428.20079999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 276,
+        "PMNTN_SPOT" : 96988,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010277",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191605.05039999998,
+        "y" : 555422.54219999898
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 277,
+        "PMNTN_SPOT" : 96989,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010278",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191535.01870000007,
+        "y" : 555341.57489999908
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 278,
+        "PMNTN_SPOT" : 96990,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "16",
+        "MANAGE_SP2" : "주요나무",
+        "DETAIL_SPO" : "주요나무",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010279",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191500.18360000002,
+        "y" : 555304.58469999884
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 279,
+        "PMNTN_SPOT" : 96991,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010280",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191478.32650000034,
+        "y" : 555291.52710000088
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 280,
+        "PMNTN_SPOT" : 96992,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "16",
+        "MANAGE_SP2" : "주요나무",
+        "DETAIL_SPO" : "주요나무",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010281",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191451.83299999882,
+        "y" : 555290.31709999975
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 281,
+        "PMNTN_SPOT" : 96993,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010282",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191327.21029999934,
+        "y" : 555339.48249999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 282,
+        "PMNTN_SPOT" : 96994,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010283",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191369.59069999852,
+        "y" : 555328.56320000102
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 283,
+        "PMNTN_SPOT" : 96995,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "16",
+        "MANAGE_SP2" : "주요나무",
+        "DETAIL_SPO" : "주요나무",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010284",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191432.07489999992,
+        "y" : 555353.09540000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 284,
+        "PMNTN_SPOT" : 96996,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010285",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191386.97489999983,
+        "y" : 555040.24540000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 285,
+        "PMNTN_SPOT" : 96997,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010286",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191533.83860000139,
+        "y" : 555120.92789999954
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 286,
+        "PMNTN_SPOT" : 96998,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010287",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191537.92740000147,
+        "y" : 555138.09699999902
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 287,
+        "PMNTN_SPOT" : 96999,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010288",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191537.96699999977,
+        "y" : 555155.17720000085
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 288,
+        "PMNTN_SPOT" : 97000,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010289",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191585.6107999988,
+        "y" : 554982.85590000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 289,
+        "PMNTN_SPOT" : 97001,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010290",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191376.00889999897,
+        "y" : 554944.69649999961
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 290,
+        "PMNTN_SPOT" : 97002,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "기타건물",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010291",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191255.68389999925,
+        "y" : 554819.8739999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 291,
+        "PMNTN_SPOT" : 97003,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010292",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191246.65880000097,
+        "y" : 554881.75770000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 292,
+        "PMNTN_SPOT" : 97004,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "16",
+        "MANAGE_SP2" : "주요나무",
+        "DETAIL_SPO" : "주요나무",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010293",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191166.24280000106,
+        "y" : 554893.07159999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 293,
+        "PMNTN_SPOT" : 97005,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010294",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191414.47819999963,
+        "y" : 555200.97250000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 294,
+        "PMNTN_SPOT" : 97006,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010295",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191430.20909999884,
+        "y" : 555187.82039999985
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 295,
+        "PMNTN_SPOT" : 97007,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010296",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191499.75329999902,
+        "y" : 554472.91669999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 296,
+        "PMNTN_SPOT" : 97008,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010297",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191198.81889999949,
+        "y" : 554507.2886999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 297,
+        "PMNTN_SPOT" : 97009,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010298",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191171.55990000034,
+        "y" : 554526.48179999914
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 298,
+        "PMNTN_SPOT" : 97010,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010299",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191158.02410000077,
+        "y" : 554537.1481999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 299,
+        "PMNTN_SPOT" : 97011,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010300",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191388.75379999977,
+        "y" : 554400.78419999941
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 300,
+        "PMNTN_SPOT" : 97012,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010301",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191270.42110000076,
+        "y" : 554502.09649999952
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 301,
+        "PMNTN_SPOT" : 97013,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "만수약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010302",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191248.51760000028,
+        "y" : 554580.81350000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 302,
+        "PMNTN_SPOT" : 97014,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010303",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191693.29270000008,
+        "y" : 554361.0382999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 303,
+        "PMNTN_SPOT" : 97015,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010304",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191508.94900000078,
+        "y" : 554279.0238999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 304,
+        "PMNTN_SPOT" : 97016,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010305",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191490.19609999936,
+        "y" : 554285.17380000092
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 305,
+        "PMNTN_SPOT" : 97017,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010306",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191785.32810000048,
+        "y" : 554415.25750000088
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 306,
+        "PMNTN_SPOT" : 97018,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010307",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191680.11520000015,
+        "y" : 554279.62260000047
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 307,
+        "PMNTN_SPOT" : 97019,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010308",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191684.40250000096,
+        "y" : 554214.06949999928
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 308,
+        "PMNTN_SPOT" : 97020,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010309",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191612.75950000065,
+        "y" : 554130.31249999965
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 309,
+        "PMNTN_SPOT" : 97021,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010310",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191546.58150000049,
+        "y" : 554194.65399999893
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 310,
+        "PMNTN_SPOT" : 97022,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010311",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191419.81879999847,
+        "y" : 554223.95819999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 311,
+        "PMNTN_SPOT" : 97023,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010312",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191444.2205,
+        "y" : 553902.00359999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 312,
+        "PMNTN_SPOT" : 97024,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010313",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191360.83499999903,
+        "y" : 553907.91359999951
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 313,
+        "PMNTN_SPOT" : 97025,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010314",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191381.3512000007,
+        "y" : 553795.25200000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 314,
+        "PMNTN_SPOT" : 97026,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010315",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191442.39440000066,
+        "y" : 553803.98010000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 315,
+        "PMNTN_SPOT" : 97027,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010316",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191445.48819999953,
+        "y" : 553824.75049999938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 316,
+        "PMNTN_SPOT" : 97028,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010317",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191497.09669999857,
+        "y" : 553831.06990000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 317,
+        "PMNTN_SPOT" : 97029,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010318",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191490.72460000118,
+        "y" : 553869.45119999873
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 318,
+        "PMNTN_SPOT" : 97030,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "음수대",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010319",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191401.25640000077,
+        "y" : 553928.36610000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 319,
+        "PMNTN_SPOT" : 97031,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010320",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191371.73219999936,
+        "y" : 553786.30320000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 320,
+        "PMNTN_SPOT" : 97032,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010321",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191264.50590000092,
+        "y" : 554037.79099999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 321,
+        "PMNTN_SPOT" : 97033,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010322",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191124.40059999956,
+        "y" : 553928.25769999973
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 322,
+        "PMNTN_SPOT" : 97034,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010323",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191021.52570000026,
+        "y" : 554142.15069999918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 323,
+        "PMNTN_SPOT" : 97035,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010324",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190973.64330000037,
+        "y" : 554218.24520000105
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 324,
+        "PMNTN_SPOT" : 97036,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010325",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191003.62909999985,
+        "y" : 554296.33909999963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 325,
+        "PMNTN_SPOT" : 97037,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010326",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 191122.91710000028,
+        "y" : 554472.18579999905
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 326,
+        "PMNTN_SPOT" : 97038,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010327",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190958.44220000086,
+        "y" : 554392.51590000081
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 327,
+        "PMNTN_SPOT" : 97039,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "수향정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010328",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190834.185499999,
+        "y" : 554360.4174000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 328,
+        "PMNTN_SPOT" : 97040,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010329",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190722.23000000085,
+        "y" : 554373.203299999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 329,
+        "PMNTN_SPOT" : 97041,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010330",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190512.14270000014,
+        "y" : 554361.34699999914
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 330,
+        "PMNTN_SPOT" : 97042,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010331",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190383.52579999887,
+        "y" : 554229.0392000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 331,
+        "PMNTN_SPOT" : 97043,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010332",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190404.30600000071,
+        "y" : 554222.4192999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 332,
+        "PMNTN_SPOT" : 97044,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010333",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190951.69060000015,
+        "y" : 554073.35669999931
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 333,
+        "PMNTN_SPOT" : 97045,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010334",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190920.5561999997,
+        "y" : 554076.5442999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 334,
+        "PMNTN_SPOT" : 97046,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010335",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190348.50700000025,
+        "y" : 554214.49269999936
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 335,
+        "PMNTN_SPOT" : 97047,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010336",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190373.59769999998,
+        "y" : 554120.14069999952
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 336,
+        "PMNTN_SPOT" : 97048,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010337",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190339.72929999942,
+        "y" : 554057.55240000074
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 337,
+        "PMNTN_SPOT" : 97049,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010338",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190335.92499999984,
+        "y" : 554090.16379999928
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 338,
+        "PMNTN_SPOT" : 97050,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010339",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190381.15019999968,
+        "y" : 554133.98409999942
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 339,
+        "PMNTN_SPOT" : 97051,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010340",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190290.12909999891,
+        "y" : 554153.71939999936
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 340,
+        "PMNTN_SPOT" : 97052,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010341",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190280.10859999928,
+        "y" : 554188.15210000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 341,
+        "PMNTN_SPOT" : 97053,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010342",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190264.61690000049,
+        "y" : 554247.53269999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 342,
+        "PMNTN_SPOT" : 97054,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "16",
+        "MANAGE_SP2" : "주요나무",
+        "DETAIL_SPO" : "주요나무",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010343",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190661.32709999982,
+        "y" : 554104.64799999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 343,
+        "PMNTN_SPOT" : 97055,
+        "MNTN_CODE" : "113801501",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "봉산",
+        "PAST_SPOT_" : "1138015010344",
+        "MNTN_ID" : "113801501"
+      },
+      "geometry" : {
+        "x" : 190633.90999999995,
+        "y" : 554095.31079999881
+      }
+    }
+  ]
+}

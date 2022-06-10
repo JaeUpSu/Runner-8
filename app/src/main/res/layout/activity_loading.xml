@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <com.facebook.shimmer.ShimmerFrameLayout
+        android:id="@+id/shimmer_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        app:shimmer_duration="2000"
+        android:layout_gravity="center">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#CACACA"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/img_icon"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/run"/>
+            <TextView
+                android:id="@+id/text_shimmer"
+                android:layout_width="wrap_content"
+                android:layout_height="220dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </com.facebook.shimmer.ShimmerFrameLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="30dp"
+            android:layout_gravity="center_horizontal"
+            android:text="   L o a d i n g ..."
+            android:textColor="#494949"
+            android:textSize="25sp"/>
+
+        <com.google.android.material.progressindicator.LinearProgressIndicator
+            android:id="@+id/loading_progress"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:layout_width="260dp"
+            android:layout_height="220dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/pngwing_with_run2"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

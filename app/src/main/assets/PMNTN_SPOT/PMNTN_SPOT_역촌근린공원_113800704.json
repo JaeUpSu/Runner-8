@@ -1,0 +1,927 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 63537,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040001",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191782.73970000073,
+        "y" : 556763.31770000048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 63538,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴장,허리돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040002",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191811.09070000146,
+        "y" : 556776.75109999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 63539,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "천혜베드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040003",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191846.71410000138,
+        "y" : 556757.59830000252
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 63540,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "신종기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040004",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191840.33920000214,
+        "y" : 556799.77510000207
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 63541,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040005",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191692.7658000011,
+        "y" : 556810.81010000221
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 63542,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040006",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191696.99720000103,
+        "y" : 556857.60470000096
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 63543,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040007",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191740.76659999974,
+        "y" : 556811.45850000158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 63544,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040008",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191766.98260000069,
+        "y" : 556885.58750000224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 63545,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040009",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191780.06329999957,
+        "y" : 556907.41249999776
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 63546,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040010",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191785.48520000093,
+        "y" : 556768.3065000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 63547,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040011",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191790.69310000073,
+        "y" : 556812.61089999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 63548,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040012",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191791.99250000156,
+        "y" : 556989.26940000243
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 63549,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040013",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191804.0717000002,
+        "y" : 556774.38790000416
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 63550,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040014",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191810.92130000144,
+        "y" : 556964.87670000084
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 63551,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040015",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191812.73660000041,
+        "y" : 556779.73570000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 63552,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040016",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191821.32550000027,
+        "y" : 556879.93860000186
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 63553,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040017",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191821.75050000008,
+        "y" : 557011.92070000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 63554,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040018",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191827.00840000156,
+        "y" : 556813.35680000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 63555,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040019",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191838.46829999983,
+        "y" : 556793.84410000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 63556,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040020",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191838.57459999993,
+        "y" : 556799.1612999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 63557,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040021",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191839.54729999881,
+        "y" : 556810.50310000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 63558,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040022",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191847.0075999992,
+        "y" : 556912.16139999963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 63559,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040023",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191848.01719999965,
+        "y" : 556947.91290000454
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 63560,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040024",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191849.29050000012,
+        "y" : 556752.83900000155
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 63561,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040025",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191850.53600000124,
+        "y" : 556766.53429999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 63562,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040026",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191850.87519999966,
+        "y" : 556985.18310000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 63563,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040027",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191858.29080000147,
+        "y" : 556842.29080000147
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 63564,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040028",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191860.78520000074,
+        "y" : 556799.430999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 63565,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040029",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191866.925400001,
+        "y" : 556979.84999999963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 63566,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040030",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191872.60659999959,
+        "y" : 556633.74050000124
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 63567,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040031",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191873.12530000042,
+        "y" : 556619.27379999869
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 63568,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040032",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191874.23110000044,
+        "y" : 556757.46800000407
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 63569,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040033",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191897.09050000086,
+        "y" : 556832.16190000251
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 63570,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040034",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191897.7416000003,
+        "y" : 556744.61890000105
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 63571,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040035",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191911.39550000057,
+        "y" : 556968.09930000454
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 63572,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040036",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191934.3032999998,
+        "y" : 556936.47879999876
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 98412,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040037",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191743.7132000009,
+        "y" : 556805.85260000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 98413,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040038",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191700.15519999998,
+        "y" : 556853.22059999895
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 98414,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040039",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191685.89419999887,
+        "y" : 556794.47699999984
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 98415,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "베드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040040",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191828.39969999943,
+        "y" : 556812.76459999918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 98416,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040041",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191911.49910000036,
+        "y" : 556968.05269999988
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 98417,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040042",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191927.83139999889,
+        "y" : 556921.57750000106
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 98418,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040043",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191880.10479999977,
+        "y" : 556853.91679999977
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 98419,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040044",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191879.71729999929,
+        "y" : 556836.12989999866
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 98420,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040045",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191897.26800000103,
+        "y" : 556748.83170000068
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 98421,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040046",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191776.56659999848,
+        "y" : 556799.81949999917
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 98422,
+        "MNTN_CODE" : "113800704",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "역촌근린공원",
+        "PAST_SPOT_" : "1138007040047",
+        "MNTN_ID" : "113800704"
+      },
+      "geometry" : {
+        "x" : 191865.52989999982,
+        "y" : 556752.98409999895
+      }
+    }
+  ]
+}

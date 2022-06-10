@@ -1,0 +1,765 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 1609,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040001",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 192899.86660000123,
+        "y" : 558779.58740000241
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 1610,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040002",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 192918.00509999879,
+        "y" : 558692.80330000073
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 1611,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040003",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 192957.30100000184,
+        "y" : 558485.67080000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 1612,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040004",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 192991.17019999959,
+        "y" : 558856.91490000114
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 1613,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040005",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193009.04620000068,
+        "y" : 558764.87189999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 1614,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040006",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193018.07910000067,
+        "y" : 558653.59310000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 1615,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040007",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193025.35980000161,
+        "y" : 558705.19710000232
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 1616,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040008",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193046.93969999999,
+        "y" : 558671.44640000351
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 1617,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040009",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193052.82409999985,
+        "y" : 558730.1045000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 1618,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040010",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193075.62880000006,
+        "y" : 558778.04619999975
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 1619,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040011",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193099.19880000036,
+        "y" : 558729.65510000102
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 1620,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040012",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193122.5298000006,
+        "y" : 558974.85329999961
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 1621,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040013",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193125.22839999944,
+        "y" : 558889.8925999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 1622,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040014",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193162.59820000082,
+        "y" : 558887.25670000166
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 1623,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040015",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193183.37490000203,
+        "y" : 558853.0951000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 1624,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040016",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193249.74960000161,
+        "y" : 558841.31210000254
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 1625,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040017",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193285.71390000172,
+        "y" : 558741.45580000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 1626,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040018",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193294.15190000087,
+        "y" : 559098.72060000151
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 1627,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040019",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193306.63279999979,
+        "y" : 558850.51310000382
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 1628,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040020",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193309.15870000143,
+        "y" : 558781.04220000096
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 1629,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040021",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193329.28619999997,
+        "y" : 558873.62020000257
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 1630,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040022",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193334.21380000096,
+        "y" : 558817.51750000194
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 1631,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040023",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193361.18700000085,
+        "y" : 558797.8638000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 1632,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040024",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193373.72220000159,
+        "y" : 558739.23900000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 1633,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040025",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193416.67690000124,
+        "y" : 558730.8973999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 1634,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040026",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193430.57899999991,
+        "y" : 559096.50320000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 1635,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040027",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193434.36900000088,
+        "y" : 558958.25070000067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 1636,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040028",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193446.7313000001,
+        "y" : 559038.45990000106
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 1637,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040029",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193457.53000000119,
+        "y" : 558556.41230000183
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 1638,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040030",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193465.8543000007,
+        "y" : 558886.91890000179
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 1639,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040031",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193487.83710000012,
+        "y" : 558930.91440000385
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 1640,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040032",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193508.56260000076,
+        "y" : 558885.35040000081
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 1641,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040033",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193561.40940000117,
+        "y" : 558880.51810000092
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 1642,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040034",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193615.50040000118,
+        "y" : 558809.19450000301
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 1643,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040035",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193630.36029999983,
+        "y" : 558940.43470000289
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 1644,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040036",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193744.54630000051,
+        "y" : 558559.97560000047
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 95831,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040037",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193495.43169999929,
+        "y" : 558982.41929999902
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 95832,
+        "MNTN_CODE" : "113800804",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "갈현근린공원",
+        "PAST_SPOT_" : "1138008040038",
+        "MNTN_ID" : "113800804"
+      },
+      "geometry" : {
+        "x" : 193508.59979999968,
+        "y" : 559027.19390000042
+      }
+    }
+  ]
+}

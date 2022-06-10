@@ -1,0 +1,1683 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 22826,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉1",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010001",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194741.19590000063,
+        "y" : 555765.25950000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 22827,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "평행봉1",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010002",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194706.65219999943,
+        "y" : 555811.6753999982
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 22828,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "장수정,장수정,허리들리기4",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010003",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194749.70120000001,
+        "y" : 556152.24939999916
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 22829,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "녹수정,녹수정,배드민턴코",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010004",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194690.14090000093,
+        "y" : 556253.69920000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 22830,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으키",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010005",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194664.62870000023,
+        "y" : 556230.51390000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 22831,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기2",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010006",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194618.29069999978,
+        "y" : 556095.98540000245
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 22832,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기2",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010007",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194615.427000002,
+        "y" : 556108.43459999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 22833,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기4",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010008",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194643.92290000059,
+        "y" : 556109.21619999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 22834,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기2",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010009",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194672.26609999966,
+        "y" : 556217.91269999929
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 22835,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "다리들어올",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010010",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194594.02550000139,
+        "y" : 556272.32080000266
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 22836,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "녹수쉼터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010011",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194496.70320000127,
+        "y" : 556367.78710000217
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 22837,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "거북약수터,거북약수터,허리돌리기2",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010012",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194814.28070000093,
+        "y" : 556783.56620000117
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 22838,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "녹수정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010013",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194680.11029999983,
+        "y" : 556285.32660000212
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 22839,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "구름다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010014",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194660.22830000054,
+        "y" : 556327.71460000239
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 22840,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "팔굽혀펴기1",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010015",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194618.05790000129,
+        "y" : 556410.15700000152
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 22841,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "역기1",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010016",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194554.69210000057,
+        "y" : 556560.58150000311
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 22842,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기2",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010017",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194546.58509999979,
+        "y" : 556589.77960000187
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 22843,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "배드민턴코",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010018",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194519.08040000033,
+        "y" : 556585.85330000147
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 22844,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "신록공원",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010019",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194544.4123000009,
+        "y" : 556178.5326000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 22845,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "평행봉1",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010020",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194553.10089999996,
+        "y" : 556087.44130000286
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 22846,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010021",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194891.34640000015,
+        "y" : 556737.45910000429
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 22847,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉2",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010022",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195256.54580000043,
+        "y" : 556630.56450000219
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 22848,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기1",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010023",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195157.53820000123,
+        "y" : 556608.63880000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 22849,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "향천약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010024",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195229.22810000088,
+        "y" : 556616.12340000086
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 22850,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "풀웨이트1",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010025",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194960.52760000061,
+        "y" : 556710.20560000278
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 22851,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "게이트볼장1",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010026",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194992.4123999998,
+        "y" : 556578.75329999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 22852,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "장미베드민",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010027",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195018.32820000034,
+        "y" : 556550.01010000147
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 22853,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "장미약수터,장미약수터,허리돌리기2",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010028",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195006.32390000112,
+        "y" : 556525.65270000324
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 22854,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010029",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194455.19079999998,
+        "y" : 555751.91420000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 22855,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010030",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194459.06469999999,
+        "y" : 556324.18180000223
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 22856,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010031",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194472.33410000056,
+        "y" : 556375.32379999943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 22857,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010032",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194493.24900000077,
+        "y" : 556270.65689999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 22858,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010033",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194495.54100000113,
+        "y" : 556337.57150000148
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 22859,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010034",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194502.2296000002,
+        "y" : 556319.70549999923
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 22860,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010035",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194523.90240000095,
+        "y" : 556100.5802000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 22861,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010036",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194526.07110000029,
+        "y" : 556220.07469999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 22862,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010037",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194528.29009999987,
+        "y" : 556388.33520000242
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 22863,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010038",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194530.09260000009,
+        "y" : 556171.66190000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 22864,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010039",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194547.23640000075,
+        "y" : 556589.80709999986
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 22865,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010040",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194552.44370000158,
+        "y" : 556558.03820000216
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 22866,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010041",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194553.10640000086,
+        "y" : 556332.4637000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 22867,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010042",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194563.83280000184,
+        "y" : 556601.46759999916
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 22868,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010043",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194586.72020000126,
+        "y" : 556033.15929999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 22869,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010044",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194589.69809999969,
+        "y" : 555565.33369999938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 22870,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010045",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194593.99029999971,
+        "y" : 556273.0949000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 22871,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010046",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194604.45220000111,
+        "y" : 555996.97320000082
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 22872,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010047",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194607.5010000011,
+        "y" : 556562.63530000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 22873,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010048",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194612.25829999987,
+        "y" : 556254.94030000269
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 22874,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010049",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194615.60180000123,
+        "y" : 556092.74030000344
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 22875,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010050",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194615.68338130787,
+        "y" : 556251.17433003709
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 22876,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010051",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194627.6986999996,
+        "y" : 556389.27199999988
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 22877,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010052",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194629.91090000048,
+        "y" : 556055.51470000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 22878,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010053",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194635.95569999982,
+        "y" : 556108.47290000319
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 22879,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010054",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194649.52190000098,
+        "y" : 556350.89240000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 22880,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010055",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194656.94170000125,
+        "y" : 555776.21579999849
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 22881,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010056",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194663.75140000135,
+        "y" : 556576.04120000079
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 22882,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010057",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194668.45370000042,
+        "y" : 555800.94510000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 22883,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010058",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194676.0736999996,
+        "y" : 555777.00439999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 22884,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010059",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194677.56390000135,
+        "y" : 556088.74660000205
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 22885,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010060",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194681.74570000079,
+        "y" : 556282.18830000423
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 22886,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010061",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194686.40040000062,
+        "y" : 555629.15450000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 22887,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010062",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194692.68859999999,
+        "y" : 555580.08510000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 22888,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010063",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194699.06520000007,
+        "y" : 555813.27680000104
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 22889,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010064",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194699.17490000185,
+        "y" : 556202.59219999984
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 22890,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010065",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194724.07180000003,
+        "y" : 556116.16970000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 22891,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010066",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194734.1269000005,
+        "y" : 555613.13209999911
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 22892,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010067",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194735.06850000005,
+        "y" : 556279.97940000333
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 22893,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010068",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194746.79330000002,
+        "y" : 556594.84640000202
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 22894,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010069",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194766.04870000016,
+        "y" : 556406.74110000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 22895,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010070",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194775.49490000121,
+        "y" : 556281.33999999985
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 22896,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010071",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194784.00520000048,
+        "y" : 555936.65510000102
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 22897,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010072",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194800.28290000092,
+        "y" : 556000.07620000094
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 22898,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010073",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194809.32820000127,
+        "y" : 556273.18999999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 22899,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010074",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194812.54410000052,
+        "y" : 556787.51180000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 22900,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010075",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194819.26980000082,
+        "y" : 556240.18400000222
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 22901,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010076",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194821.76250000112,
+        "y" : 556196.99040000141
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 22902,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010077",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194891.30200000014,
+        "y" : 556737.51500000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 22903,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010078",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194897.26622278616,
+        "y" : 556229.7842024453
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 22904,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010079",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194920.00730000157,
+        "y" : 556141.60300000198
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 22905,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010080",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194925.08980000112,
+        "y" : 556718.32070000283
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 22906,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010081",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194931.158400001,
+        "y" : 556714.21900000237
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 22907,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010082",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 194938.53760000039,
+        "y" : 556573.52990000322
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 22908,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010083",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195016.34540000092,
+        "y" : 556239.16550000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 22909,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010084",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195019.84389999975,
+        "y" : 556214.85930000432
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 22910,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010085",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195024.57259999961,
+        "y" : 556139.64180000126
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 22911,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010086",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195098.2209999999,
+        "y" : 556512.19100000151
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 22912,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010087",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195117.54960000049,
+        "y" : 556753.35790000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 22913,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010088",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195126.05379999988,
+        "y" : 556745.79280000366
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 22914,
+        "MNTN_CODE" : "113801001",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "독바위산",
+        "PAST_SPOT_" : "1138010010089",
+        "MNTN_ID" : "113801001"
+      },
+      "geometry" : {
+        "x" : 195150.65880000126,
+        "y" : 556615.27510000207
+      }
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:hapticFeedbackEnabled="false"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="30dp">
+    </View>
+
+    <FrameLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <ProgressBar
+            android:id="@+id/kcal_bar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:progress="1000"
+            android:progressDrawable="@drawable/progressbar_kcal"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:max="2700">
+
+        </ProgressBar>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="40dp"
+            android:text="1000 / 2700">
+
+        </TextView>
+
+    </FrameLayout>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="10dp">
+    </View>
+
+    <Button
+        android:id="@+id/search_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Search!!"
+        app:backgroundTint="#F15858">
+    </Button>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="10dp">
+    </View>
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:weightSum="4"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/분식"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/upper_shadow_todo"
+                android:text="분식"
+                android:textAllCaps="true"
+                android:textColor="#090808"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                app:backgroundTint="#BCBABA"></Button>
+
+            <View
+                android:layout_width="5dp"
+                android:layout_height="0dp">
+            </View>
+
+            <Button
+                android:id="@+id/양식"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/upper_shadow_todo"
+                android:text="양식"
+                android:textAllCaps="true"
+                android:textColor="#090808"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                app:backgroundTint="#BCBABA"></Button>
+
+            <View
+                android:layout_width="5dp"
+                android:layout_height="0dp">
+            </View>
+
+            <Button
+                android:id="@+id/중식"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/upper_shadow_todo"
+                android:text="중식"
+                android:textAllCaps="true"
+                android:textColor="#090808"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                app:backgroundTint="#BCBABA"></Button>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/일식"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/upper_shadow_todo"
+                android:text="일식"
+                android:textAllCaps="true"
+                android:textColor="#090808"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                app:backgroundTint="#BCBABA"></Button>
+
+            <View
+                android:layout_width="5dp"
+                android:layout_height="0dp">
+            </View>
+
+            <Button
+                android:id="@+id/한식"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/upper_shadow_todo"
+                android:text="한식"
+                android:textAllCaps="true"
+                android:textColor="#090808"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                app:backgroundTint="#BCBABA"></Button>
+
+            <View
+                android:layout_width="5dp"
+                android:layout_height="0dp">
+            </View>
+
+            <Button
+                android:id="@+id/패스트푸드"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/upper_shadow_todo"
+                android:text="패스트푸드"
+                android:textAllCaps="true"
+                android:textColor="#090808"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                app:backgroundTint="#BCBABA"></Button>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/음료"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/upper_shadow_todo"
+                android:text="음료"
+                android:textAllCaps="true"
+                android:textColor="#090808"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                app:backgroundTint="#BCBABA"></Button>
+
+            <View
+                android:layout_width="5dp"
+                android:layout_height="0dp">
+            </View>
+
+            <Button
+                android:id="@+id/카페디저트"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:autoSizePresetSizes=""
+                android:background="@drawable/upper_shadow_todo"
+                android:text="카페,디저트"
+                android:textAllCaps="true"
+                android:textColor="#090808"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                app:backgroundTint="#BCBABA"></Button>
+
+            <View
+                android:layout_width="5dp"
+                android:layout_height="0dp">
+            </View>
+
+            <Button
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/upper_shadow_todo"
+                android:textSize="30dp"
+                android:textColor="#090808"
+                app:backgroundTint="#BCBABA"></Button>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/item_CartLayout"
+    android:orientation="horizontal"
+    android:background="@color/white"
+    android:layout_marginVertical="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/img_food"
+            android:layout_gravity="center_vertical"
+            android:layout_marginVertical="5dp"
+            android:layout_marginHorizontal="20dp"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/koreafood"/>
+
+        <TextView
+            android:id="@+id/txt_foodName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:ellipsize="end"
+            android:ems="5"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="된장찌개"
+            android:textColor="#595959"
+            android:textSize="21sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_foodNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:ems="2"
+            android:text="1"
+            android:textColor="#595959"
+            android:textSize="21sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/txt_foodKcal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginVertical="10dp"
+            android:layout_marginHorizontal="25dp"
+            android:gravity="center"
+            android:maxLines="2"
+            android:text="201 Kcal"
+            android:textColor="#595959"
+            android:textSize="21sp"
+            android:textStyle="bold"/>
+</LinearLayout>

@@ -1,0 +1,1611 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 93053,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040001",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 203589.76240000036,
+        "y" : 554702.9550999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 93054,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040002",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 203773.13640000112,
+        "y" : 554679.0196000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 93055,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040003",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204077.8917000005,
+        "y" : 554750.81570000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 93056,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040004",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204104.6081000017,
+        "y" : 554456.19520000182
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 93057,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040005",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204122.43489999976,
+        "y" : 554332.79790000059
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 93058,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040006",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204123.13060000073,
+        "y" : 554386.02979999967
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 93059,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040007",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204125.93750000093,
+        "y" : 554397.62609999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 93060,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040008",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204129.95490000118,
+        "y" : 554426.80820000172
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 93061,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040009",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204130.4824000001,
+        "y" : 554401.36730000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 93062,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040010",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204141.05920000095,
+        "y" : 554388.17640000209
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 93063,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040011",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204142.5773,
+        "y" : 554420.41210000031
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 93064,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040012",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204151.55900000036,
+        "y" : 554415.82010000385
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 93065,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040013",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204162.33169999998,
+        "y" : 554506.19810000248
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 93066,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040014",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204169.26109999884,
+        "y" : 554427.0204000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 93067,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040015",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204169.48629999999,
+        "y" : 554523.79010000266
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 93068,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040016",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204187.12000000104,
+        "y" : 554450.20319999941
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 93069,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040017",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204188.94149999972,
+        "y" : 554464.00030000135
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 93070,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040018",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204389.15450000204,
+        "y" : 556369.42130000144
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 93071,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040019",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204472.22119999956,
+        "y" : 556135.32650000416
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 93072,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040020",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204550.12380000111,
+        "y" : 556196.88990000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 100069,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "대리석계단끝, 가로등, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040021",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204123.90989999968,
+        "y" : 554384.56700000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 100070,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단, 가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040022",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204123.37090000146,
+        "y" : 554381.54319999914
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 100071,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단시작, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040023",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204099.44770000057,
+        "y" : 554390.40640000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 100072,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단끝, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040024",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204093.34329999896,
+        "y" : 554399.35280000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 100073,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "전망대, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040025",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204101.77840000071,
+        "y" : 554422.71670000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 100074,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040026",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204101.61830000085,
+        "y" : 554432.07539999962
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 100075,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040027",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204099.87029999937,
+        "y" : 554449.08970000048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 100076,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단끝, 가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040028",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204148.62290000031,
+        "y" : 554395.40790000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 100077,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040029",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204100.14950000067,
+        "y" : 554453.39720000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 100078,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "관리사무소, 화장실, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040030",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204103.72329999908,
+        "y" : 554456.85029999923
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 100079,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단끝, 가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040031",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204110.82950000005,
+        "y" : 554457.97020000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 100080,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자, 평행봉, 허리돌리기, 가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040032",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204108.40650000068,
+        "y" : 554462.60190000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 100081,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등), 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040033",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204105.99179999941,
+        "y" : 554465.27070000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 100082,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으키기, 철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040034",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204104.75889999952,
+        "y" : 554473.46590000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 100083,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "메달리기, 나무턱계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040035",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204103.50349999862,
+        "y" : 554482.18219999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 100084,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무턱계단끝, 윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040036",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204101.69550000119,
+        "y" : 554485.63260000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 100085,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040037",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204097.60100000017,
+        "y" : 554487.12840000074
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 100086,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단시작, 철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040038",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204088.64600000024,
+        "y" : 554497.35730000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 100087,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단끝, 가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040039",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204143.56460000118,
+        "y" : 554369.82219999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 100088,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040040",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204088.75489999913,
+        "y" : 554501.51569999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 100089,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점, 창고",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040041",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204101.52030000006,
+        "y" : 554510.67620000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 100090,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040042",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204108.73130000036,
+        "y" : 554509.22859999922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 100091,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040043",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204114.69299999895,
+        "y" : 554504.41249999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 100092,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040044",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204118.35949999993,
+        "y" : 554515.0661999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 100093,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040045",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204122.9993000011,
+        "y" : 554518.4734000006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 100094,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040046",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204125.98079999996,
+        "y" : 554507.50669999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 100095,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040047",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204129.4762000012,
+        "y" : 554504.89430000039
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 100096,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040048",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204135.87129999956,
+        "y" : 554506.81389999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 100097,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단끝, 배드민턴코드, 현수막, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040049",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204136.28249999986,
+        "y" : 554513.48430000059
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 100098,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "대리석계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040050",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204145.83409999998,
+        "y" : 554361.37619999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 100099,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040051",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204135.96260000029,
+        "y" : 554516.64709999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 100100,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치, 가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040052",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204143.1205999997,
+        "y" : 554517.67410000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 100101,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040053",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204148.66909999988,
+        "y" : 554510.04839999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 100102,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도, 음수대",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040054",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204161.58160000102,
+        "y" : 554506.11050000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 100103,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040055",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204170.26810000007,
+        "y" : 554485.3506000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 100104,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040056",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204169.55939999875,
+        "y" : 554481.5360000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 100105,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040057",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204167.5531999997,
+        "y" : 554466.826999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 100106,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040058",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204176.38949999941,
+        "y" : 554457.47259999951
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 100107,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040059",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204135.96540000083,
+        "y" : 554362.47830000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 100108,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040060",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204187.01939999903,
+        "y" : 554444.03519999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 100109,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴코트",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040061",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204162.43019999939,
+        "y" : 554423.10970000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 100110,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040062",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204142.1028999995,
+        "y" : 554420.99709999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 100111,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단끝, 가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040063",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204130.68989999921,
+        "y" : 554401.50170000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 100112,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040064",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204127.62430000084,
+        "y" : 554403.08170000045
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 100113,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "오금펴기, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040065",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204129.84289999877,
+        "y" : 554407.84589999868
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 100114,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "달리기운동, 공중걷기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040066",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204128.61319999929,
+        "y" : 554409.37099999911
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 100115,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "상체운동",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040067",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204128.53830000013,
+        "y" : 554411.02690000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 100116,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040068",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204127.26180000071,
+        "y" : 554417.3709000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 100117,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "역기, 가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040069",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204127.21529999992,
+        "y" : 554421.74330000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 100118,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040070",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204141.19399999903,
+        "y" : 554387.84090000042
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 100119,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기, 윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040071",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204128.10860000009,
+        "y" : 554426.59050000086
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 100120,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "로라맛사지머신, 써핑롤링머신",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040072",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204138.23730000111,
+        "y" : 554423.43259999971
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 100121,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "음수대, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040073",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204140.35500000147,
+        "y" : 554422.41970000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 100122,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040074",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204150.67039999994,
+        "y" : 554416.16379999893
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 100123,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040075",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204151.59979999944,
+        "y" : 554408.29400000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 100124,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "미끄럼틀",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040076",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204114.46469999987,
+        "y" : 554442.2313999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 100125,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "종합안내도, 안내판, 가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040077",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204119.79750000121,
+        "y" : 554436.81030000048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 100126,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "팔굽혀펴기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040078",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204122.87980000128,
+        "y" : 554431.30459999922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 100127,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "평상",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040079",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204139.74039999954,
+        "y" : 554393.19869999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 100128,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040080",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204152.69200000021,
+        "y" : 554518.67429999961
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 100129,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040081",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204168.05410000062,
+        "y" : 554516.03069999989
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 100130,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040082",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204188.30209999994,
+        "y" : 554454.7901000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 100131,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040083",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204133.68099999943,
+        "y" : 554385.94859999954
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 100132,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040084",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204132.09409999987,
+        "y" : 554391.51099999936
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 100133,
+        "MNTN_CODE" : "112300404",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "홍릉공원",
+        "PAST_SPOT_" : "1123004040085",
+        "MNTN_ID" : "112300404"
+      },
+      "geometry" : {
+        "x" : 204125.74670000037,
+        "y" : 554397.61989999982
+      }
+    }
+  ]
+}

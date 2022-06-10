@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/new_running_selector"
+            android:iconTint="@color/black"
+            android:title="Run" />
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/kcal_selector"
+            android:iconTint="@color/black"
+            android:title="Calorie" />
+        <item
+            android:id="@+id/nav_community"
+            android:icon="@drawable/commu_selector"
+            android:iconTint="@color/black"
+            android:title="@string/menu_community" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/user_selector"
+            android:iconTint="@color/black"
+            android:title="User" />
+
+    </group>
+</menu>

@@ -1,0 +1,3915 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 19258,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴장,베드민턴장,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010001",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207174.70650000125,
+        "y" : 542268.97910000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 19259,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010002",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206775.69079999998,
+        "y" : 541678.56560000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 19260,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010003",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206657.81660000049,
+        "y" : 541595.23060000315
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 19261,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,연못",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010004",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206640.13120000064,
+        "y" : 541587.81740000099
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 19262,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실,화장실,정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010005",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207176.2125000013,
+        "y" : 542231.98479999974
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 19263,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,실로암약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010006",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207163.75619999971,
+        "y" : 541989.34050000086
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 19264,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010007",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207210.13260000106,
+        "y" : 542215.36610000394
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 19265,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010008",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206606.23900000099,
+        "y" : 541567.442900002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 19266,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010009",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206355.75659999996,
+        "y" : 541377.45689999871
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 19267,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "18",
+        "MANAGE_SP2" : "주차장",
+        "DETAIL_SPO" : "주차장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010010",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207182.03419999965,
+        "y" : 542318.92950000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 19268,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "만남의장소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010011",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207179.10499999952,
+        "y" : 542296.72960000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 19269,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010012",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207080.47540000081,
+        "y" : 542133.8646000009
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 19270,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "성지약수터,성지약수터,벤치,봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010013",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207124.96660000086,
+        "y" : 541823.13970000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 19271,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010014",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207142.72400000039,
+        "y" : 541745.46419999935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 19272,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010015",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207129.46529999934,
+        "y" : 541734.35419999808
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 19273,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010016",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207080.83239999972,
+        "y" : 541713.96520000137
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 19274,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "23",
+        "MANAGE_SP2" : "정상",
+        "DETAIL_SPO" : "대모산정상,대모산정상,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010017",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206976.1558000017,
+        "y" : 541719.42620000243
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 19275,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010018",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207375.6157000009,
+        "y" : 541790.06189999916
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 19276,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010019",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206961.39940000139,
+        "y" : 541736.06180000119
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 19277,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "22",
+        "MANAGE_SP2" : "헬기장",
+        "DETAIL_SPO" : "헬기장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010020",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206859.68390000053,
+        "y" : 541726.72859999724
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 19278,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표,이정표,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010021",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206822.81699999981,
+        "y" : 541739.64670000225
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 19279,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010022",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207164.83609999996,
+        "y" : 541747.33300000243
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 19280,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010023",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207269.49150000047,
+        "y" : 541765.92150000297
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 19281,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010024",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207567.26170000061,
+        "y" : 541795.78309999779
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 19282,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표,이정표,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010025",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207324.04330000095,
+        "y" : 541760.4199000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 19283,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010026",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206106.50349999964,
+        "y" : 541506.01890000142
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 19284,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "약수터벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010027",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206116.86969999969,
+        "y" : 541443.13410000317
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 19285,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010028",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206140.31259999983,
+        "y" : 541641.07750000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 19286,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010029",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206268.70449999999,
+        "y" : 541467.29409999959
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 19287,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010030",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206333.62700000219,
+        "y" : 541397.05170000158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 19288,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판,안내판,약수터,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010031",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206287.81590000074,
+        "y" : 541539.44979999959
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 19289,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010032",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206561.56919999979,
+        "y" : 542127.89030000195
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 19290,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표,이정표,화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010033",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206529.11259999964,
+        "y" : 542159.31100000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 19291,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010034",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206443.61479999963,
+        "y" : 542153.69510000199
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 19292,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010035",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206440.86820000131,
+        "y" : 541892.8741999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 19293,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010036",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206427.65730000008,
+        "y" : 541818.8729000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 19294,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표,이정표,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010037",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206491.1127999993,
+        "y" : 541737.53189999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 19295,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010038",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206499.96830000076,
+        "y" : 541724.59030000307
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 19296,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표,이정표,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010039",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206366.06460000109,
+        "y" : 541393.37680000253
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 19297,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010040",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206019.65280000214,
+        "y" : 541322.82780000381
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 19298,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010041",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206391.12929999921,
+        "y" : 541391.54620000161
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 19299,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "연못,연못,안내판,화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010042",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206280.40830000117,
+        "y" : 541587.53840000182
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 19300,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010043",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206271.69630000088,
+        "y" : 541409.95320000127
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 19301,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴장,베드민턴장,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010044",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206200.7257999992,
+        "y" : 541683.66710000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 19302,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010045",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206447.00700000022,
+        "y" : 541580.26649999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 19303,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판,안내판,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010046",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206160.9140999997,
+        "y" : 541692.88649999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 19304,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010047",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206126.99260000046,
+        "y" : 541711.35920000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 19305,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴,베드민턴,약수터,정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010048",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206337.41660000104,
+        "y" : 542229.45450000279
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 19306,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표,이정표,파도타기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010049",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206477.52370000072,
+        "y" : 542150.02180000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 19307,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "통나무건너기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010050",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206495.21669999976,
+        "y" : 542146.33610000089
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 19308,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "균형잡기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010051",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206501.13219999988,
+        "y" : 542122.29350000247
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 19309,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,거미줄타기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010052",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206502.64680000115,
+        "y" : 542070.50090000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 19310,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,거미줄타기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010053",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206490.86910000164,
+        "y" : 542050.14420000091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 19311,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "췌손지역",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010054",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206514.48520000093,
+        "y" : 542013.1670000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 19312,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,독도조형물,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010055",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206459.89240000118,
+        "y" : 542074.16720000096
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 19313,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010056",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206474.62569999881,
+        "y" : 542085.27730000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 19314,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010057",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206464.283400001,
+        "y" : 542114.86580000073
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 19315,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표,이정표,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010058",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206399.43080000114,
+        "y" : 542100.01740000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 19316,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010059",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206356.66260000039,
+        "y" : 542122.18200000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 19317,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010060",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206287.2742000008,
+        "y" : 542257.1632000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 19318,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010061",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206256.31830000039,
+        "y" : 542255.2901000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 19319,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010062",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205902.67550000083,
+        "y" : 542036.75809999742
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 19320,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010063",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206315.24670000002,
+        "y" : 542305.27860000171
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 19321,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010064",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206338.82740000077,
+        "y" : 542312.69570000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 19322,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010065",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206357.97429999989,
+        "y" : 542334.9076000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 19323,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010066",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206405.13270000089,
+        "y" : 542353.44150000252
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 19324,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010067",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206223.76380000077,
+        "y" : 542419.89609999955
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 19325,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "운동기구,운동기구,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010068",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206330.01059999969,
+        "y" : 542275.69339999929
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 19326,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "줄타기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010069",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206529.18510000221,
+        "y" : 542066.82210000232
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 19327,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010070",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206507.05639999919,
+        "y" : 542087.15240000188
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 19328,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "배드민턴장,배드민턴장,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010071",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206572.13860000018,
+        "y" : 542126.47220000252
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 19329,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "광장,광장,약수터,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010072",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206558.63540000003,
+        "y" : 542109.39020000212
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 19330,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010073",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206536.50810000114,
+        "y" : 542127.87060000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 19331,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "평형대,평형대,벤치,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010074",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206532.09869999997,
+        "y" : 542111.21910000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 19332,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,베드민턴장,약수터,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010075",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206655.31489999965,
+        "y" : 542880.82509999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 19333,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판,안내판,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010076",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206649.43500000145,
+        "y" : 542860.4728000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 19334,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010077",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206658.31480000075,
+        "y" : 542816.08510000259
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 19335,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표,이정표,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010078",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206760.12240000162,
+        "y" : 542695.93140000105
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 19336,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010079",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207063.54090000037,
+        "y" : 542981.04949999973
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 19337,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010080",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206567.32300000079,
+        "y" : 542309.17320000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 19338,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010081",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206662.67190000135,
+        "y" : 542897.47900000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 19339,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010082",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206671.86730000004,
+        "y" : 542459.08840000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 19340,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010083",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206717.45760000031,
+        "y" : 542592.30920000374
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 19341,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "약수터,약수터,운동기구,정자,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010084",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206621.98110000137,
+        "y" : 542164.93370000273
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 19342,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010085",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206599.87729999982,
+        "y" : 542153.81739999913
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 19343,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010086",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206726.6771999998,
+        "y" : 542128.02200000174
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 19344,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,화장실,운동기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010087",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206678.00410000049,
+        "y" : 542159.42910000123
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 19345,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,운동기구,정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010088",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206664.62280000001,
+        "y" : 542145.89030000195
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 19346,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,베드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010089",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206642.61359999981,
+        "y" : 542172.34919999912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "PMNTN_SPOT" : 19347,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010090",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207618.50980000105,
+        "y" : 542178.73399999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "PMNTN_SPOT" : 19348,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010091",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208630.70419999957,
+        "y" : 542480.23259999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "PMNTN_SPOT" : 19349,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010092",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208647.71960000135,
+        "y" : 542069.44280000217
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "PMNTN_SPOT" : 19350,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010093",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208923.28920000046,
+        "y" : 542050.54520000145
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "PMNTN_SPOT" : 19351,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "타이어",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010094",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208691.79999999981,
+        "y" : 542089.45830000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "PMNTN_SPOT" : 19352,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물,시설물,음수대,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010095",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207390.07409999892,
+        "y" : 542110.08640000224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "PMNTN_SPOT" : 19353,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010096",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208625.49250000063,
+        "y" : 542059.48029999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 96,
+        "PMNTN_SPOT" : 19354,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010097",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208228.45799999963,
+        "y" : 541984.93119999766
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 97,
+        "PMNTN_SPOT" : 19355,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "음수대,음수대,벤치,시설물,기타",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010098",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208305.53030000161,
+        "y" : 542122.0476000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 98,
+        "PMNTN_SPOT" : 19356,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010099",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208109.56150000077,
+        "y" : 542021.96639999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 99,
+        "PMNTN_SPOT" : 19357,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010100",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208091.88010000158,
+        "y" : 542012.70030000433
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 100,
+        "PMNTN_SPOT" : 19358,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "벙커",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010101",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208062.32810000051,
+        "y" : 542082.96330000274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 101,
+        "PMNTN_SPOT" : 19359,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "베드민턴장(운동기구),베드민턴장(운동기구),벤치,정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010102",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208141.72449999955,
+        "y" : 542297.61500000395
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 102,
+        "PMNTN_SPOT" : 19360,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "음수대,음수대,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010103",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208091.61420000065,
+        "y" : 542286.46749999933
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 103,
+        "PMNTN_SPOT" : 19361,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010104",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207932.79519999959,
+        "y" : 541877.51350000128
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 104,
+        "PMNTN_SPOT" : 19362,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "산불감시초소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010105",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207884.13879999984,
+        "y" : 541884.86639999971
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 105,
+        "PMNTN_SPOT" : 19363,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010106",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207813.41950000077,
+        "y" : 541838.55529999919
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 106,
+        "PMNTN_SPOT" : 19364,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010107",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207704.32130000088,
+        "y" : 541844.00300000049
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 107,
+        "PMNTN_SPOT" : 19365,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010108",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 209028.43699999992,
+        "y" : 542967.57029999979
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 108,
+        "PMNTN_SPOT" : 19366,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010109",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208955.55990000069,
+        "y" : 542712.53420000151
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 109,
+        "PMNTN_SPOT" : 19367,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "멘홀뚜껑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010110",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207412.04200000037,
+        "y" : 542272.88650000095
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 110,
+        "PMNTN_SPOT" : 19368,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010111",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208957.31300000101,
+        "y" : 541941.44470000267
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 111,
+        "PMNTN_SPOT" : 19369,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판,안내판,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010112",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206787.41399999987,
+        "y" : 541765.51470000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 112,
+        "PMNTN_SPOT" : 19370,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "초소,초소,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010113",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206762.3518000003,
+        "y" : 541765.49430000223
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 113,
+        "PMNTN_SPOT" : 19371,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010114",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206729.91250000149,
+        "y" : 541772.86720000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 114,
+        "PMNTN_SPOT" : 19372,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치,벤치,안내판,이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010115",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206714.05559999961,
+        "y" : 541790.08200000226
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 115,
+        "PMNTN_SPOT" : 19373,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010116",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206589.78929999936,
+        "y" : 541861.54450000264
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 116,
+        "PMNTN_SPOT" : 19374,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자,정자,벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010117",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206610.44170000032,
+        "y" : 541844.91280000284
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 117,
+        "PMNTN_SPOT" : 19375,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010118",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206569.1166000003,
+        "y" : 541904.07300000452
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 118,
+        "PMNTN_SPOT" : 19376,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010119",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206648.78050000127,
+        "y" : 541833.84470000118
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 119,
+        "PMNTN_SPOT" : 19377,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010120",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207109.85479999986,
+        "y" : 542255.97500000149
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 120,
+        "PMNTN_SPOT" : 19378,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010121",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206554.30890000146,
+        "y" : 541987.30139999837
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 121,
+        "PMNTN_SPOT" : 19379,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010122",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206897.59920000099,
+        "y" : 542228.04990000091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 122,
+        "PMNTN_SPOT" : 19380,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010123",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206924.25640000124,
+        "y" : 542230.85930000432
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 123,
+        "PMNTN_SPOT" : 19381,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "10",
+        "MANAGE_SP2" : "이정표",
+        "DETAIL_SPO" : "이정표",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010124",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206750.26110000163,
+        "y" : 542131.74060000107
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 124,
+        "PMNTN_SPOT" : 19382,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "약수터,약수터,불국사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010125",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206661.90359999985,
+        "y" : 542015.13340000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 125,
+        "PMNTN_SPOT" : 19383,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010126",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206694.3107000012,
+        "y" : 542046.60559999943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 126,
+        "PMNTN_SPOT" : 19384,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "에어브러쉬",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010127",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207147.20720000099,
+        "y" : 542316.35920000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 127,
+        "PMNTN_SPOT" : 19385,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "초소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010128",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207156.96420000028,
+        "y" : 542330.00659999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 128,
+        "PMNTN_SPOT" : 19386,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010129",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 204569.00239999965,
+        "y" : 541347.54300000146
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 129,
+        "PMNTN_SPOT" : 19387,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010130",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205074.08850000147,
+        "y" : 541732.31250000186
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 130,
+        "PMNTN_SPOT" : 19388,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010131",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205273.56470000092,
+        "y" : 541413.7368999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 131,
+        "PMNTN_SPOT" : 19389,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010132",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205307.11304614786,
+        "y" : 541081.99896440655
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 132,
+        "PMNTN_SPOT" : 19390,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010133",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205317.81360000372,
+        "y" : 541106.23599999957
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 133,
+        "PMNTN_SPOT" : 19391,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010134",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205378.41529528052,
+        "y" : 541088.24030000158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 134,
+        "PMNTN_SPOT" : 19392,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010135",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205384.13920000009,
+        "y" : 541117.73730000108
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 135,
+        "PMNTN_SPOT" : 19393,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010136",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205391.26919999998,
+        "y" : 541414.72580000199
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 136,
+        "PMNTN_SPOT" : 19394,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010137",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205720.08370000124,
+        "y" : 541878.91100000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 137,
+        "PMNTN_SPOT" : 19395,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010138",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205834.32747760694,
+        "y" : 541163.40728501789
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 138,
+        "PMNTN_SPOT" : 19396,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010139",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205883.30489999987,
+        "y" : 542031.86910000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 139,
+        "PMNTN_SPOT" : 19397,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010140",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 205899.8546000002,
+        "y" : 541248.25730000064
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 140,
+        "PMNTN_SPOT" : 19398,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010141",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206016.70820000023,
+        "y" : 541317.27639999986
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 141,
+        "PMNTN_SPOT" : 19399,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010142",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206050.22259999998,
+        "y" : 541861.13510000147
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 142,
+        "PMNTN_SPOT" : 19400,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010143",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206107.05180000048,
+        "y" : 541727.70790000074
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 143,
+        "PMNTN_SPOT" : 19401,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010144",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206146.25870000105,
+        "y" : 541753.29750000313
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 144,
+        "PMNTN_SPOT" : 19402,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010145",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206261.48860000074,
+        "y" : 542575.41029999964
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 145,
+        "PMNTN_SPOT" : 19403,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010146",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206284.86110000033,
+        "y" : 542253.04250000231
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 146,
+        "PMNTN_SPOT" : 19404,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010147",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206287.22060000058,
+        "y" : 541409.05090000294
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 147,
+        "PMNTN_SPOT" : 19405,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010148",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206295.01530000102,
+        "y" : 542282.94319999963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 148,
+        "PMNTN_SPOT" : 19406,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010149",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206323.39400000125,
+        "y" : 542286.89010000229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 149,
+        "PMNTN_SPOT" : 19407,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010150",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206384.47968413681,
+        "y" : 541396.68776025437
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 150,
+        "PMNTN_SPOT" : 19408,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010151",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206406.55240000226,
+        "y" : 542106.21160000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 151,
+        "PMNTN_SPOT" : 19409,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010152",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206414.03366608638,
+        "y" : 541406.34245928004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 152,
+        "PMNTN_SPOT" : 19410,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010153",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206438.35510000214,
+        "y" : 542152.44140000269
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 153,
+        "PMNTN_SPOT" : 19411,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010154",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206490.87660000008,
+        "y" : 542147.20160000212
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 154,
+        "PMNTN_SPOT" : 19412,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010155",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206505.28930000123,
+        "y" : 542009.66190000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 155,
+        "PMNTN_SPOT" : 19413,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010156",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206508.2396999998,
+        "y" : 542225.38120000437
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 156,
+        "PMNTN_SPOT" : 19414,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010157",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206515.51599999983,
+        "y" : 542190.29510000162
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 157,
+        "PMNTN_SPOT" : 19415,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010158",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206516.78370000049,
+        "y" : 542085.58560000174
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 158,
+        "PMNTN_SPOT" : 19416,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010159",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206555.55510000046,
+        "y" : 541968.36770000122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 159,
+        "PMNTN_SPOT" : 19417,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010160",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206565.56639999989,
+        "y" : 542133.11510000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 160,
+        "PMNTN_SPOT" : 19418,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010161",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206582.21870000008,
+        "y" : 542167.06910000369
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 161,
+        "PMNTN_SPOT" : 19419,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010162",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206598.52520000003,
+        "y" : 542155.86729999818
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 162,
+        "PMNTN_SPOT" : 19420,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010163",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206606.91889999993,
+        "y" : 542172.62820000388
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 163,
+        "PMNTN_SPOT" : 19421,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010164",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206630.12679999974,
+        "y" : 542214.90860000253
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 164,
+        "PMNTN_SPOT" : 19422,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010165",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206635.43800000101,
+        "y" : 542906.83770000376
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 165,
+        "PMNTN_SPOT" : 19423,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010166",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206638.31540000066,
+        "y" : 542168.88460000232
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 166,
+        "PMNTN_SPOT" : 19424,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010167",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206669.23539999966,
+        "y" : 542442.91900000162
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 167,
+        "PMNTN_SPOT" : 19425,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010168",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206705.82720000204,
+        "y" : 542390.67380000092
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 168,
+        "PMNTN_SPOT" : 19426,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010169",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206708.56620000023,
+        "y" : 542565.77630000189
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 169,
+        "PMNTN_SPOT" : 19427,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010170",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206711.49700000044,
+        "y" : 542325.29190000147
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 170,
+        "PMNTN_SPOT" : 19428,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010171",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206746.3161000004,
+        "y" : 542131.30750000104
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 171,
+        "PMNTN_SPOT" : 19429,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010172",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206755.17920000106,
+        "y" : 542689.7648000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 172,
+        "PMNTN_SPOT" : 19430,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010173",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206839.07380000036,
+        "y" : 541731.21400000155
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 173,
+        "PMNTN_SPOT" : 19431,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010174",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206856.36679999996,
+        "y" : 542217.84180000238
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 174,
+        "PMNTN_SPOT" : 19432,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010175",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 206936.47580000106,
+        "y" : 542356.37190000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 175,
+        "PMNTN_SPOT" : 19433,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010176",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207109.74210000038,
+        "y" : 542433.01220000163
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 176,
+        "PMNTN_SPOT" : 19434,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010177",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207117.48900000192,
+        "y" : 542262.48460000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 177,
+        "PMNTN_SPOT" : 19435,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010178",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207137.32910000253,
+        "y" : 541735.36790000089
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 178,
+        "PMNTN_SPOT" : 19436,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010179",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207145.89430000074,
+        "y" : 543204.94339999929
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 179,
+        "PMNTN_SPOT" : 19437,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010180",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207167.14120000042,
+        "y" : 542348.50599999912
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 180,
+        "PMNTN_SPOT" : 19438,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010181",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207195.43219999969,
+        "y" : 542167.68809999712
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 181,
+        "PMNTN_SPOT" : 19439,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010182",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207239.6157000009,
+        "y" : 542272.15939999931
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 182,
+        "PMNTN_SPOT" : 19440,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010183",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207254.4972000001,
+        "y" : 542292.78040000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 183,
+        "PMNTN_SPOT" : 19441,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010184",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207315.11230000108,
+        "y" : 541766.81760000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 184,
+        "PMNTN_SPOT" : 19442,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010185",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207323.82820000127,
+        "y" : 542241.31220000237
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 185,
+        "PMNTN_SPOT" : 19443,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010186",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207389.40450000018,
+        "y" : 542120.7322000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 186,
+        "PMNTN_SPOT" : 19444,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010187",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207470.46740000043,
+        "y" : 542341.34009999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 187,
+        "PMNTN_SPOT" : 19445,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010188",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207591.88370000012,
+        "y" : 542278.59779999964
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 188,
+        "PMNTN_SPOT" : 19446,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010189",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207662.09539999999,
+        "y" : 541843.40810000151
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 189,
+        "PMNTN_SPOT" : 19447,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010190",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207676.26790000126,
+        "y" : 542053.01330000348
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 190,
+        "PMNTN_SPOT" : 19448,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010191",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 207793.41080000158,
+        "y" : 541836.07650000229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 191,
+        "PMNTN_SPOT" : 19449,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010192",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208088.10560000036,
+        "y" : 542014.42060000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 192,
+        "PMNTN_SPOT" : 19450,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010193",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208088.10560000036,
+        "y" : 542014.42060000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 193,
+        "PMNTN_SPOT" : 19451,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010194",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208105.47129999939,
+        "y" : 541569.75860000402
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 194,
+        "PMNTN_SPOT" : 19452,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010195",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208146.40240000095,
+        "y" : 542378.09480000287
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 195,
+        "PMNTN_SPOT" : 19453,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010196",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208227.53029999975,
+        "y" : 541988.78610000014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 196,
+        "PMNTN_SPOT" : 19454,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010197",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208450.17509999964,
+        "y" : 542331.06430000253
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 197,
+        "PMNTN_SPOT" : 19455,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010198",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208501.51120000146,
+        "y" : 542592.66080000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 198,
+        "PMNTN_SPOT" : 19456,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010199",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208582.8685999997,
+        "y" : 542831.32660000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 199,
+        "PMNTN_SPOT" : 19457,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010200",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208630.52680000011,
+        "y" : 542480.96829999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 200,
+        "PMNTN_SPOT" : 19458,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010201",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208630.52869999968,
+        "y" : 542395.06170000322
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 201,
+        "PMNTN_SPOT" : 19459,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010202",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208643.28090000153,
+        "y" : 542367.75989999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 202,
+        "PMNTN_SPOT" : 19460,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010203",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208647.34539999999,
+        "y" : 542070.46220000274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 203,
+        "PMNTN_SPOT" : 19461,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010204",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208655.26549999975,
+        "y" : 542401.20030000433
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 204,
+        "PMNTN_SPOT" : 19462,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010205",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208724.25030000228,
+        "y" : 542411.10369999893
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 205,
+        "PMNTN_SPOT" : 19463,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010206",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208748.41300000064,
+        "y" : 542596.20519999973
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 206,
+        "PMNTN_SPOT" : 19464,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010207",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208802.71839999966,
+        "y" : 542559.8423999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 207,
+        "PMNTN_SPOT" : 19465,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010208",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208805.13080000225,
+        "y" : 542261.29429999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 208,
+        "PMNTN_SPOT" : 19466,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010209",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208873.70330000017,
+        "y" : 542420.49100000225
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 209,
+        "PMNTN_SPOT" : 19467,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010210",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208900.01630000211,
+        "y" : 541756.40530000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 210,
+        "PMNTN_SPOT" : 19468,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010211",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 208916.09140000213,
+        "y" : 542051.37759999931
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 211,
+        "PMNTN_SPOT" : 19469,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010212",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 209051.40830000024,
+        "y" : 543019.8861999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 212,
+        "PMNTN_SPOT" : 19470,
+        "MNTN_CODE" : "116500701",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "대모산",
+        "PAST_SPOT_" : "1165007010213",
+        "MNTN_ID" : "116500701"
+      },
+      "geometry" : {
+        "x" : 209087.54389999993,
+        "y" : 542341.61370000057
+      }
+    }
+  ]
+}

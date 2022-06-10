@@ -1,0 +1,1701 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 83029,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판,나무계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010001",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204799.64010000136,
+        "y" : 555602.99739999883
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 83030,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "나무다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010002",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204798.26120000053,
+        "y" : 555606.75500000082
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 83031,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철계단,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010003",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204811.62310000043,
+        "y" : 555629.69460000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 83032,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "통나무계단끝,암반지대시작,위험지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010004",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204758.19730000198,
+        "y" : 555538.30839999951
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 83033,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "암반지대끝,분기,위험지끝,훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010005",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204711.7463000007,
+        "y" : 555532.41170000099
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 83034,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010006",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204667.07799999975,
+        "y" : 555568.10990000144
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 83035,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010007",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204650.2285000002,
+        "y" : 555586.25060000457
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 83036,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "훼손지시작,위험지시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010008",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204649.8797000004,
+        "y" : 555601.16310000047
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 83037,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "훼손지끝,위험지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010009",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204683.8981999997,
+        "y" : 555601.70319999941
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 83038,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010010",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204720.72400000226,
+        "y" : 555599.01690000109
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 83039,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "훼손지시작,위험지시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010011",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204744.48250000179,
+        "y" : 555614.2686999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 83040,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "훼손지끝,위험지끝,징검다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010012",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204756.25540000107,
+        "y" : 555607.53079999983
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 83041,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010013",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204768.6799000008,
+        "y" : 555600.00260000117
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 83042,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝,분기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010014",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204774.37959999964,
+        "y" : 555599.57790000178
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 83043,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010015",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204779.79060000181,
+        "y" : 555599.06930000335
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 83044,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010016",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204783.66440000013,
+        "y" : 555594.63400000148
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 83045,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작,분기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010017",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204798.38069999963,
+        "y" : 555579.34840000048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 83046,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "노인정,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010018",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204745.2564000003,
+        "y" : 555477.82220000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 83047,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010019",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204815.54179999977,
+        "y" : 555560.49190000258
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 83048,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "암반지대시작,위험지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010020",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204811.81570000015,
+        "y" : 555552.76830000244
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 83049,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "암반지대끝,위험지대끝,훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010021",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204802.29830000084,
+        "y" : 555550.39049999788
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 83050,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "훼손지,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010022",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204792.65470000077,
+        "y" : 555548.61740000173
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 83051,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "현수막",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010023",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204785.51979999989,
+        "y" : 555547.58990000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 83052,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010024",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204779.47290000133,
+        "y" : 555546.87939999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 83053,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "돌계단끝,현수막",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010025",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204738.87070000172,
+        "y" : 555499.93179999851
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 83054,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "체어웨이트,평행봉,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010026",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204730.04949999973,
+        "y" : 555496.61499999836
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 83055,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "공원입구표시,시멘트계단,허리돌리기,터닝트위",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010027",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204742.69630000181,
+        "y" : 555489.06820000336
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 83056,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "레그프레스,철봉,윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010028",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204726.94240000006,
+        "y" : 555493.60830000229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 83057,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "터닝트위스트,역기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010029",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204724.39710000064,
+        "y" : 555491.83000000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 83058,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "파고라,종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010030",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204726.68670000136,
+        "y" : 555487.64490000159
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 83059,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "분기,목계단시작,현수막",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010031",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204741.54560000077,
+        "y" : 555495.0586000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 83060,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "훼손지,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010032",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204669.35240000021,
+        "y" : 555590.83840000443
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 83061,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010033",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204680.5504999999,
+        "y" : 555579.21590000018
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 83062,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010034",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204682.55120000057,
+        "y" : 555588.38990000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 83063,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "암반지대끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010035",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204755.55939999968,
+        "y" : 555543.40499999933
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 83064,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "훼손지끝,위험지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010036",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204740.43240000121,
+        "y" : 555564.8489000015
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 83065,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010037",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204728.64510000125,
+        "y" : 555583.91329999827
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 83066,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "목계단끝,제사장터,통나무계단시작,훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010038",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204750.3870000001,
+        "y" : 555514.63709999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 83067,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010039",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204780.90949999914,
+        "y" : 555558.65780000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 83068,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010040",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204801.29160000198,
+        "y" : 555537.58900000341
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 83069,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "현수막,훼손지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010041",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204799.489500002,
+        "y" : 555530.80610000156
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 83070,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010042",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204785.3003000021,
+        "y" : 555517.42950000428
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 83071,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010043",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204778.97340000048,
+        "y" : 555514.50469999947
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 83072,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010044",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204758.78239999991,
+        "y" : 555524.89389999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 83073,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝,현수막",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010045",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204772.70080000069,
+        "y" : 555507.10520000197
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 83074,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010046",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204764.96590000018,
+        "y" : 555506.80310000107
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 83075,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "12",
+        "MANAGE_SP2" : "위험지역",
+        "DETAIL_SPO" : "통나무계단시작,위험지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010047",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204767.01650000084,
+        "y" : 555532.29439999722
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 83076,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010048",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204663.10039999988,
+        "y" : 555603.72520000115
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 83077,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010049",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204673.25470000133,
+        "y" : 555584.99830000289
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 83078,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010050",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204688.12150000129,
+        "y" : 555537.68420000188
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 83079,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010051",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204693.0178000005,
+        "y" : 555534.46230000257
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 83080,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010052",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204699.84540000092,
+        "y" : 555585.44120000117
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 83081,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010053",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204705.91559999995,
+        "y" : 555575.51520000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 83082,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010054",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204711.60000000056,
+        "y" : 555532.33170000277
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 83083,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010055",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204722.272400002,
+        "y" : 555590.55150000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 83084,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010056",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204728.61810000148,
+        "y" : 555604.5810000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 83085,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010057",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204729.30810000189,
+        "y" : 555582.99330000021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 83086,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010058",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204729.69080000091,
+        "y" : 555486.13240000233
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 83087,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010059",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204730.28240000177,
+        "y" : 555605.5912000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 83088,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010060",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204736.03060000017,
+        "y" : 555539.45950000361
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 83089,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010061",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204743.04520000052,
+        "y" : 555576.29670000076
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 83090,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010062",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204745.80010000058,
+        "y" : 555499.3133000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 83091,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010063",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204747.45460000075,
+        "y" : 555470.61700000241
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 83092,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010064",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204749.17269999906,
+        "y" : 555458.65960000083
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 83093,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,훼손지시작,위험지시작,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010065",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204749.87550000194,
+        "y" : 555546.35070000216
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 83094,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,안내판",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010066",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204757.7675999999,
+        "y" : 555506.12160000391
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 83095,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010067",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204758.17819999997,
+        "y" : 555538.32710000128
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 83096,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010068",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204761.91870000027,
+        "y" : 555578.48139999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 83097,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010069",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204764.50650000013,
+        "y" : 555585.04100000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 83098,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기,현수막",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010070",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204770.61590000056,
+        "y" : 555543.34539999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 83099,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010071",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204773.77060000226,
+        "y" : 555598.63470000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 83100,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010072",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204775.38389999978,
+        "y" : 555474.5792000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 83101,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010073",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204798.6716,
+        "y" : 555579.16009999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 83102,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010074",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204799.06340000127,
+        "y" : 555549.25100000203
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 83103,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010075",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204811.39869999886,
+        "y" : 555633.53660000116
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 99470,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "철계단",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010076",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204737.04220000096,
+        "y" : 555539.17079999985
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 99471,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "암반지대끝, 위험지끝, 훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010077",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204687.52860000002,
+        "y" : 555543.19869999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 99472,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010078",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204663.77910000001,
+        "y" : 555603.40360000089
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 99473,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지끝, 위험지끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010079",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204700.67289999893,
+        "y" : 555584.91150000016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 99474,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "암반지대시작, 위험지시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010080",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204798.69410000101,
+        "y" : 555549.39299999923
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 99475,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "현수막",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010081",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204753.07300000073,
+        "y" : 555464.64440000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 99476,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "터닝트위스트, 역기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010082",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204705.98929999946,
+        "y" : 555568.69009999896
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 99477,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010083",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204705.91109999971,
+        "y" : 555575.94639999978
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 99478,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010084",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204722.43810000032,
+        "y" : 555591.38939999952
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 99479,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010085",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204757.75629999922,
+        "y" : 555507.10600000073
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 99480,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010086",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204747.94749999972,
+        "y" : 555548.19170000067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 99481,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지, 위험지역, 조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010087",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204727.61220000064,
+        "y" : 555578.03329999885
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 99482,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010088",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204764.59520000085,
+        "y" : 555585.19920000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 99483,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "목계단끝, 제사장터, 통나무계단시작, 훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010089",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204761.93490000034,
+        "y" : 555577.59710000048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "PMNTN_SPOT" : 99484,
+        "MNTN_CODE" : "112300301",
+        "MANAGE_SP1" : "14",
+        "MANAGE_SP2" : "조망점",
+        "DETAIL_SPO" : "조망점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "천장산",
+        "PAST_SPOT_" : "1123003010090",
+        "MNTN_ID" : "112300301"
+      },
+      "geometry" : {
+        "x" : 204800.28960000086,
+        "y" : 555542.37949999981
+      }
+    }
+  ]
+}

@@ -1,0 +1,675 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "SAFE_SPOT1" : "SAFE_SPOT1",
+    "SAFE_SPOT2" : "SAFE_SPOT2",
+    "SAFE_SPOT3" : "SAFE_SPOT3",
+    "MGC" : "MGC",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "SAFE_SPOT1",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "SAFE_SPOT1"
+    },
+    {
+      "name" : "SAFE_SPOT2",
+      "type" : "esriFieldTypeString",
+      "alias" : "SAFE_SPOT2",
+      "length" : 50
+    },
+    {
+      "name" : "SAFE_SPOT3",
+      "type" : "esriFieldTypeString",
+      "alias" : "SAFE_SPOT3",
+      "length" : 50
+    },
+    {
+      "name" : "MGC",
+      "type" : "esriFieldTypeString",
+      "alias" : "MGC",
+      "length" : 50
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "SAFE_SPOT1" : 2583,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-1",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "가양대교 북단 전방 70m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 188048.80649999995,
+        "y" : 552775.76469999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "SAFE_SPOT1" : 2584,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-2",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "가양대교 북단 전방 700m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 188576.57980000041,
+        "y" : 552422.07750000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "SAFE_SPOT1" : 2585,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-3",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "난지미술창작스튜디오 앞 20m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 189314.61950000096,
+        "y" : 552037.07410000265
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "SAFE_SPOT1" : 2586,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-4",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "하늘공원 한강 하류",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 190088.74160000216,
+        "y" : 551476.73189999908
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "SAFE_SPOT1" : 2587,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-5",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "난지유아 숲체험장 옆",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 190460.16050000023,
+        "y" : 551774.85579999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "SAFE_SPOT1" : 2588,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-6",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "월드컵경기장역3번출구 전방 100m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191148.18790000025,
+        "y" : 552410.05790000223
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "SAFE_SPOT1" : 2589,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-7",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산교 전방 40m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191466.03900000174,
+        "y" : 553095.63450000249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "SAFE_SPOT1" : 2590,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-8",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산 인우아파트 후방 40m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191894.11400000099,
+        "y" : 553645.70930000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "SAFE_SPOT1" : 2591,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-9",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산체육공원 화장실 전방 100m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191309.73639999982,
+        "y" : 553985.92640000209
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "SAFE_SPOT1" : 2592,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-10",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산체육공원 화장실 전방 200m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191349.58780000079,
+        "y" : 554086.88460000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "SAFE_SPOT1" : 2593,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-11",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산체육공원 화장실 전방 490m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191421.37440000009,
+        "y" : 554323.21630000137
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "SAFE_SPOT1" : 2594,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-12",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산체육공원 화장실 전방 600m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191323.39600000158,
+        "y" : 554378.81260000169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "SAFE_SPOT1" : 2595,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-13",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산체육공원 화장실 전방 820m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191145.10470000003,
+        "y" : 554487.77009999938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "SAFE_SPOT1" : 2596,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-14",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산체육공원 화장실 전방 890m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191126.64199999906,
+        "y" : 554566.59190000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "SAFE_SPOT1" : 2597,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-15",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산체육공원 화장실 전방 1130m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191080.94900000002,
+        "y" : 554783.06939999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "SAFE_SPOT1" : 2598,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-16",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산체육공원 화장실 전방 1230m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191134.91089999955,
+        "y" : 554866.25320000201
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "SAFE_SPOT1" : 2599,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-17",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "증산체육공원 화장실 전방 1530m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191336.47850000113,
+        "y" : 555065.82040000148
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "SAFE_SPOT1" : 2600,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-18",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 후방 380m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191273.11369999964,
+        "y" : 555275.65610000119
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "SAFE_SPOT1" : 2601,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-19",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 후방 340m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191269.62920000125,
+        "y" : 555321.16530000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "SAFE_SPOT1" : 2602,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-20",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 후방 230m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191294.45980000123,
+        "y" : 555419.91940000281
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "SAFE_SPOT1" : 2603,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-21",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 내",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191231.18450000044,
+        "y" : 555710.77750000171
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "SAFE_SPOT1" : 2604,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-22",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 내",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191339.23819999956,
+        "y" : 556016.99390000105
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "SAFE_SPOT1" : 2605,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-23",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 전방 60m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191317.42630000133,
+        "y" : 556268.96209999919
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "SAFE_SPOT1" : 2606,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-24",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 전방 700m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191281.02190000098,
+        "y" : 556917.17760000378
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "SAFE_SPOT1" : 2607,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-25",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 전방 1000m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191330.76810000092,
+        "y" : 557205.6977000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "SAFE_SPOT1" : 2608,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-26",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 전방 1250m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191361.00780000072,
+        "y" : 557417.6558000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "SAFE_SPOT1" : 2609,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-27",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 전방 1350m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191411.42399999965,
+        "y" : 557506.39490000159
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "SAFE_SPOT1" : 2610,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-28",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "봉산공원 전방 1550m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191464.57120000012,
+        "y" : 557676.15379999951
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "SAFE_SPOT1" : 2611,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-29",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서오릉로 횡단보 후방 100m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191519.44110000134,
+        "y" : 557805.9550999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "SAFE_SPOT1" : 2612,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-30",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서오릉로 횡단보도 지점",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191423.27130000107,
+        "y" : 557863.76860000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "SAFE_SPOT1" : 2613,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-31",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서오릉로 횡단보 전방 30m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191445.36390000023,
+        "y" : 557884.83380000107
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "SAFE_SPOT1" : 2614,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-32",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서오릉로 횡단보 전방 100m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191499.18810000084,
+        "y" : 557857.03100000136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "SAFE_SPOT1" : 2615,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-33",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서오릉로 횡단보 전방 500m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191812.78190000076,
+        "y" : 558046.50720000081
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "SAFE_SPOT1" : 2616,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-34",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "서오릉로 횡단보 전방 860m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191799.85170000233,
+        "y" : 558361.73020000197
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "SAFE_SPOT1" : 2617,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-35",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "응봉산공원 후방 20m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191974.12609999999,
+        "y" : 558740.03399999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "SAFE_SPOT1" : 2618,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-36",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "앵봉산 끝부분 후방 1690m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 191961.81410000008,
+        "y" : 558787.77140000463
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "SAFE_SPOT1" : 2619,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-37",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "앵봉산 끝부분 후방 620m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 192126.7583000008,
+        "y" : 559582.29899999872
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "SAFE_SPOT1" : 2620,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-38",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "앵봉산 끝부분 후방 520m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 192120.67260000203,
+        "y" : 559679.97580000199
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "SAFE_SPOT1" : 2621,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-39",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "앵봉산 끝부분 후방 150m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 192418.1305000009,
+        "y" : 559688.5773000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "SAFE_SPOT1" : 2622,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-40",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "앵봉산 끝부분 후방 120m",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 192428.67650000006,
+        "y" : 559638.62230000459
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "SAFE_SPOT1" : 2623,
+        "SAFE_SPOT2" : "고유식별번호판",
+        "SAFE_SPOT3" : "7-41",
+        "MGC" : "서울소방본부",
+        "ETC_MATTER" : "앵봉산 끝부분(구파발)",
+        "MNTN_NM" : "봉산앵봉산"
+      },
+      "geometry" : {
+        "x" : 192471.87160000019,
+        "y" : 559578.64840000123
+      }
+    }
+  ]
+}

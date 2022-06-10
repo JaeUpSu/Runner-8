@@ -1,0 +1,693 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 7736,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040001",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194829.95029999968,
+        "y" : 539094.92920000106
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 7737,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040002",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194600.90400000103,
+        "y" : 538841.85770000145
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 7738,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040003",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195042.29739999957,
+        "y" : 539405.97980000265
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 7739,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040004",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194497.10110000055,
+        "y" : 538703.1072000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 7740,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "119 K15",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040005",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194500.14950000122,
+        "y" : 538127.9130000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 7741,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "제2광장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040006",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195124.112900001,
+        "y" : 539513.05150000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 7742,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040007",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194563.09430000186,
+        "y" : 538785.58779999986
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 7743,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "04",
+        "MANAGE_SP2" : "화장실",
+        "DETAIL_SPO" : "화장실",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040008",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195378.11840000004,
+        "y" : 540406.29680000059
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 7744,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "테니스장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040009",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195372.94390000124,
+        "y" : 540175.07800000161
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 7745,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "제1광장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040010",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195308.30209999997,
+        "y" : 539968.60500000045
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 7746,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "다리",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040011",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194456.44750000071,
+        "y" : 538572.42050000094
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 7747,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "게이틀볼장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040012",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195240.48379999958,
+        "y" : 539826.75040000118
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 7748,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040013",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194531.84979999997,
+        "y" : 538747.38800000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 7749,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040014",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194655.44379999954,
+        "y" : 538913.49480000138
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 7750,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단시작",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040015",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194944.72059999965,
+        "y" : 539167.20150000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 7751,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "계단끝",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040016",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194459.19430000056,
+        "y" : 538642.17559999973
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 7752,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040017",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194074.67890000157,
+        "y" : 539214.01880000159
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 7753,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040018",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194548.05610000063,
+        "y" : 539020.57050000131
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 7754,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040019",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194588.15330000129,
+        "y" : 538830.77050000243
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 7755,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040020",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194599.56350000203,
+        "y" : 539049.03270000219
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 7756,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040021",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194649.6174000008,
+        "y" : 538913.96729999967
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 7757,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040022",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194659.50389999989,
+        "y" : 539080.21680000238
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 7758,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040023",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194743.33440000098,
+        "y" : 537483.10820000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 7759,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040024",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194751.67190000042,
+        "y" : 537414.53079999797
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 7760,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040025",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195004.06960000098,
+        "y" : 539404.98729999922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 7761,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040026",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195055.47360000014,
+        "y" : 539420.55350000411
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 7762,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040027",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195066.34610000066,
+        "y" : 537857.49300000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 7763,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040028",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195130.11710000131,
+        "y" : 539525.43999999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 7764,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040029",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195321.32160000131,
+        "y" : 538597.627700001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 7765,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040030",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195396.10679999925,
+        "y" : 537934.51710000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 7766,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040031",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195397.93340000138,
+        "y" : 540492.17010000162
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 95978,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "정자, 벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040032",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195182.42340000017,
+        "y" : 539644.30150000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 95979,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040033",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 195004.4688000007,
+        "y" : 539221.98809999984
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 95980,
+        "MNTN_CODE" : "116200604",
+        "MANAGE_SP1" : "11",
+        "MANAGE_SP2" : "안내판또는지도",
+        "DETAIL_SPO" : "안내판또는지도",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "관악산446봉기점",
+        "PAST_SPOT_" : "1162006040034",
+        "MNTN_ID" : "116200604"
+      },
+      "geometry" : {
+        "x" : 194766.18519999945,
+        "y" : 539013.78079999995
+      }
+    }
+  ]
+}

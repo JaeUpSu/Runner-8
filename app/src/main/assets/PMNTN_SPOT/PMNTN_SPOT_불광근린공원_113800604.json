@@ -1,0 +1,1683 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 45440,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "윗몸일으키기,평행봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040001",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193895.3498999998,
+        "y" : 557913.26180000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 45441,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "신종운동기구,윗몸일으키기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040002",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193841.57660000026,
+        "y" : 557854.72969999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 45442,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "아미정,허리돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040003",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193770.53680000082,
+        "y" : 557666.04319999926
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 45443,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "미성아파트울타리,실외베드민턴장",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040004",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193812.3685999997,
+        "y" : 557368.11989999935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 45444,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040005",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193828.87110000197,
+        "y" : 557407.6640000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 45445,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "은평구립도서관",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040006",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193707.79530000221,
+        "y" : 557728.62539999932
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 45446,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉,역기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040007",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193949.96510000061,
+        "y" : 557909.66800000146
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 45447,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "16",
+        "MANAGE_SP2" : "주요나무",
+        "DETAIL_SPO" : "함박꽃나무",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040008",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193864.78290000092,
+        "y" : 557575.54750000127
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 45448,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040009",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193557.19390000217,
+        "y" : 557663.98369999975
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 45449,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040010",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193611.51549999975,
+        "y" : 557598.87830000184
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 45450,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040011",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193638.16849999968,
+        "y" : 557537.1005000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 45451,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040012",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193694.50850000139,
+        "y" : 557421.99870000221
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 45452,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040013",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193700.49920000136,
+        "y" : 557680.19020000286
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 45453,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040014",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193706.37100000028,
+        "y" : 557792.03170000017
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 45454,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040015",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193706.50390000083,
+        "y" : 557684.62310000136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 45455,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040016",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193717.07770000212,
+        "y" : 557752.23570000194
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 45456,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040017",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193739.80440000072,
+        "y" : 557548.23430000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 45457,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040018",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193739.82770000119,
+        "y" : 557539.83359999955
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 45458,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040019",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193748.88790000044,
+        "y" : 557611.77630000189
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 45459,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040020",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193762.23830000125,
+        "y" : 557650.03820000216
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 45460,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040021",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193770.71499999985,
+        "y" : 557666.92780000158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 45461,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040022",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193770.87789999973,
+        "y" : 557401.10229999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 45462,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040023",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193773.72970000096,
+        "y" : 557680.28470000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 45463,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040024",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193778.09390000068,
+        "y" : 557697.92860000394
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 45464,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040025",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193780.91100000031,
+        "y" : 557398.91780000366
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 45465,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040026",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193782.91550000198,
+        "y" : 557713.20940000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 45466,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040027",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193786.98799999896,
+        "y" : 557538.9421999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 45467,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040028",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193800.41900000069,
+        "y" : 557518.86549999937
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 45468,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040029",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193801.8320000004,
+        "y" : 557391.56370000169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 45469,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040030",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193803.94460000098,
+        "y" : 557424.13960000314
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 45470,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040031",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193804.26979999989,
+        "y" : 557542.36209999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 45471,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040032",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193805.1353000002,
+        "y" : 557403.25340000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 45472,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040033",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193808.02869999874,
+        "y" : 557571.62660000101
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 45473,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040034",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193808.17970000021,
+        "y" : 557414.43560000136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 45474,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040035",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193810.09979999997,
+        "y" : 557461.32840000279
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 45475,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040036",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193815.17879999988,
+        "y" : 557761.55880000256
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 45476,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040037",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193815.95990000106,
+        "y" : 557420.58620000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 45477,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040038",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193816.4765000008,
+        "y" : 557498.00549999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 45478,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040039",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193824.77480000071,
+        "y" : 557611.90810000151
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 45479,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040040",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193827.78200000152,
+        "y" : 557415.86080000177
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 45480,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040041",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193831.09630000032,
+        "y" : 557404.6202000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 45481,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040042",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193832.71580000129,
+        "y" : 557800.85319999978
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 45482,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040043",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193837.16950000077,
+        "y" : 557441.13010000251
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 45483,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040044",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193839.39149999991,
+        "y" : 557433.96500000171
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 45484,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040045",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193839.62860000227,
+        "y" : 557521.02309999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 45485,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040046",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193840.32660000212,
+        "y" : 557855.59580000117
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 45486,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040047",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193844.71760000195,
+        "y" : 557769.80010000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 45487,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040048",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193846.43240000214,
+        "y" : 557547.97760000266
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 45488,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040049",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193852.03050000221,
+        "y" : 557567.84150000103
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 45489,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040050",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193855.59179999959,
+        "y" : 557675.03150000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 45490,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040051",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193856.68850000016,
+        "y" : 557497.30580000207
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 45491,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040052",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193861.39380000066,
+        "y" : 558045.19450000115
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 45492,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040053",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193861.75270000007,
+        "y" : 557665.03330000117
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 45493,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040054",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193865.8571000006,
+        "y" : 557568.29289999977
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 45494,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040055",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193878.97910000198,
+        "y" : 557849.79000000097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 45495,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040056",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193879.67470000125,
+        "y" : 557880.00570000149
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 45496,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040057",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193880.16029999964,
+        "y" : 557784.11330000125
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 45497,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040058",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193880.40830000024,
+        "y" : 557550.71550000273
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 45498,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040059",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193885.09380000085,
+        "y" : 557452.03490000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 45499,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040060",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193885.42679999955,
+        "y" : 557595.26000000164
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 45500,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040061",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193890.87069999985,
+        "y" : 557910.2229999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 45501,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040062",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193898.66019999981,
+        "y" : 557735.93439999968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 45502,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040063",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193906.72780000139,
+        "y" : 557598.79040000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 45503,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040064",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193908.44139999989,
+        "y" : 558025.7722000014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 45504,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040065",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193913.8554000007,
+        "y" : 557679.77030000277
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 45505,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040066",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193914.60280000046,
+        "y" : 557873.20360000245
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 45506,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040067",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193915.90010000207,
+        "y" : 557803.81499999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 45507,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040068",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193921.82160000037,
+        "y" : 557924.93450000137
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 45508,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040069",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193930.17650000099,
+        "y" : 557619.54719999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 45509,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040070",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193937.87569999974,
+        "y" : 557952.76840000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 45510,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040071",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193940.49220000021,
+        "y" : 557552.76710000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 45511,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040072",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193959.23089999985,
+        "y" : 557981.31470000185
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 45512,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040073",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193780.03240000177,
+        "y" : 557717.10960000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 97270,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040074",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193938.04539999936,
+        "y" : 557952.03329999815
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 97271,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040075",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193923.2553000006,
+        "y" : 557924.59090000042
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 97272,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "시설물(운동기구등)",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040076",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193835.65250000064,
+        "y" : 557819.31750000094
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 97273,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040077",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193832.80449999965,
+        "y" : 557800.73220000067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 97274,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "03",
+        "MANAGE_SP2" : "정자",
+        "DETAIL_SPO" : "아미정",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040078",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193759.76140000016,
+        "y" : 557644.96130000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 97275,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "기타건물",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040079",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193748.44410000017,
+        "y" : 557612.02779999876
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 97276,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040080",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193787.03229999956,
+        "y" : 557538.75620000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 97277,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040081",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193813.15859999965,
+        "y" : 557454.86060000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 97278,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040082",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193804.12860000026,
+        "y" : 557422.78119999915
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 97279,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "허리돌리기",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040083",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193827.75849999988,
+        "y" : 557414.04670000076
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 97280,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040084",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193885.81120000055,
+        "y" : 557591.93319999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 97281,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "09",
+        "MANAGE_SP2" : "기타건물",
+        "DETAIL_SPO" : "은평구립도서관",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040085",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193715.80420000094,
+        "y" : 557750.90939999942
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 97282,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "08",
+        "MANAGE_SP2" : "가로등",
+        "DETAIL_SPO" : "가로등",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040086",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193955.07940000095,
+        "y" : 557992.32159999933
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 97283,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "07",
+        "MANAGE_SP2" : "시설물(운동기구 등)",
+        "DETAIL_SPO" : "철봉",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040087",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193915.62009999927,
+        "y" : 557875.9509999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 97284,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "05",
+        "MANAGE_SP2" : "벤치",
+        "DETAIL_SPO" : "벤치",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040088",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193809.0908000014,
+        "y" : 557576.75170000095
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 97285,
+        "MNTN_CODE" : "113800604",
+        "MANAGE_SP1" : "15",
+        "MANAGE_SP2" : "훼손지",
+        "DETAIL_SPO" : "훼손지",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "불광근린공원",
+        "PAST_SPOT_" : "1138006040089",
+        "MNTN_ID" : "113800604"
+      },
+      "geometry" : {
+        "x" : 193810.66560000062,
+        "y" : 557426.28360000101
+      }
+    }
+  ]
+}

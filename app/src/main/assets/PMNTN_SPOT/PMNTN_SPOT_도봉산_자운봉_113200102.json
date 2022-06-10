@@ -1,0 +1,4203 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 22405,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010001",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 197481.48260000348,
+        "y" : 567649.51940000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 22406,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010002",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 197802.16100000031,
+        "y" : 568773.54670000263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 22407,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010003",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 198426.98790000193,
+        "y" : 568099.13030000404
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 22408,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010004",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 198433.5998000009,
+        "y" : 568274.34630000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 22409,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010005",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 198460.24140000064,
+        "y" : 568421.36869999953
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 22410,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010006",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 199424.06190000288,
+        "y" : 569063.45590000413
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 22411,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010007",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 199594.5680000009,
+        "y" : 567814.04640000127
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 22412,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010008",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 199629.06340000406,
+        "y" : 567903.19250000268
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 22413,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010009",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 199725.29449999984,
+        "y" : 566959.49210000224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 22414,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010010",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 199764.35800000373,
+        "y" : 564941.65510000288
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 22415,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010011",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 199983.02620000113,
+        "y" : 567486.05570000224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 22416,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010012",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200007.23810000159,
+        "y" : 566294.07469999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 22417,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010013",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200119.64080000017,
+        "y" : 566442.84300000407
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 22418,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010014",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200129.55869999994,
+        "y" : 566346.9701000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 22419,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010015",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200168.1856000023,
+        "y" : 567930.55370000377
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 22420,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010016",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200198.98390000127,
+        "y" : 566403.17139999941
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 22421,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010017",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200207.02800000086,
+        "y" : 566407.18219999969
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 22422,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010018",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200234.05819999985,
+        "y" : 568259.30749999732
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 22423,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010019",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200384.11789999995,
+        "y" : 566383.33559999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 22424,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010020",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200394.03570000082,
+        "y" : 566303.99250000156
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 22425,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010021",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200439.28150000051,
+        "y" : 567185.55020000041
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 22426,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010022",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 200520.55489999987,
+        "y" : 563633.31450000219
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 22427,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010023",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200645.07269999944,
+        "y" : 565044.33929999918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 22428,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010024",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200651.90080000088,
+        "y" : 566317.2164000012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 22429,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010025",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200700.36419999972,
+        "y" : 565064.08630000241
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 22430,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010026",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200703.8602,
+        "y" : 565650.63080000132
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 22431,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010027",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200724.87890000362,
+        "y" : 565623.04210000113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 22432,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010028",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 200731.95940000098,
+        "y" : 564921.90810000151
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 22433,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010029",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200740.38580000214,
+        "y" : 565774.80090000108
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 22434,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010030",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 200743.80759999994,
+        "y" : 564566.4627000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 22435,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010031",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 200775.40270000137,
+        "y" : 564546.71580000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 22436,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010032",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200779.35209999979,
+        "y" : 565083.83330000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 22437,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010033",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200784.13930000365,
+        "y" : 566998.24469999969
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 22438,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010034",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200785.09300000034,
+        "y" : 568072.00260000303
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 22439,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010035",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 200786.5856000036,
+        "y" : 564445.95700000226
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 22440,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010036",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200787.25090000033,
+        "y" : 565214.16330000199
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 22441,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010037",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200787.74010000005,
+        "y" : 565326.37239999883
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 22442,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010038",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200812.28360000253,
+        "y" : 566230.32720000111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 22443,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010039",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200826.74480000138,
+        "y" : 564586.2097000014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 22444,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010040",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200829.18250000011,
+        "y" : 566214.62490000203
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 22445,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010041",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200838.59300000034,
+        "y" : 565079.88389999978
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 22446,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010042",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 200843.04269999918,
+        "y" : 563057.61439999938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 22447,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010043",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200854.88460000139,
+        "y" : 566186.70150000229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 22448,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010044",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 200866.23880000319,
+        "y" : 564400.58820000105
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 22449,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010045",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200870.09440000076,
+        "y" : 566264.32100000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 22450,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010046",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200889.43070000224,
+        "y" : 565151.78270000219
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 22451,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010047",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200893.88450000063,
+        "y" : 564890.31299999915
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 22452,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010048",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200909.76590000093,
+        "y" : 566313.91040000133
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 22453,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010049",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 200917.58090000413,
+        "y" : 564270.25820000283
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 22454,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010050",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200921.53030000255,
+        "y" : 565123.32719999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 22455,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010051",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200937.8263000017,
+        "y" : 564440.16620000079
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 22456,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010052",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 200972.87240000069,
+        "y" : 563041.99680000171
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 22457,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010053",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 200973.36950000096,
+        "y" : 563166.9626000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 22458,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010054",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 200982.59800000023,
+        "y" : 566442.76110000163
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 22459,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010055",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 200988.66999999993,
+        "y" : 564783.67940000445
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 22460,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010056",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 201026.09590000007,
+        "y" : 564350.08390000276
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 22461,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010057",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201036.06270000059,
+        "y" : 564404.53759999946
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 22462,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010058",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201051.26040000096,
+        "y" : 566185.25610000081
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 22463,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010059",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201052.63930000365,
+        "y" : 564415.51200000383
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 22464,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010060",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 201071.00449999981,
+        "y" : 563400.28380000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 22465,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010061",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201096.09250000026,
+        "y" : 565857.74709999934
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 22466,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010062",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201101.51180000044,
+        "y" : 566373.41779999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 22467,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010063",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 201102.25640000217,
+        "y" : 566505.93490000442
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 22468,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010064",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 201131.90990000125,
+        "y" : 562978.47400000133
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 22469,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010065",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201141.07160000037,
+        "y" : 566091.63710000552
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 22470,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010066",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201146.64570000023,
+        "y" : 564803.4263000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 22471,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010067",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201153.89810000267,
+        "y" : 566042.16359999962
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 22472,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010068",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201163.8991000019,
+        "y" : 568274.63130000234
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 22473,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010069",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201194.07870000135,
+        "y" : 566532.10400000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 22474,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010070",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201211.76219999976,
+        "y" : 566260.42220000178
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 22475,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010071",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201212.53330000117,
+        "y" : 565395.34400000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 22476,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010072",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201219.37050000206,
+        "y" : 566264.96340000257
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 22477,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010073",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 201219.86270000134,
+        "y" : 562593.68040000461
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 22478,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010074",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201229.5830000015,
+        "y" : 565111.47900000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 22479,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010075",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 201237.78560000286,
+        "y" : 563901.30089999922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 22480,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010076",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201238.79550000187,
+        "y" : 566267.1548999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 22481,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010077",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201287.45569999982,
+        "y" : 565593.54580000229
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 22482,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010078",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201303.69360000361,
+        "y" : 566638.50320000201
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 22483,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010079",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201313.86440000031,
+        "y" : 564879.72969999909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 22484,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010080",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201323.01130000222,
+        "y" : 566608.14110000059
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 22485,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010081",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201346.1530000018,
+        "y" : 566571.77549999766
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 22486,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010082",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 201361.21470000222,
+        "y" : 567015.32840000093
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 22487,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010083",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 201365.98880000133,
+        "y" : 567024.69240000285
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 22488,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010084",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 201372.93530000187,
+        "y" : 566984.02700000256
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 22489,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4163006010085",
+        "MNTN_ID" : "416300601"
+      },
+      "geometry" : {
+        "x" : 201376.95850000251,
+        "y" : 567051.81010000408
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 22490,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010086",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201389.33450000081,
+        "y" : 566821.44560000114
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 22491,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010087",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201391.508100003,
+        "y" : 565470.87380000204
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 22492,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010088",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201395.7424000036,
+        "y" : 566869.31220000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 22493,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010089",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201398.0903000012,
+        "y" : 566891.81430000253
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "PMNTN_SPOT" : 22494,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010090",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201409.53420000058,
+        "y" : 566478.02260000817
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "PMNTN_SPOT" : 22495,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010091",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201419.1539000012,
+        "y" : 565478.77260000445
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "PMNTN_SPOT" : 22496,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010092",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201458.55570000224,
+        "y" : 566237.87330000289
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "PMNTN_SPOT" : 22497,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010093",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201458.55570000038,
+        "y" : 566932.12550000101
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "PMNTN_SPOT" : 22498,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010094",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 201461.73290000204,
+        "y" : 563689.42590000108
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "PMNTN_SPOT" : 22499,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010095",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201468.98120000307,
+        "y" : 565891.62010000087
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "PMNTN_SPOT" : 22500,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010096",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201471.7796000028,
+        "y" : 566895.75990000181
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 96,
+        "PMNTN_SPOT" : 22501,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010097",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201481.12280000187,
+        "y" : 566919.34730000421
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 97,
+        "PMNTN_SPOT" : 22502,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010098",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201481.88879999984,
+        "y" : 562441.59539999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 98,
+        "PMNTN_SPOT" : 22503,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010099",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201491.61540000234,
+        "y" : 566816.41679999791
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 99,
+        "PMNTN_SPOT" : 22504,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010100",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201494.50100000203,
+        "y" : 566054.7405999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 100,
+        "PMNTN_SPOT" : 22505,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010101",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201524.10580000374,
+        "y" : 566024.30910000205
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 101,
+        "PMNTN_SPOT" : 22506,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010102",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201524.8114000028,
+        "y" : 565796.90899999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 102,
+        "PMNTN_SPOT" : 22507,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010103",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201542.18810000364,
+        "y" : 565508.8393000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 103,
+        "PMNTN_SPOT" : 22508,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010104",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201546.02099999972,
+        "y" : 565750.82000000216
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 104,
+        "PMNTN_SPOT" : 22509,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1130501010105",
+        "MNTN_ID" : "113050101"
+      },
+      "geometry" : {
+        "x" : 201547.85340000037,
+        "y" : 563506.19089999981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 105,
+        "PMNTN_SPOT" : 22510,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010106",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201565.28139999975,
+        "y" : 564080.6873000022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 106,
+        "PMNTN_SPOT" : 22511,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010107",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201565.28140000254,
+        "y" : 565462.97510000132
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 107,
+        "PMNTN_SPOT" : 22512,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010108",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201579.13379999995,
+        "y" : 566868.43700000085
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 108,
+        "PMNTN_SPOT" : 22513,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010109",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201593.66210000124,
+        "y" : 563464.04680000246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 109,
+        "PMNTN_SPOT" : 22514,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010110",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201597.40620000008,
+        "y" : 566862.70020000264
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 110,
+        "PMNTN_SPOT" : 22515,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010111",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201599.04009999894,
+        "y" : 566696.79600000381
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 111,
+        "PMNTN_SPOT" : 22516,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010112",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201600.71210000012,
+        "y" : 565953.56050000153
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 112,
+        "PMNTN_SPOT" : 22517,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010113",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201623.76429999992,
+        "y" : 566858.19790000655
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 113,
+        "PMNTN_SPOT" : 22518,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010114",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201625.21130000241,
+        "y" : 565098.56030000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 114,
+        "PMNTN_SPOT" : 22519,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010115",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201656.91350000072,
+        "y" : 567368.51250000298
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 115,
+        "PMNTN_SPOT" : 22520,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010116",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201660.44590000343,
+        "y" : 565462.1352000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 116,
+        "PMNTN_SPOT" : 22521,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010117",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201699.89099999983,
+        "y" : 567497.44510000013
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 117,
+        "PMNTN_SPOT" : 22522,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010118",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201705.12899999972,
+        "y" : 563515.942900002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 118,
+        "PMNTN_SPOT" : 22523,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010119",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201709.80890000146,
+        "y" : 567642.9074000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 119,
+        "PMNTN_SPOT" : 22524,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010120",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201718.94419999979,
+        "y" : 565530.32860000059
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 120,
+        "PMNTN_SPOT" : 22525,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010121",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201756.09240000136,
+        "y" : 567629.68360000104
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 121,
+        "PMNTN_SPOT" : 22526,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010122",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201769.31620000117,
+        "y" : 567530.50470000319
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 122,
+        "PMNTN_SPOT" : 22527,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010123",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201774.61739999987,
+        "y" : 565138.40539999865
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 123,
+        "PMNTN_SPOT" : 22528,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010124",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201782.54009999987,
+        "y" : 567666.04920000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 124,
+        "PMNTN_SPOT" : 22529,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010125",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201794.34620000329,
+        "y" : 565462.97510000132
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 125,
+        "PMNTN_SPOT" : 22530,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010126",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201813.54420000408,
+        "y" : 563548.3348999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 126,
+        "PMNTN_SPOT" : 22531,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010127",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201844.69409999996,
+        "y" : 562718.28020000085
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 127,
+        "PMNTN_SPOT" : 22532,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010128",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201855.27130000014,
+        "y" : 566436.23100000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 128,
+        "PMNTN_SPOT" : 22533,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010129",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201857.53650000039,
+        "y" : 565150.97300000116
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 129,
+        "PMNTN_SPOT" : 22534,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010130",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201863.01760000177,
+        "y" : 562452.5895000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 130,
+        "PMNTN_SPOT" : 22535,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010131",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201865.18910000101,
+        "y" : 567312.31120000407
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 131,
+        "PMNTN_SPOT" : 22536,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010132",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201868.49509999994,
+        "y" : 567745.39230000414
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 132,
+        "PMNTN_SPOT" : 22537,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010133",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201894.54000000097,
+        "y" : 566222.92760000192
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 133,
+        "PMNTN_SPOT" : 22538,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010134",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201918.09810000099,
+        "y" : 566702.21490000375
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 134,
+        "PMNTN_SPOT" : 22539,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010135",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201925.81379999965,
+        "y" : 566700.01549999975
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 135,
+        "PMNTN_SPOT" : 22540,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010136",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201944.7564000003,
+        "y" : 562816.98819999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 136,
+        "PMNTN_SPOT" : 22541,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010137",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201961.96850000322,
+        "y" : 567287.20840000175
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 137,
+        "PMNTN_SPOT" : 22542,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010138",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201977.05340000056,
+        "y" : 567645.42500000261
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 138,
+        "PMNTN_SPOT" : 22543,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010139",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201978.45570000168,
+        "y" : 563530.01140000112
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 139,
+        "PMNTN_SPOT" : 22544,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010140",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 201978.61870000139,
+        "y" : 562657.79399999976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 140,
+        "PMNTN_SPOT" : 22545,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010141",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201994.01490000077,
+        "y" : 566689.81980000436
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 141,
+        "PMNTN_SPOT" : 22546,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010142",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202009.24820000399,
+        "y" : 565990.17589999922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 142,
+        "PMNTN_SPOT" : 22547,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010143",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202033.79320000019,
+        "y" : 567054.44610000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 143,
+        "PMNTN_SPOT" : 22548,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010144",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202037.09090000298,
+        "y" : 563597.80839999951
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 144,
+        "PMNTN_SPOT" : 22549,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010145",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202062.38320000004,
+        "y" : 567851.13479999825
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 145,
+        "PMNTN_SPOT" : 22550,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010146",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202068.24090000056,
+        "y" : 567517.20560000278
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 146,
+        "PMNTN_SPOT" : 22551,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010147",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202093.53220000025,
+        "y" : 567879.45490000211
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 147,
+        "PMNTN_SPOT" : 22552,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010148",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202127.70330000017,
+        "y" : 562434.36319999956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 148,
+        "PMNTN_SPOT" : 22553,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010149",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202128.70840000082,
+        "y" : 563035.27679999918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 149,
+        "PMNTN_SPOT" : 22554,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010150",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202133.9941000035,
+        "y" : 565380.03780000284
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 150,
+        "PMNTN_SPOT" : 22555,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010151",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202185.51130000036,
+        "y" : 567504.37919999845
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 151,
+        "PMNTN_SPOT" : 22556,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010152",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202185.8674999997,
+        "y" : 567867.71289999969
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 152,
+        "PMNTN_SPOT" : 22557,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010153",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202252.5942000011,
+        "y" : 563692.15940000117
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 153,
+        "PMNTN_SPOT" : 22558,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010154",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202282.86710000224,
+        "y" : 562989.26980000362
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 154,
+        "PMNTN_SPOT" : 22559,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010155",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202291.78760000225,
+        "y" : 567398.10290000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 155,
+        "PMNTN_SPOT" : 22560,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010156",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202317.50930000376,
+        "y" : 566728.23100000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 156,
+        "PMNTN_SPOT" : 22561,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010157",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202330.26690000016,
+        "y" : 565917.56380000152
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 157,
+        "PMNTN_SPOT" : 22562,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010158",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202363.0588999996,
+        "y" : 565068.03570000269
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 158,
+        "PMNTN_SPOT" : 22563,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010159",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202376.60369999986,
+        "y" : 565041.30900000036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 159,
+        "PMNTN_SPOT" : 22564,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010160",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202408.20390000381,
+        "y" : 563243.94070000388
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 160,
+        "PMNTN_SPOT" : 22565,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010161",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202436.54330000374,
+        "y" : 562820.89190000109
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 161,
+        "PMNTN_SPOT" : 22566,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010162",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202440.2080000015,
+        "y" : 567530.03210000135
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 162,
+        "PMNTN_SPOT" : 22567,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010163",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202442.58000000287,
+        "y" : 565425.32730000094
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 163,
+        "PMNTN_SPOT" : 22568,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010164",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202451.64580000099,
+        "y" : 566782.10869999789
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 164,
+        "PMNTN_SPOT" : 22569,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010165",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202473.92999999877,
+        "y" : 565365.94170000218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 165,
+        "PMNTN_SPOT" : 22570,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010166",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202498.84180000145,
+        "y" : 565356.1660999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 166,
+        "PMNTN_SPOT" : 22571,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010167",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202511.07940000203,
+        "y" : 565018.42510000244
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 167,
+        "PMNTN_SPOT" : 22572,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010168",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202517.16670000181,
+        "y" : 564422.36600000039
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 168,
+        "PMNTN_SPOT" : 22573,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010169",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202523.075699999,
+        "y" : 567520.58680000342
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 169,
+        "PMNTN_SPOT" : 22574,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010170",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202524.49610000104,
+        "y" : 564283.10740000382
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 170,
+        "PMNTN_SPOT" : 22575,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010171",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202536.29960000049,
+        "y" : 567778.45189999975
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 171,
+        "PMNTN_SPOT" : 22576,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010172",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202536.29960000236,
+        "y" : 567940.44409999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 172,
+        "PMNTN_SPOT" : 22577,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010173",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202548.68039999995,
+        "y" : 565123.32719999924
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 173,
+        "PMNTN_SPOT" : 22578,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010174",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202566.0532000009,
+        "y" : 567722.25049999915
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 174,
+        "PMNTN_SPOT" : 22579,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010175",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202571.1185999997,
+        "y" : 564446.64400000125
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 175,
+        "PMNTN_SPOT" : 22580,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010176",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202590.246199999,
+        "y" : 564586.5351000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 176,
+        "PMNTN_SPOT" : 22581,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010177",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202602.8546000002,
+        "y" : 566591.48640000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 177,
+        "PMNTN_SPOT" : 22582,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010178",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202605.94660000131,
+        "y" : 564164.11079999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 178,
+        "PMNTN_SPOT" : 22583,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010179",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202632.00330000184,
+        "y" : 567679.51319999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 179,
+        "PMNTN_SPOT" : 22584,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010180",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202655.31419999991,
+        "y" : 566171.75400000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 180,
+        "PMNTN_SPOT" : 22585,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010181",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202659.21750000399,
+        "y" : 566858.4355999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 181,
+        "PMNTN_SPOT" : 22586,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010182",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202669.57259999961,
+        "y" : 566107.74650000222
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 182,
+        "PMNTN_SPOT" : 22587,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010183",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202670.33959999867,
+        "y" : 564920.01140000112
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 183,
+        "PMNTN_SPOT" : 22588,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010184",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202682.80040000007,
+        "y" : 564381.00520000048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 184,
+        "PMNTN_SPOT" : 22589,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010185",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202700.40170000214,
+        "y" : 567689.44650000148
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 185,
+        "PMNTN_SPOT" : 22590,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010186",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202741.26930000167,
+        "y" : 565738.67290000059
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 186,
+        "PMNTN_SPOT" : 22591,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010187",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202746.51059999969,
+        "y" : 564317.43139999919
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 187,
+        "PMNTN_SPOT" : 22592,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010188",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202768.96860000305,
+        "y" : 564325.96029999852
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 188,
+        "PMNTN_SPOT" : 22593,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010189",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202779.19280000031,
+        "y" : 564918.93290000036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 189,
+        "PMNTN_SPOT" : 22594,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010190",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202784.24680000078,
+        "y" : 567537.11660000123
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 190,
+        "PMNTN_SPOT" : 22595,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010191",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202804.84570000228,
+        "y" : 567716.93180000409
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 191,
+        "PMNTN_SPOT" : 22596,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010192",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202809.3404000001,
+        "y" : 564088.58610000089
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 192,
+        "PMNTN_SPOT" : 22597,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010193",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202819.86050000414,
+        "y" : 568761.26270000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 193,
+        "PMNTN_SPOT" : 22598,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010194",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202823.16920000128,
+        "y" : 564860.29770000093
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 194,
+        "PMNTN_SPOT" : 22599,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010195",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202828.01520000119,
+        "y" : 567549.50110000372
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 195,
+        "PMNTN_SPOT" : 22600,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010196",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202840.96999999974,
+        "y" : 564079.64110000059
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 196,
+        "PMNTN_SPOT" : 22601,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010197",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202858.23089999985,
+        "y" : 566439.23389999941
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 197,
+        "PMNTN_SPOT" : 22602,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010198",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202873.40450000111,
+        "y" : 565381.83559999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 198,
+        "PMNTN_SPOT" : 22603,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010199",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202892.00050000194,
+        "y" : 563803.03170000389
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 199,
+        "PMNTN_SPOT" : 22604,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010200",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202909.87339999992,
+        "y" : 567504.05700000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 200,
+        "PMNTN_SPOT" : 22605,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010201",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 202942.93609999958,
+        "y" : 565811.90090000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 201,
+        "PMNTN_SPOT" : 22606,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010202",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 202989.862900001,
+        "y" : 565829.74239999801
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 202,
+        "PMNTN_SPOT" : 22607,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010203",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203068.5596000012,
+        "y" : 567381.73640000261
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 203,
+        "PMNTN_SPOT" : 22608,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010204",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203081.70779999997,
+        "y" : 567738.56299999915
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 204,
+        "PMNTN_SPOT" : 22609,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010205",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203096.55700000096,
+        "y" : 565366.95869999938
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 205,
+        "PMNTN_SPOT" : 22610,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010206",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203099.85410000198,
+        "y" : 565127.82090000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 206,
+        "PMNTN_SPOT" : 22611,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010207",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203114.8431000011,
+        "y" : 567976.80969999917
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 207,
+        "PMNTN_SPOT" : 22612,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010208",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203121.65500000305,
+        "y" : 565250.44470000267
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 208,
+        "PMNTN_SPOT" : 22613,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010209",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203139.6725000022,
+        "y" : 565208.1464000009
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 209,
+        "PMNTN_SPOT" : 22614,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010210",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203151.15990000125,
+        "y" : 565516.27910000086
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 210,
+        "PMNTN_SPOT" : 22615,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010211",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203156.8870000001,
+        "y" : 565186.51749999821
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 211,
+        "PMNTN_SPOT" : 22616,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010212",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203197.33020000346,
+        "y" : 568019.19099999964
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 212,
+        "PMNTN_SPOT" : 22617,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010213",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203248.18800000288,
+        "y" : 564885.79500000179
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 213,
+        "PMNTN_SPOT" : 22618,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010214",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203257.7359000016,
+        "y" : 566320.24620000087
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 214,
+        "PMNTN_SPOT" : 22619,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010215",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203270.22330000065,
+        "y" : 567315.61710000224
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 215,
+        "PMNTN_SPOT" : 22620,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010216",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203306.29409999959,
+        "y" : 566307.81650000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 216,
+        "PMNTN_SPOT" : 22621,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010217",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203346.2603999991,
+        "y" : 566300.68659999967
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 217,
+        "PMNTN_SPOT" : 22622,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010218",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203395.84990000073,
+        "y" : 568181.77939999849
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 218,
+        "PMNTN_SPOT" : 22623,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010219",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203427.84479999915,
+        "y" : 565510.78210000135
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 219,
+        "PMNTN_SPOT" : 22624,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010220",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203441.24330000207,
+        "y" : 565261.55599999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 220,
+        "PMNTN_SPOT" : 22625,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010221",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203458.99470000062,
+        "y" : 566163.09880000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 221,
+        "PMNTN_SPOT" : 22626,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010222",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203532.28870000131,
+        "y" : 565052.69450000115
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 222,
+        "PMNTN_SPOT" : 22627,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010223",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203570.76810000092,
+        "y" : 565411.83520000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 223,
+        "PMNTN_SPOT" : 22628,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010224",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203673.55080000218,
+        "y" : 567404.87810000032
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 224,
+        "PMNTN_SPOT" : 22629,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010225",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203686.05140000023,
+        "y" : 564241.89830000326
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 225,
+        "PMNTN_SPOT" : 22630,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "1132001010226",
+        "MNTN_ID" : "113200101"
+      },
+      "geometry" : {
+        "x" : 203722.85310000088,
+        "y" : 564787.0036999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 226,
+        "PMNTN_SPOT" : 22631,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010227",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 203994.22910000011,
+        "y" : 567550.34050000273
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 227,
+        "PMNTN_SPOT" : 22632,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010228",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 204080.18420000095,
+        "y" : 566796.58099999838
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 228,
+        "PMNTN_SPOT" : 22633,
+        "MNTN_CODE" : "113200102",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "도봉산_자운봉",
+        "PAST_SPOT_" : "4115001010229",
+        "MNTN_ID" : "411500101"
+      },
+      "geometry" : {
+        "x" : 201955.96470000222,
+        "y" : 568685.97529999912
+      }
+    }
+  ]
+}

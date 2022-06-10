@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:orientation="vertical">
+
+    <ToggleButton
+        android:id="@+id/img_mapcousre"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:scaleType="fitXY"
+        android:textOff=""
+        android:textOn=""
+        android:checked="false"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:background="@drawable/course_selector"/>
+    <TextView
+        android:id="@+id/tv_mapcourse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:ems="5"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#2B2B2B"/>
+</LinearLayout>

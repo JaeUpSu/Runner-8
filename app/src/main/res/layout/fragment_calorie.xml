@@ -1,0 +1,288 @@
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_marginLeft="@dimen/pageMarginAndOffset"
+        android:layout_marginRight="@dimen/pageMarginAndOffset"
+        android:layout_marginTop="40dp"
+        android:background="#FAEAEA"
+        android:hapticFeedbackEnabled="false"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"></View>
+
+        <FrameLayout
+            android:layout_width="330dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <ProgressBar
+                android:id="@+id/kcal_bar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:max="2700"
+                android:progress="1000"
+                android:progressDrawable="@drawable/progressbar_kcal">
+
+            </ProgressBar>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/progress"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="1000"
+                    android:textSize="40dp">
+
+                </TextView>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text=" / "
+                    android:textSize="40dp">
+
+                </TextView>
+
+                <TextView
+                    android:id="@+id/progress_max"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="2700"
+                    android:textSize="40dp">
+
+                </TextView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right|center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:text="[kcal]"
+                    android:textSize="15dp">
+
+                </TextView>
+
+            </LinearLayout>
+
+
+        </FrameLayout>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"></View>
+
+        <Button
+            android:id="@+id/search_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Search!!"
+            app:backgroundTint="#F15858"></Button>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="10dp"></View>
+
+        <LinearLayout
+            android:layout_width="330dp"
+            android:layout_height="match_parent"
+
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:weightSum="4">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/분식"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="분식"
+                    android:textAllCaps="true"
+                    android:textColor="#090808"
+                    android:textSize="24sp"
+                    android:textStyle="bold|italic"
+                    app:backgroundTint="#FFFFFF"></Button>
+
+                <View
+                    android:layout_width="5dp"
+                    android:layout_height="0dp"></View>
+
+                <Button
+                    android:id="@+id/양식"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="양식"
+                    android:textAllCaps="true"
+                    android:textColor="#090808"
+                    android:textSize="24sp"
+                    android:textStyle="bold|italic"
+                    app:backgroundTint="#FFFFFF"></Button>
+
+                <View
+                    android:layout_width="5dp"
+                    android:layout_height="0dp"></View>
+
+                <Button
+                    android:id="@+id/중식"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="중식"
+                    android:textAllCaps="true"
+                    android:textColor="#090808"
+                    android:textSize="24sp"
+                    android:textStyle="bold|italic"
+                    app:backgroundTint="#FFFFFF"></Button>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/일식"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="일식"
+                    android:textAllCaps="true"
+                    android:textColor="#090808"
+                    android:textSize="24sp"
+                    android:textStyle="bold|italic"
+                    app:backgroundTint="#FFFFFF"></Button>
+
+                <View
+                    android:layout_width="5dp"
+                    android:layout_height="0dp"></View>
+
+                <Button
+                    android:id="@+id/한식"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="한식"
+                    android:textAllCaps="true"
+                    android:textColor="#090808"
+                    android:textSize="24sp"
+                    android:textStyle="bold|italic"
+                    app:backgroundTint="#FFFFFF"></Button>
+
+                <View
+                    android:layout_width="5dp"
+                    android:layout_height="0dp"></View>
+
+                <Button
+                    android:id="@+id/패스트푸드"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="패스트푸드"
+                    android:textAllCaps="true"
+                    android:textColor="#090808"
+                    android:textSize="24sp"
+                    android:textStyle="bold|italic"
+                    app:backgroundTint="#FFFFFF"></Button>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/음료"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="음료"
+                    android:textAllCaps="true"
+                    android:textColor="#090808"
+                    android:textSize="24sp"
+                    android:textStyle="bold|italic"
+                    app:backgroundTint="#FFFFFF"></Button>
+
+                <View
+                    android:layout_width="5dp"
+                    android:layout_height="0dp"></View>
+
+                <Button
+                    android:id="@+id/카페디저트"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="카페   디저트"
+                    android:textAllCaps="true"
+                    android:textColor="#090808"
+                    android:textSize="24sp"
+                    android:textStyle="bold|italic"
+                    app:backgroundTint="#FFFFFF"></Button>
+
+                <View
+                    android:layout_width="5dp"
+                    android:layout_height="0dp"></View>
+
+                <Button
+                    android:id="@+id/zeroKcal"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:textColor="#090808"
+                    android:textSize="20dp"
+                    android:text="0  KCAL"
+                    app:backgroundTint="#FFFFFF"></Button>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/food_graph"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="30dp"
+        android:background="@android:color/transparent"
+        android:padding="0dp"
+        android:scaleType="center"
+        android:src="@drawable/graph"
+        app:backgroundTint="#FAA0A0"
+        app:fabCustomSize="80dp">
+
+    </com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+</FrameLayout>

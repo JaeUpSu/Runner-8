@@ -1,0 +1,1791 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "PMNTN_SPOT" : "PMNTN_SPOT",
+    "MNTN_CODE" : "MNTN_CODE",
+    "MANAGE_SP1" : "MANAGE_SP1",
+    "MANAGE_SP2" : "MANAGE_SP2",
+    "DETAIL_SPO" : "DETAIL_SPO",
+    "ETC_MATTER" : "ETC_MATTER",
+    "MNTN_NM" : "MNTN_NM",
+    "PAST_SPOT_" : "PAST_SPOT_",
+    "MNTN_ID" : "MNTN_ID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkt" : "PROJCS[\"PCS_ITRF2000_TM\",GEOGCS[\"GCS_ITRF_2000\",DATUM[\"D_ITRF_2000\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",200000.0],PARAMETER[\"False_Northing\",600000.0],PARAMETER[\"Central_Meridian\",127.0],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",38.0],UNIT[\"Meter\",1.0]]"
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "PMNTN_SPOT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PMNTN_SPOT"
+    },
+    {
+      "name" : "MNTN_CODE",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_CODE",
+      "length" : 9
+    },
+    {
+      "name" : "MANAGE_SP1",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP1",
+      "length" : 2
+    },
+    {
+      "name" : "MANAGE_SP2",
+      "type" : "esriFieldTypeString",
+      "alias" : "MANAGE_SP2",
+      "length" : 50
+    },
+    {
+      "name" : "DETAIL_SPO",
+      "type" : "esriFieldTypeString",
+      "alias" : "DETAIL_SPO",
+      "length" : 200
+    },
+    {
+      "name" : "ETC_MATTER",
+      "type" : "esriFieldTypeString",
+      "alias" : "ETC_MATTER",
+      "length" : 200
+    },
+    {
+      "name" : "MNTN_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_NM",
+      "length" : 50
+    },
+    {
+      "name" : "PAST_SPOT_",
+      "type" : "esriFieldTypeString",
+      "alias" : "PAST_SPOT_",
+      "length" : 14
+    },
+    {
+      "name" : "MNTN_ID",
+      "type" : "esriFieldTypeString",
+      "alias" : "MNTN_ID",
+      "length" : 10
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "PMNTN_SPOT" : 75091,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "기차바위",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000001",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196357.08650000021,
+        "y" : 554275.82790000364
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "PMNTN_SPOT" : 75092,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "입.출구",
+        "ETC_MATTER" : "옥인아파트뒤쪽",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000002",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196625.84340000246,
+        "y" : 553797.345900001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "PMNTN_SPOT" : 75093,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "석굴암1약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000003",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196550.57170000114,
+        "y" : 553860.70850000158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "PMNTN_SPOT" : 75094,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "석굴암",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000004",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196455.51630000025,
+        "y" : 553944.38049999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "PMNTN_SPOT" : 75095,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "만수천약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000005",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196628.36259999964,
+        "y" : 553948.56780000217
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "PMNTN_SPOT" : 75096,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "입출구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000006",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196545.67950000055,
+        "y" : 553146.36110000126
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "PMNTN_SPOT" : 75097,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "인왕산약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000007",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196326.00160000008,
+        "y" : 553359.44720000215
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "PMNTN_SPOT" : 75098,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "삼성각",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000008",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196362.80480000004,
+        "y" : 553290.49499999918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "PMNTN_SPOT" : 75099,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "선바위",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000009",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196386.98590000253,
+        "y" : 553261.21620000154
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "PMNTN_SPOT" : 75100,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "국사당",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000010",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196423.83670000173,
+        "y" : 553257.35940000042
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "PMNTN_SPOT" : 75101,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "인왕사종무소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000011",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196465.62310000136,
+        "y" : 553188.37220000103
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "PMNTN_SPOT" : 75102,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "부암약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000012",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196469.78270000126,
+        "y" : 554509.88760000467
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "PMNTN_SPOT" : 75103,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "입.출구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000013",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196495.07790000085,
+        "y" : 554652.23159999959
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "PMNTN_SPOT" : 75104,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "성덕사약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000014",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196369.03360000253,
+        "y" : 554737.76080000401
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "PMNTN_SPOT" : 75105,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "진각사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000015",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196451.71050000191,
+        "y" : 555343.12750000134
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "PMNTN_SPOT" : 75106,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "인호약수",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000016",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196166.62920000032,
+        "y" : 553684.53170000203
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "PMNTN_SPOT" : 75107,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "놀이기구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000017",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195938.80790000036,
+        "y" : 553517.80430000089
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "PMNTN_SPOT" : 75108,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "청련사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000018",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195901.9124999987,
+        "y" : 553917.27370000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "PMNTN_SPOT" : 75109,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "홍인약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000019",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196033.24600000028,
+        "y" : 553884.86559999734
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "PMNTN_SPOT" : 75110,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "평화통일기념석탑",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000020",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195862.62730000168,
+        "y" : 554970.47309999913
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "PMNTN_SPOT" : 75111,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "입.출구",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000021",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196003.94940000027,
+        "y" : 554580.9616000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "PMNTN_SPOT" : 75112,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "청운동공원",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000022",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196929.77830000129,
+        "y" : 554556.59080000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "PMNTN_SPOT" : 75113,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : "홍제3동",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000023",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195558.45000000019,
+        "y" : 554450.4824000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "PMNTN_SPOT" : 75114,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점,쌈지공원",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000024",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195594.52930000052,
+        "y" : 554629.21130000241
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "PMNTN_SPOT" : 75115,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000025",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195713.29080000054,
+        "y" : 554465.2105000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "PMNTN_SPOT" : 75116,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000026",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195734.16410000063,
+        "y" : 554785.93110000156
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "PMNTN_SPOT" : 75117,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000027",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195744.64500000235,
+        "y" : 554112.33030000329
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "PMNTN_SPOT" : 75118,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000028",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195745.19749999978,
+        "y" : 554069.87409999967
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "PMNTN_SPOT" : 75119,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000029",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195815.84140000027,
+        "y" : 554801.65860000066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "PMNTN_SPOT" : 75120,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : "홍제3동",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000030",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195823.27870000154,
+        "y" : 554979.12840000167
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "PMNTN_SPOT" : 75121,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : "홍제동",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000031",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195862.75280000083,
+        "y" : 553529.6855999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "PMNTN_SPOT" : 75122,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000032",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195916.54110000376,
+        "y" : 554269.30260000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "PMNTN_SPOT" : 75123,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000033",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195969.44770000409,
+        "y" : 554140.36649999954
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "PMNTN_SPOT" : 75124,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000034",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195972.13080000039,
+        "y" : 555049.10779999942
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "PMNTN_SPOT" : 75125,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000035",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195990.62920000032,
+        "y" : 554812.72260000184
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "PMNTN_SPOT" : 75126,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000036",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 195992.66630000155,
+        "y" : 554144.18889999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "PMNTN_SPOT" : 75127,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "환희사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000037",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196011.5931000011,
+        "y" : 554143.68139999919
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "PMNTN_SPOT" : 75128,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000038",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196014.91355948988,
+        "y" : 554105.37889495678
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "PMNTN_SPOT" : 75129,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000039",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196021.99110000115,
+        "y" : 553838.14750000089
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "PMNTN_SPOT" : 75130,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000040",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196032.52440000232,
+        "y" : 555107.90360000171
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "PMNTN_SPOT" : 75131,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000041",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196084.83970000036,
+        "y" : 554703.51240000129
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "PMNTN_SPOT" : 75132,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "용천약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000042",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196093.26680000126,
+        "y" : 554945.50720000081
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "PMNTN_SPOT" : 75133,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000043",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196113.41550000384,
+        "y" : 553746.83390000276
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "PMNTN_SPOT" : 75134,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000044",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196126.40390000306,
+        "y" : 554281.71260000207
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "PMNTN_SPOT" : 75135,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000045",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196180.61610000208,
+        "y" : 553686.50569999963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "PMNTN_SPOT" : 75136,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "옥동약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000046",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196183.42619999871,
+        "y" : 554220.91360000335
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "PMNTN_SPOT" : 75137,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : "홍지문옆",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000047",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196200.95430000033,
+        "y" : 555478.71629999951
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "PMNTN_SPOT" : 75138,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000048",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196225.40530000161,
+        "y" : 554188.89089999907
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "PMNTN_SPOT" : 75139,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000049",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196229.38080000039,
+        "y" : 554278.9635000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "PMNTN_SPOT" : 75140,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000050",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196255.49390000105,
+        "y" : 553668.49700000137
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "PMNTN_SPOT" : 75141,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000051",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196265.73730000108,
+        "y" : 553634.60480000451
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "PMNTN_SPOT" : 75142,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000052",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196274.65170000307,
+        "y" : 554359.06010000221
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "PMNTN_SPOT" : 75143,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "23",
+        "MANAGE_SP2" : "정상",
+        "DETAIL_SPO" : "인왕산정상",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000053",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196280.61540000141,
+        "y" : 553928.77679999918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "PMNTN_SPOT" : 75144,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000054",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196287.55420000106,
+        "y" : 553882.66860000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "PMNTN_SPOT" : 75145,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000055",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196293.292600004,
+        "y" : 554510.45480000228
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "PMNTN_SPOT" : 75146,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000056",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196296.72400000039,
+        "y" : 554651.98780000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "PMNTN_SPOT" : 75147,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000057",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196297.46239999961,
+        "y" : 554590.50850000232
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "PMNTN_SPOT" : 75148,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000058",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196303.16080000065,
+        "y" : 554776.88940000162
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "PMNTN_SPOT" : 75149,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000059",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196310.94700000342,
+        "y" : 555391.57400000095
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "PMNTN_SPOT" : 75150,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000060",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196365.30540000089,
+        "y" : 555163.90690000169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "PMNTN_SPOT" : 75151,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000061",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196386.65570000093,
+        "y" : 555030.89650000073
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "PMNTN_SPOT" : 75152,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000062",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196389.27600000054,
+        "y" : 554737.89590000175
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "PMNTN_SPOT" : 75153,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000063",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196392.38559999969,
+        "y" : 554155.08919999935
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "PMNTN_SPOT" : 75154,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000064",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196393.57290000003,
+        "y" : 554083.97069999948
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "PMNTN_SPOT" : 75155,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "보은사",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000065",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196397.10850000009,
+        "y" : 554813.86470000446
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "PMNTN_SPOT" : 75156,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000066",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196408.87370000314,
+        "y" : 553673.0877000019
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "PMNTN_SPOT" : 75157,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "인왕천약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000067",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196424.97259999998,
+        "y" : 553685.27820000052
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "PMNTN_SPOT" : 75158,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000068",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196425.67370000202,
+        "y" : 555435.89310000278
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "PMNTN_SPOT" : 75159,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000069",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196471.31260000076,
+        "y" : 554706.45610000007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "PMNTN_SPOT" : 75160,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "돌산약수터",
+        "ETC_MATTER" : "적합",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000070",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196476.3189000003,
+        "y" : 554912.78780000098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "PMNTN_SPOT" : 75161,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "06",
+        "MANAGE_SP2" : "음수대",
+        "DETAIL_SPO" : "석굴암2약수터",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000071",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196498.66950000171,
+        "y" : 553978.50180000067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "PMNTN_SPOT" : 75162,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000072",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196548.51719999965,
+        "y" : 555460.32609999925
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "PMNTN_SPOT" : 75163,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점,무악동지하수",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000073",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196553.12190000061,
+        "y" : 553088.944000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "PMNTN_SPOT" : 75164,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000074",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196614.93479999993,
+        "y" : 553817.75029999949
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "PMNTN_SPOT" : 75165,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000075",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196634.17040000204,
+        "y" : 554157.50720000453
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "PMNTN_SPOT" : 75166,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000076",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196634.29030000418,
+        "y" : 553584.33840000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "PMNTN_SPOT" : 75167,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000077",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196636.26400000229,
+        "y" : 553800.26850000024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "PMNTN_SPOT" : 75168,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000078",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196640.70830000099,
+        "y" : 553177.48630000092
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "PMNTN_SPOT" : 75169,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000079",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196643.19770000037,
+        "y" : 553715.8582000006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "PMNTN_SPOT" : 75170,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000080",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196685.65410000086,
+        "y" : 554233.97540000081
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "PMNTN_SPOT" : 75171,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000081",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196690.36990000308,
+        "y" : 553506.90420000255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "PMNTN_SPOT" : 75172,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점,윤웅렬별서",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000082",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196692.3359000003,
+        "y" : 554544.03280000202
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "PMNTN_SPOT" : 75173,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000083",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196715.89870000165,
+        "y" : 553985.86880000122
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "PMNTN_SPOT" : 75174,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "99",
+        "MANAGE_SP2" : "기타",
+        "DETAIL_SPO" : "입.출구",
+        "ETC_MATTER" : "부암동무계정사4길",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000084",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196718.2201000005,
+        "y" : 554366.76080000214
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "PMNTN_SPOT" : 75175,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000085",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196764.62190000154,
+        "y" : 553284.4495000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "PMNTN_SPOT" : 75176,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000086",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196813.55070000142,
+        "y" : 553876.17020000331
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "PMNTN_SPOT" : 75177,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000087",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196825.72120000143,
+        "y" : 553807.96800000221
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "PMNTN_SPOT" : 75178,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000088",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196826.14230000135,
+        "y" : 553451.00689999945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "PMNTN_SPOT" : 75179,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점,부암동사무소",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000089",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196834.76910000294,
+        "y" : 554790.7936000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "PMNTN_SPOT" : 75180,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점,해맞이동산",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000090",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196887.17420000024,
+        "y" : 553765.25620000251
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "PMNTN_SPOT" : 75181,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000091",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196894.46239999961,
+        "y" : 553361.61500000395
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "PMNTN_SPOT" : 75182,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "02",
+        "MANAGE_SP2" : "분기점",
+        "DETAIL_SPO" : "분기점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000092",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196899.68290000129,
+        "y" : 554393.00880000554
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "PMNTN_SPOT" : 75183,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점,단군신전",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000093",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196968.28510000091,
+        "y" : 552893.14429999888
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "PMNTN_SPOT" : 75184,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000094",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 197135.39670000132,
+        "y" : 554735.46250000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "PMNTN_SPOT" : 75185,
+        "MNTN_CODE" : "114100401",
+        "MANAGE_SP1" : "01",
+        "MANAGE_SP2" : "시종점",
+        "DETAIL_SPO" : "시종점",
+        "ETC_MATTER" : " ",
+        "MNTN_NM" : "인왕산",
+        "PAST_SPOT_" : "11142304000095",
+        "MNTN_ID" : "1114230400"
+      },
+      "geometry" : {
+        "x" : 196458.58050000202,
+        "y" : 553074.20420000143
+      }
+    }
+  ]
+}

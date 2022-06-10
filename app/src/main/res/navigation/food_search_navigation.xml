@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/food_search_navigation"
+    app:startDestination="@+id/nav_search">
+
+    <fragment
+        android:id="@+id/nav_search"
+        android:name="com.example.Runner8.ui.F_H.calorieDictionary.CalorieDictionaryFragment"
+        tools:layout="@layout/fragment_calorie_dictionary" >
+
+        <action
+            android:id="@+id/action_nav_search_to_nav_food_detail"
+            app:destination="@id/nav_food_detail" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_food_detail"
+        android:name="com.example.Runner8.ui.F_H.calorie.Fragment.FoodDetailFragment"
+        tools:layout="@layout/fragment_food_detail" >
+        <action
+            android:id="@+id/action_nav_food_detail_to_nav_search"
+            app:destination="@id/nav_search" />
+    </fragment>
+
+</navigation>

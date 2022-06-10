@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="145dp"
+        android:background="@drawable/board_content2"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="125dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:text=" {내위치}, {상대위치} 는 도착지점으로부터
+            \n 거리를 의미합니다! 위 두가지 명령어로
+            \n 문장을 조합해주세요! \n # tip1. { } 사용필수! 잘못 기입하면 안됩니다!
+            \n # tip2. 해당 내용을 비워두면 안내를
+            \n 안받을 수 있습니다! "
+            android:textColor="@color/black"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:orientation="vertical">
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="7dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="1. 내 위치를 알릴 때 !"
+        android:textStyle="bold"
+        android:textSize="17sp"/>
+
+    <EditText
+        android:id="@+id/edit_myLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:text="도착지점으로 부터 {내위치} 남았습니다!"
+        android:textColor="#858585"
+        android:textSize="16sp" />
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="7dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. 상대 위치를 알릴 때 !"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="17sp"/>
+
+    <EditText
+        android:id="@+id/edit_oppLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:text="상대가 도착지점으로 부터 {상대위치} 남았습니다!"
+        android:textColor="#858585"
+        android:textSize="16sp" />
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="7dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="3. 내가 상대를 앞서 나갈려할 때 ! \n\t\t(+ 반대의경우)"
+        android:textStyle="bold"
+        android:textSize="17sp"/>
+
+    <EditText
+        android:id="@+id/edit_myPrecedeBefore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:hint="앞서기 전"
+        android:text="상대가 바로 앞에 있습니다!"
+        android:textColor="#858585"
+        android:textSize="16sp" />
+    <EditText
+        android:id="@+id/edit_myPrecedeAfter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:hint="앞선 후"
+        android:text="상대를 추월했습니다!"
+        android:textColor="#858585"
+        android:textSize="16sp" />
+    <EditText
+        android:id="@+id/edit_oppPrecedeBefore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:hint="추월당하기 전"
+        android:text="상대가 바로 뒤에 있습니다!"
+        android:textColor="#858585"
+        android:textSize="16sp" />
+    <EditText
+        android:id="@+id/edit_oppPrecedeAfter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:hint="추월당한 후"
+        android:text="상대가 나를 추월했습니다!"
+        android:textColor="#858585"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_gravity="right">
+
+        <TextView
+            android:id="@+id/tvBtn_guideApply"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="적 용"
+            android:textSize="17sp"
+            android:textColor="#006E9F"/>
+
+
+        <TextView
+            android:id="@+id/tvBtn_guideCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="취 소"
+            android:textSize="17sp"
+            android:textColor="#006E9F"/>
+
+        <TextView
+            android:id="@+id/tvBtn_guideClear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:text="초기화"
+            android:textSize="17sp"
+            android:textColor="#006E9F"/>
+    </LinearLayout>
+    </LinearLayout>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/tbtn_sound"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="320dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="right"
+            android:src="@drawable/sound"/>
+    </FrameLayout>
+</LinearLayout>

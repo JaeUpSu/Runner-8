@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="340dp"
+    android:layout_height="160dp"
+    android:background="#494949"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/board_content2">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="코스 등록"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="27dp"
+        android:layout_gravity="right"
+
+        android:orientation="horizontal">
+    </LinearLayout>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="7dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Q. 원하시는 코스명을 입력해주세요!"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="17sp"/>
+
+    <EditText
+        android:id="@+id/edit_courseName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:hint="(입력 안할 시 코스명 :  닉네임 + n + 로 )"
+        android:textSize="17sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="right">
+        <TextView
+            android:id="@+id/tvBtn_courseRegist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="등 록"
+            android:textSize="17sp"
+            android:textColor="#1FBAFF"/>
+
+        <TextView
+            android:id="@+id/tvBtn_courseCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="취 소"
+            android:textSize="17sp"
+            android:textColor="#1FBAFF"/>
+
+        <TextView
+            android:id="@+id/tvBtn_resume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="이어서"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp"
+            android:textSize="17sp"
+            android:textColor="#1FBAFF">
+
+        </TextView>
+
+    </LinearLayout>
+</LinearLayout>
