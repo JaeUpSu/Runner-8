@@ -1,1 +1,13 @@
 Runner8 filter=lfs diff=lfs merge=lfs -text
+build filter=lfs diff=lfs merge=lfs -text
+google-services.json filter=lfs diff=lfs merge=lfs -text
+gradlew filter=lfs diff=lfs merge=lfs -text
+local.properties filter=lfs diff=lfs merge=lfs -text
+Memo.zip filter=lfs diff=lfs merge=lfs -text
+app filter=lfs diff=lfs merge=lfs -text
+gradle filter=lfs diff=lfs merge=lfs -text
+gradle.properties filter=lfs diff=lfs merge=lfs -text
+gradlew.bat filter=lfs diff=lfs merge=lfs -text
+settings.gradle filter=lfs diff=lfs merge=lfs -text
+bfg-1.14.0.jar filter=lfs diff=lfs merge=lfs -text
+build.gradle filter=lfs diff=lfs merge=lfs -text

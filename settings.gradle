@@ -1,2 +1,3 @@
-include ':app'
-rootProject.name = "Menu"
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a61f25316789a761518350a1cbead1f2c0bb011b01828e638def5f51f4bff4a
+size 41
