@@ -3,13 +3,14 @@
   > 달리기 경쟁 다이어트 App (안드로이드)
 
 ## ⚒️ Skills 
-  Android Studio
-  FireStore [RDB]
-  Java
-  Google GPS
-  Naver map
-  No Sql
-  
+<div>
+  <p>Android Studio</p>
+  <p>FireStore [RDB]</p>
+  <p>Java</p>
+  <p>Google GPS</p>
+  <p>Naver map</p>
+  <p>No Sql</p>
+<div/>
   
 ## 🦴 Main Algorithm
   
