@@ -41,3 +41,10 @@
 ### Notification
 
 ## 👨‍💻 References
+
+- 칼만 필터 기반 사용자 운동거리 측정 알고리즘
+http://koreascience.or.kr/article/JAKO201905653789235.pdf
+- 고도를 고려한 정밀도 높은 운동거리 측정시스템
+https://www.koreascience.or.kr/article/JAKO201211559436231.pdf
+- 식품의약품안전처
+식품영양성분 DB
